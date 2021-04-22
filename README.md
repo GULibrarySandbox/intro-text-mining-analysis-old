@@ -1,20 +1,19 @@
-# Introduction to Data Wrangling with OpenRefine
-Self-paced [online workshop](https://griffithunilibrary.github.io/intro-data-wrangle/) developed by [Griffith University Library](https://www.griffith.edu.au/library).
+# An introduction to digital texts and tools for HASS research  
+Self-paced [online workshop](https://griffithunilibrary.github.io/...../) developed by [Griffith University Library](https://www.griffith.edu.au/library).
 
-OpenRefine is an open source tool to explore, clean, organise, combine and transform data. OpenRefine is particularly powerful when working with large datasets.
+An introduction to digital methods and tools in HASS scholarship focussing on the following in the Digital Humanities workflow:  
+- Build: where to locate and how to gather textual data for your corpora or data set   
+- Prepare: explore useful processes and tools to prepare textual data for analysis, including transcription tools to use and data recognition (OCR) to ensure machine readability  
+- Analyse: identify different types of analysis used to interrogate content and uncover new insights
 
-Learn basic data cleaning techniques in this self-paced online workshop such as:
-
-- exploring tabular data through facets and filters
-- implementing ‘tidy data’ principles
-- cleaning, organising and preparing data for analysis
-- extracting and using a script to automate wrangling on similar data
+Learning Outcomes:  
+- Understand the basic workflow of researching with digital text  
+- Basic knowledge of textual data, its types and usage considerations   
+- Ability to find textual data for digital analysis  
+- Choose the best tool for your dataset at each stage of the digital research process.  
     
-Download the software and dataset, do activities and watch videos to guide you through the lessons. Give yourself around 2 1/2 hours to complete the workshop.
+Download and play with software and datasets, do activities and watch videos to guide you through the lessons. Give yourself around ??? hours to complete the modules.
 
 All materials in these lessons are licenced CC BY.
 
-Content adapted from [Data Carpentry & Library Carpentry lessons](https://carpentries.org/).
-
 [Workshop-template-b](https://github.com/evanwill/workshop-template-b) by [evanwill](https://github.com/evanwill) is built using [Jekyll](https://jekyllrb.com/) on [GitHub Pages](https://pages.github.com/). The site is styled using Bootstrap with FontAwesome icons.
-
