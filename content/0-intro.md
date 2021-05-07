@@ -8,24 +8,26 @@ nav: true
 
 ## Text is everywhere
 
-As stated by Sinclair and Rockwell (2016), text is at present and in recorded history the main form for "communicating, discovering and processing information". Even popular non written forms of communication such as streamed videos are largely inaccessible without text-based searches of metadata such as title, description or creator. We are all, regardless of discipline, methodology, or objective, trying to gain insights from text.
+As stated by Sinclair and Rockwell (2016), text is at present and in recorded history the main form for "communicating, discovering and processing information". Even popular non written forms of communication such as streamed videos are largely inaccessible without text-based searches of metadata such as title, description or creator. 
 
-## Digitisation, indexing, linking and discovery tools has enabled better access
+## Digital collections
 
-The digitisation of primary source materials and printed documents by archives, libraries, museums and galleries has 
-enabled greater access, and new ways to find, explore, process and analyse text.
+The digitisation, OCR processing, indexing, linking and hosting of primary source materials by archives, libraries, museums and galleries has 
+enabled greater access, and new ways to find, explore, process and analyse text. 
 
 ## Text as data, big and small
 
+We are all, regardless of discipline, methodology, or objective, trying to gain insights from text.
+
 - communication scholars analyse streams of news texts and social media feeds
-- qualitative sociologists amass hours of interview transcripts 
+- qualitative sociologists process hundreds of hours of interview transcripts 
 - political scientists analyse collections of speeches and parliamentary transcripts
-- historians access previously unavailable records enabling broader perspectives
+- historians access primary source materials from remote repositories enabling broader perspectives and new research
 - literary scholars work digitally with single texts, multiple versions of text, whole corpus or person-of-interest collections
 - scientists analyse research literature and communication
 - medical and engineering researchers undertake systematic quantitative literature reviews
 
-## Computational methods:
+## Computational methods
 
 - can increase validity or reduce human bias
 - are repeatable across other data
