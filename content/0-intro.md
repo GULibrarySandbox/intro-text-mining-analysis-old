@@ -10,7 +10,15 @@ nav: true
 
 Text is the main form for "communicating, discovering and processing information" (Sinclair and Rockwell, 2016).  Even popular non written forms of communication such as streamed videos are largely inaccessible without text-based searches of metadata such as title, description or creator. 
 
-Case study: The Prosecution Project is a collaborative research project on the history of the criminal trial in Australia from 1788 to 1960. Sources of text data included Supreme Court crimial trial registers, Police Gazettes nontices, Prison and Convict Registers which are commonly located in the country's State Archives (also known as Public Record Offices in some states and territories), along with press releases and other newspaper articles  https://prosecutionproject.griffith.edu.au/
+{% capture text %}
+The Prosecution Project is a collaborative research project on the history of the criminal trial in Australia from 1788 to 1960. Sources of text data included Supreme Court crimial trial registers, Police Gazettes nontices, Prison and Convict Registers, along with press releases and other newspaper articles  https://prosecutionproject.griffith.edu.au/ .
+
+The images below include:
+- Libraries Tasmania Digital Image ID AB693-1-1 1853-1854: Registers of Criminal Cases Prosecuted by the Crown (AB693), 1853-1984. retrieved May 10, 2021, from https://stors.tas.gov.au/AB693-1-1$init=AB693-1-1_039   
+- Queensland State Archives Digital Image ID 23435: Queensland Police Gazette – Vol LXI, No 66, pp 653-654, 6 December 1924 
+https://blogs.archives.qld.gov.au/2014/08/17/catching-criminals-in-queensland-state-archives-collection/ 
+- (1907, January 16). The Advertiser (Adelaide, SA : 1889 - 1931), p. 1. Retrieved May 10, 2021, from http://nla.gov.au/nla.news-page930175
+{% endcapture %} {% include card.md header="Case study - Prosecution Project" text=text %}
 
 {% include figure.html img="2021_ProsProjSources.png" alt="Sources of text for the Prosecution Project" caption="Sources of text for the Prosecution Project" width="100%" %}
 
