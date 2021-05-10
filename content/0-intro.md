@@ -29,8 +29,9 @@ We are all, regardless of discipline, methodology, or objective, trying to gain 
 - political scientists analyse collections of speeches and parliamentary transcripts
 - historians access primary source materials from remote repositories enabling broader perspectives and new research
 - literary scholars work digitally with single texts, multiple versions of text, whole corpus or person-of-interest collections
-- scientists analyse research literature and communication
-- medical and engineering researchers undertake systematic quantitative literature reviews
+- scientists undertake network analysis research literature
+- medical researchers analyse electronic patient records
+- engineers can explore trends and patterns via text in quality documentation
 
 ### Computational methods
 
