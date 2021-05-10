@@ -8,7 +8,7 @@ nav: true
 
 ### Text is everywhere
 
-Text is at present and in recorded history the main form for "communicating, discovering and processing information" (Sinclair and Rockwell, 2016).  Even popular non written forms of communication such as streamed videos are largely inaccessible without text-based searches of metadata such as title, description or creator. 
+Text is the main form for "communicating, discovering and processing information" (Sinclair and Rockwell, 2016).  Even popular non written forms of communication such as streamed videos are largely inaccessible without text-based searches of metadata such as title, description or creator. 
 
 Case study: The Prosecution Project is a collaborative research project on the history of the criminal trial in Australia from 1788 to 1960. Sources of text data included Supreme Court crimial trial registers, Police Gazettes nontices, Prison and Convict Registers which are commonly located in the country's State Archives (also known as Public Record Offices in some states and territories), along with press releases and other newspaper articles  https://prosecutionproject.griffith.edu.au/
 
@@ -29,9 +29,9 @@ We are all, regardless of discipline, methodology, or objective, trying to gain 
 - political scientists analyse collections of speeches and parliamentary transcripts
 - historians access primary source materials from remote repositories enabling broader perspectives and new research
 - literary scholars work digitally with single texts, multiple versions of text, whole corpus or person-of-interest collections
-- scientists undertake network analysis research literature
+- scientists undertake network analysis of research literature
 - medical researchers analyse electronic patient records
-- engineers can explore trends and patterns via text in quality documentation
+- engineers explore trends and patterns via text in quality documentation
 
 ### Computational methods
 
