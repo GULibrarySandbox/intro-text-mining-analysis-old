@@ -13,7 +13,7 @@ Text is the main form for "communicating, discovering and processing information
 {% capture text %}
 The Prosecution Project is a collaborative research project on the history of the criminal trial in Australia from 1788 to 1960. Sources of text data included Supreme Court crimial trial registers, Police Gazettes nontices, Prison and Convict Registers, along with press releases and other newspaper articles  https://prosecutionproject.griffith.edu.au/ .
 
-The images below include:
+The images below include example source materials:
 - Libraries Tasmania Digital Image ID AB693-1-1 1853-1854: Registers of Criminal Cases Prosecuted by the Crown (AB693), 1853-1984. retrieved May 10, 2021, from (https://stors.tas.gov.au/AB693-1-1$init=AB693-1-1_039) [https://stors.tas.gov.au/AB693-1-1$init=AB693-1-1_039] 
 - (1907, January 16). The Advertiser (Adelaide, SA : 1889 - 1931), p. 1. Retrieved May 10, 2021, from (http://nla.gov.au/nla.news-page930175) [http://nla.gov.au/nla.news-page930175]
 - Queensland State Archives Digital Image ID 23435: Queensland Police Gazette – Vol LXI, No 66, pp 653-654, 6 December 1924 
