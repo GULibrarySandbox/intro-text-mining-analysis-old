@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-## Introduction to Data Wrangling with OpenRefine
+## Introduction to text mining and analysis
 
 {% include figure.html img="GC_Campus_LM-3181.jpg" alt="intro image here" caption="" width="75%" %}
 
