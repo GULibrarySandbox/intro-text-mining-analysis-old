@@ -43,18 +43,7 @@ Automating repetative tasks, working with numbers and big data, are all things c
 - allow visual exploration of text
 - use statistical analysis methods 
 
-## 
 
-
-##### Online
-
-You can find out more at the [OpenRefine](http://openrefine.org) website.  Check out the [documentation](http://openrefine.org/documentation.html) and great introductory videos. These videos and others on OpenRefine can also be found on YouTube - use the search term 'OpenRefine'.
-
-There is a [Google Group](https://groups.google.com/forum/#!forum/openrefine) that can answer a lot of beginner questions and problems.
-
-##### At Griffith University
-
-Help is available from eResearch and Library specialists at Griffith University. Get in touch with us [here](https://intranet.secure.griffith.edu.au/library/forms/help) for an online consultation.
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-data-wrangle/"><-- BACK</a> |
