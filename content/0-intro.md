@@ -12,7 +12,7 @@ Text is at present and in recorded history the main form for "communicating, dis
 
 Case study: The Prosecution Project is a collaborative research project on the history of the criminal trial in Australia from 1788 to 1960. Sources of text data included Supreme Court crimial trial registers, Police Gazettes nontices, Prison and Convict Registers which are commonly located in the country's State Archives (also known as Public Record Offices in some states and territories), along with press releases and other newspaper articles  https://prosecutionproject.griffith.edu.au/
 
-
+{% include figure.html img="2021_ProsProjSources.png" alt="Sources of text for the Prosecution Project" caption="Sources of text for the Prosecution Project" width="100%" %}
 
 ### Digital collections
 
