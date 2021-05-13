@@ -7,10 +7,10 @@ layout: default
 
 {% include figure.html img="wordsearch.png" alt="intro image here" caption="" width="25%" %}
 
-An introduction to text mining and analysis. Learn the steps to: 
+Learn steps to: 
 
-- Build:  where to locate and how to gather textual data for your corpora or data set  
-- Prepare:  explore useful processes and tools to prepare textual data for analysis, including transcription tools to use and data recognition (OCR) to ensure machine readability 
+- Build:    find where and how to gather textual data for your corpora or data set  
+- Prepare:  explore useful processes and tools to prepare textual data for analysis
 - Analyse:  identify different types of analysis used to interrogate content and uncover new insights
 
 Learning Outcomes: 
