@@ -35,11 +35,11 @@ Finnane, M., & Piper, A. (2016). The Prosecution Project: Understanding the Chan
 
 {% include figure.html img="ProsectionProject_image_1.png" alt="Prosecution Project database" caption="Prosecution Project database" width="100%" %}
 
-### Text as data, big and small
+### Text as data, big or small
 
 We are all, regardless of discipline, methodology, or objective, trying to gain insights from text.
 
-- communication scholars analyse streams of news texts and social media feeds
+- communication scholars analyse news texts and [social media feeds](https://doi-org.libraryproxy.griffith.edu.au/10.1080/13669877.2019.1673798)
 - qualitative sociologists process and analyse hundreds of hours of interview transcripts 
 - political scientists analyse collections of speeches and parliamentary transcripts
 - historians access primary source materials from remote repositories enabling broader perspectives and new research
