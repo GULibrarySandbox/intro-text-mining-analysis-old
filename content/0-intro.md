@@ -39,14 +39,15 @@ Finnane, M., & Piper, A. (2016). The Prosecution Project: Understanding the Chan
 
 We are all, regardless of discipline, methodology, or objective, trying to gain insights from text.
 
-- communication scholars analyse news texts and [social media feeds](https://doi-org.libraryproxy.griffith.edu.au/10.1080/13669877.2019.1673798)
-- qualitative sociologists process and analyse hundreds of hours of interview transcripts 
-- political scientists analyse collections of speeches and parliamentary transcripts
-- historians access primary source materials from remote repositories enabling broader perspectives and new research
-- literary scholars work digitally with single texts, multiple versions of text, whole corpus or person-of-interest collections
+- communication scholars analyse [news texts](https://doi-org.libraryproxy.griffith.edu.au/10.1080/17524032.2015.1056542) and [social media feeds](https://doi-org.libraryproxy.griffith.edu.au/10.1080/13669877.2019.1673798)
+- qualitative sociologists process and analyse hundreds of hours of [interview transcripts] (https://research-repository.griffith.edu.au/handle/10072/386927) 
+- political scientists analyse [collections of speeches](https://research-repository.griffith.edu.au/handle/10072/401011) and [parliamentary transcripts](https://doi.org/10.1017/S0738248016000304)
+- historians access primary source materials from remote repositories enabling broader perspectives and [new research](https://research-repository.griffith.edu.au/handle/10072/380293)
+- literary scholars work digitally with [single texts](https://academic-oup-com.libraryproxy.griffith.edu.au/dsh/article/32/suppl_1/i17/2755123), [multiple versions](http://librarycatalogue.griffith.edu.au/record=b2773844) of text, [whole corpus or person-of-interest collections](https://publications.hse.ru/en/chapters/158772968)
 - scientists undertake network analysis of research literature
 - medical researchers analyse electronic patient records
 - engineers explore trends and patterns via text in quality documentation
+- legal scholars examine case law and legislation
 
 ### Computational methods
 
