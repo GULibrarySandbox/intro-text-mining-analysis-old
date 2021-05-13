@@ -26,7 +26,7 @@ The images below include example source materials:
 
 The digitisation, Optical Character Recognition (OCR) processing, indexing, linking, and online hosting of primary source materials by archives, libraries, museums and galleries has enabled greater access, and new ways to find, explore, process and analyse text. 
 
-{Capture text%}
+{% capture text %}
 Prosecution Project researchers worked with a team of eResearch specialists and database and web designers to develop a structured database managed through a secure web portal. With the support of volunteers, they undertook massive digitisation, transcription and indexing work resulting in a longitudinal database of criminal prosecutions never before available in Australia. They also recognized the potential of enriching the data via links to the sources used such as newspaper articles in National Library of Australia TROVE database.  
 Read more: 
 Finnane, M., & Piper, A. (2016). The Prosecution Project: Understanding the Changing Criminal Trial Through Digital Tools. Law and History Review, 34(4), 873-891. doi:10.1017/S0738248016000316
