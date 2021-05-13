@@ -32,6 +32,8 @@ Read more:
 Finnane, M., & Piper, A. (2016). The Prosecution Project: Understanding the Changing Criminal Trial Through Digital Tools. Law and History Review, 34(4), 873-891. doi:10.1017/S0738248016000316
 {% endcapture %} {% include card.md header="Case study - Digitisation and Prosecution Project" text=text %}
 
+{% include figure.html img="ProsectionProject_image_1.png" alt="Prosecution Project database" caption="Prosecution Project database" width="100%" %}
+
 ### Text as data, big and small
 
 We are all, regardless of discipline, methodology, or objective, trying to gain insights from text.
