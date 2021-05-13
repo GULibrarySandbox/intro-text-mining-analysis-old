@@ -47,7 +47,7 @@ We are all, regardless of discipline, methodology, or objective, trying to gain 
 - literary scholars work digitally with [single texts](https://academic-oup-com.libraryproxy.griffith.edu.au/dsh/article/32/suppl_1/i17/2755123), [multiple versions](http://librarycatalogue.griffith.edu.au/record=b2773844) of text, [whole corpus or person-of-interest collections](https://publications.hse.ru/en/chapters/158772968)
 - environmental scientists undertake [network analysis of research literature](https://research-repository.griffith.edu.au/handle/10072/403109)
 - medical researchers analyse electronic [patient records](https://link-springer-com.libraryproxy.griffith.edu.au/book/10.1007/978-3-319-78503-5)
-- legal scholars examine case law and legislation 
+- legal scholars examine via digital methods [case law and legislation](https://www-annualreviews-org.libraryproxy.griffith.edu.au/doi/10.1146/annurev-lawsocsci-052720-121843#_i9)
 
 ### Computational methods
 
@@ -58,7 +58,7 @@ Automating repetative tasks, working with numbers and big data, are all things c
 - help understand texts and underlying social and cultural phenomena at scale
 - expand textual studies with temporal or geographical context 
 - allow visual exploration of text
-- use statistical analysis methods 
+- use [statistical analysis methods](https://journals-sagepub-com.libraryproxy.griffith.edu.au/doi/pdf/10.1177/1532673X02030002003)
 
 
 
