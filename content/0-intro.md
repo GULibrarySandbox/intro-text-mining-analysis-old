@@ -63,6 +63,6 @@ Automating repetative tasks, working with numbers and big data, are all things c
 
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/"><-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/1-intro.html">NEXT --></a>
 </p> 
