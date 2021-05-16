@@ -53,10 +53,10 @@ We are all, regardless of discipline, methodology, or objective, trying to gain 
 
 Automating repetative tasks, working with numbers and big data, are all things computers are good at, but what about text?  You can use computational methods with text to:
 - increase [validity](https://doi-org.libraryproxy.griffith.edu.au/10.1177%2F1466138117725340)
-- repeat processes and analysis on other other text or corpus
+- [repeat processes and analysis](https://glam-workbench.net/hansard/) on other other text or corpus
 - enable broader questions of [larger corpora](https://muso.arts.gla.ac.uk/index.html)
 - help understand texts and [underlying social and cultural phenomena at scale](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/detail.action?docID=5772971)
-- expand textual studies with temporal or geographical context 
+- expand textual studies with [temporal or geographical context](https://glam-workbench.net/web-archives/#exploring-change-over-time)
 - create [visual exploration](http://www.sixdegreesoffrancisbacon.com/) of text
 - use [statistical analysis methods](https://journals-sagepub-com.libraryproxy.griffith.edu.au/doi/pdf/10.1177/1532673X02030002003)
 
