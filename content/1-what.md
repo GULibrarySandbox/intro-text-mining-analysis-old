@@ -6,8 +6,7 @@ nav: true
 
 -----
 
-###
-### Activities, workflows
+### Activities, 
 
 
 {% include figure.html img="OpenRefine.JPG" alt="OpenRefine software" caption="OpenRefine" width="100%" %}
