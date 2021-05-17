@@ -1,5 +1,5 @@
 ---
-title: Numbers
+title: Visualise
 nav: true
 ---
 # Examining Numbers in OpenRefine
@@ -47,6 +47,6 @@ Note that closing a facet will not undo the edits you have made to the cells in 
 -----
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/6-lesson.html"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/8-lesson.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/6-analyse.html"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/8-help.html">NEXT --></a>
 </p>
