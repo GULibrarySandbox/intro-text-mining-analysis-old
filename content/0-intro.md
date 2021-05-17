@@ -18,7 +18,7 @@ The images below include example source materials:
 - (1907, January 16). The Advertiser (Adelaide, SA : 1889 - 1931), p. 1. Retrieved May 10, 2021, from [http://nla.gov.au/nla.news-page930175](http://nla.gov.au/nla.news-page930175)
 - Queensland State Archives Digital Image ID 23435: Queensland Police Gazette – Vol LXI, No 66, pp 653-654, 6 December 1924 
 [https://blogs.archives.qld.gov.au/2014/08/17/catching-criminals-in-queensland-state-archives-collection/](https://blogs.archives.qld.gov.au/2014/08/17/catching-criminals-in-queensland-state-archives-collection/)
-{% endcapture %} {% include card.md header="Case study - Sources of text for the Prosecution Project" text=text %}
+{% endcapture %} {% include card.md header="Case study - The Prosecution Project - Finding sources" text=text %}
 
 {% include figure.html img="2021_ProsProjSources.png" alt="Sources of text for the Prosecution Project" caption="Sources of text for the Prosecution Project" width="100%" %}
 
@@ -38,14 +38,13 @@ We are all, regardless of discipline, methodology, or objective, trying to gain 
 
 ### Digital collections enable us to build a corpus or dataset of text
 
-The digitisation, Optical Character Recognition (OCR) processing, indexing, linking, and online hosting of primary source materials by archives, libraries, museums and galleries has enabled greater access, and new ways to find, explore, process and analyse text. 
+The digitisation, Optical Character Recognition (OCR) processing, indexing, encoding, and online hosting of primary source materials by archives, libraries, museums and galleries has enabled greater access, and new ways to find, explore, process and analyse text. 
 
 {% capture text %}
 Prosecution Project researchers worked with a team of eResearch specialists and database and web designers to develop a structured database managed through a secure web portal. With the support of volunteers, they undertook massive digitisation, transcription and indexing work resulting in a longitudinal database of criminal prosecutions never before available in Australia. They also recognized the potential of enriching the data via links to the sources used such as newspaper articles in National Library of Australia TROVE database.  
 Read more about the project at: 
-
 Finnane, M., & Piper, A. (2016). The Prosecution Project: Understanding the Changing Criminal Trial Through Digital Tools. Law and History Review, 34(4), 873-891. [doi:10.1017/S0738248016000316](doi:10.1017/S0738248016000316)
-{% endcapture %} {% include card.md header="Case study - Digitisation and Prosecution Project" text=text %}
+{% endcapture %} {% include card.md header="Case study -The Prosecution Project - digitising, transcribing, building" text=text %}
 
 {% include figure.html img="ProsectionProject_image_1.png" alt="Prosecution Project database" caption="Prosecution Project database" width="100%" %}
 
