@@ -2,7 +2,7 @@
 title: Intro
 nav: true
 ---
-# Why mine text? 
+# Why use digital methods with text? 
 
 -----
 
