@@ -21,6 +21,7 @@ Consider the questions below when embarking on a text mining project.
 {% include figure.html img="2021_UniIllinois_TextMineConsiderations.png" alt="Text mining workflow" caption="Text mining considerations" width="100%" %}
 
 - Find sources of text via GLAM catalogues, subscription databases, websites, social media [here, link to new libguide]
+- 
 
 Source: Green, H., Henley, A., Morse, G., Courtney, A., Heidenwolf, T., Koehl, E. D., ... & Morris, S. (2018). " Digging deeper, reaching further: libraries empowering users to mine the HathiTrust Digital Library resources" curriculum. [http://hdl.handle.net/2142/102049](http://hdl.handle.net/2142/102049)
 
