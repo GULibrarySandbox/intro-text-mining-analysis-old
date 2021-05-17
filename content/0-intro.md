@@ -22,19 +22,6 @@ The images below include example source materials:
 
 {% include figure.html img="2021_ProsProjSources.png" alt="Sources of text for the Prosecution Project" caption="Sources of text for the Prosecution Project" width="100%" %}
 
-### Digital collections enable text mining and analysis
-
-The digitisation, Optical Character Recognition (OCR) processing, indexing, linking, and online hosting of primary source materials by archives, libraries, museums and galleries has enabled greater access, and new ways to find, explore, process and analyse text. 
-
-{% capture text %}
-Prosecution Project researchers worked with a team of eResearch specialists and database and web designers to develop a structured database managed through a secure web portal. With the support of volunteers, they undertook massive digitisation, transcription and indexing work resulting in a longitudinal database of criminal prosecutions never before available in Australia. They also recognized the potential of enriching the data via links to the sources used such as newspaper articles in National Library of Australia TROVE database.  
-Read more about the project at: 
-
-Finnane, M., & Piper, A. (2016). The Prosecution Project: Understanding the Changing Criminal Trial Through Digital Tools. Law and History Review, 34(4), 873-891. [doi:10.1017/S0738248016000316](doi:10.1017/S0738248016000316)
-{% endcapture %} {% include card.md header="Case study - Digitisation and Prosecution Project" text=text %}
-
-{% include figure.html img="ProsectionProject_image_1.png" alt="Prosecution Project database" caption="Prosecution Project database" width="100%" %}
-
 ### Text is data, big or small
 
 We are all, regardless of discipline, methodology, or objective, trying to gain insights from text.
@@ -59,6 +46,20 @@ Automating repetative tasks, working with numbers and big data, are all things c
 - expand textual studies with [temporal or geographical context](https://glam-workbench.net/web-archives/#exploring-change-over-time)
 - create [visual exploration](http://www.sixdegreesoffrancisbacon.com/) of text
 - use [statistical analysis methods](https://journals-sagepub-com.libraryproxy.griffith.edu.au/doi/pdf/10.1177/1532673X02030002003)
+
+### Digital collections enable text mining and analysis
+
+The digitisation, Optical Character Recognition (OCR) processing, indexing, linking, and online hosting of primary source materials by archives, libraries, museums and galleries has enabled greater access, and new ways to find, explore, process and analyse text. 
+
+{% capture text %}
+Prosecution Project researchers worked with a team of eResearch specialists and database and web designers to develop a structured database managed through a secure web portal. With the support of volunteers, they undertook massive digitisation, transcription and indexing work resulting in a longitudinal database of criminal prosecutions never before available in Australia. They also recognized the potential of enriching the data via links to the sources used such as newspaper articles in National Library of Australia TROVE database.  
+Read more about the project at: 
+
+Finnane, M., & Piper, A. (2016). The Prosecution Project: Understanding the Changing Criminal Trial Through Digital Tools. Law and History Review, 34(4), 873-891. [doi:10.1017/S0738248016000316](doi:10.1017/S0738248016000316)
+{% endcapture %} {% include card.md header="Case study - Digitisation and Prosecution Project" text=text %}
+
+{% include figure.html img="ProsectionProject_image_1.png" alt="Prosecution Project database" caption="Prosecution Project database" width="100%" %}
+
 
 Now that you have explored some of the reasons researchers use text mining and analytics, let's investigate some methods and workflows, starting with where to find and how to build a text collection or corpus.
 
