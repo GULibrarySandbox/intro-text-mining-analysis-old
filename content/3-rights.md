@@ -2,7 +2,7 @@
 title: Rights
 nav: true
 ---
-# Rights, permissions, licences, what do you need?
+# Rights, permissions, licences
 
 -----
 
