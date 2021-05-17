@@ -53,8 +53,6 @@ Explore the two figures below to see examples of messy and clean tabular data.
 **Messy data example**
 {% include figure.html img="MessyData.JPG" alt="Messy Data" caption="Messy Data" width="100%" %}
 
-**Clean data example**
-{% include figure.html img="TidyData.JPG" alt="Clean Data" caption="Clean Data" width="100%" %}
 
 
 <p align="center">
