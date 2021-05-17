@@ -58,5 +58,5 @@ Explore the two figures below to see examples of messy and clean tabular data.
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/2-why.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/2-why.html">NEXT --></a>
 </p>
