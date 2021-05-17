@@ -2,7 +2,7 @@
 title: What
 nav: true
 ---
-# Background
+# What is text mining and analysis?
 
 -----
 
