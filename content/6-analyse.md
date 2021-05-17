@@ -3,7 +3,7 @@ title: Analyse
 nav: true
 ---
 
-# Transforming data using GREL 
+# Analysis methods and tools
 
 (General Refine Expression Language)
 
