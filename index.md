@@ -9,7 +9,7 @@ layout: default
 
 Learn steps to: 
 
-- Build:    find where and how to gather textual data for your corpora or data set  
+- Build:    find where and how to gather textual data for your corpus or data set  
 - Prepare:  explore useful processes and tools to prepare textual data for analysis
 - Analyse:  identify different types of analysis used to interrogate content and uncover new insights
 
@@ -21,6 +21,8 @@ Learning Outcomes: 
 - Choose the best tool for your dataset at each stage of the digital research process. 
 
 Download and play with software and datasets, do activities and watch videos to guide you through the lessons. 
+
+{% include toc.html %}
 
 All materials in these lessons are licenced CC BY.
 
