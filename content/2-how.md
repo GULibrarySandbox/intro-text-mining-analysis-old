@@ -6,10 +6,11 @@ nav: true
 
 -----
 
-### Activities, workflows
+### Activities and workflows
 
 
 {% include figure.html img="2021_UniIllinois_TextMineWorkflow.png" alt="Text mining workflow" caption="Text mining workflow" width="100%" %}
+Adapted from  Green, H., Henley, A., Morse, G., Courtney, A., Heidenwolf, T., Koehl, E. D., ... & Morris, S. (2018). " Digging deeper, reaching further: libraries empowering users to mine the HathiTrust Digital Library resources" curriculum. [http://hdl.handle.net/2142/102049](http://hdl.handle.net/2142/102049)
 
 
 ### Text is everywhere
