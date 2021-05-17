@@ -1,5 +1,5 @@
 ---
-title: Filter
+title: Prepare
 nav: true
 ---
 
@@ -110,7 +110,7 @@ There is another method you could use to find a missing value, that we have used
 -----
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/4-lesson.html"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/6-lesson.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/4-build.html"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/6-analyse.html">NEXT --></a>
 </p>
 
