@@ -1,5 +1,5 @@
 ---
-title: GREL
+title: Analyse
 nav: true
 ---
 
@@ -142,6 +142,6 @@ Let's edit the column headings to represent the data more accurately.
 -----
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/5-lesson.html"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/7-lesson.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-build.html"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/7-vis.html">NEXT --></a>
 </p>
