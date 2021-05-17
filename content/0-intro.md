@@ -36,7 +36,7 @@ We are all, regardless of discipline, methodology, or objective, trying to gain 
 - medical researchers analyse electronic [patient records](https://link-springer-com.libraryproxy.griffith.edu.au/book/10.1007/978-3-319-78503-5)
 - legal scholars examine [case law and legislation](https://www-annualreviews-org.libraryproxy.griffith.edu.au/doi/10.1146/annurev-lawsocsci-052720-121843#_i9)
 
-### Digital collections enable text mining and analysis
+### Digital collections enable us to build a corpus or dataset of text
 
 The digitisation, Optical Character Recognition (OCR) processing, indexing, linking, and online hosting of primary source materials by archives, libraries, museums and galleries has enabled greater access, and new ways to find, explore, process and analyse text. 
 
@@ -49,7 +49,7 @@ Finnane, M., & Piper, A. (2016). The Prosecution Project: Understanding the Chan
 
 {% include figure.html img="ProsectionProject_image_1.png" alt="Prosecution Project database" caption="Prosecution Project database" width="100%" %}
 
-### Computational methods make it all possible
+### Computational methods 
 
 Automating repetative tasks, working with numbers and big data, are all things computers are good at, but what about text?  You can use computational methods with text to:
 - increase [validity](https://doi-org.libraryproxy.griffith.edu.au/10.1177%2F1466138117725340)
