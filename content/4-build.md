@@ -1,5 +1,5 @@
 ---
-title: Facets
+title: Build
 nav: true
 ---
 # Facets & Clustering 
@@ -117,6 +117,6 @@ Detailed information on the different clustering algorithms and combinations is 
 -----
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/3-lesson.html"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/5-lesson.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/3-rights.html"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-prepare.html">NEXT --></a>
 </p>
