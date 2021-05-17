@@ -2,7 +2,7 @@
 title: Build
 nav: true
 ---
-# Facets & Clustering 
+# Building a text corpus or dataset
 
 --------
 
