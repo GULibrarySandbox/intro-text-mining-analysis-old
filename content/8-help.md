@@ -2,7 +2,7 @@
 title: Help
 nav: true
 ---
-# Use scripts to automate processes
+# Help and references
 
 A script is a series of programming steps to automate the execution of tasks.
 
