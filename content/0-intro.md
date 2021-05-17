@@ -36,17 +36,6 @@ We are all, regardless of discipline, methodology, or objective, trying to gain 
 - medical researchers analyse electronic [patient records](https://link-springer-com.libraryproxy.griffith.edu.au/book/10.1007/978-3-319-78503-5)
 - legal scholars examine [case law and legislation](https://www-annualreviews-org.libraryproxy.griffith.edu.au/doi/10.1146/annurev-lawsocsci-052720-121843#_i9)
 
-### Computational methods make it all possible
-
-Automating repetative tasks, working with numbers and big data, are all things computers are good at, but what about text?  You can use computational methods with text to:
-- increase [validity](https://doi-org.libraryproxy.griffith.edu.au/10.1177%2F1466138117725340)
-- [repeat processes and analysis](https://glam-workbench.net/hansard/) on other other text or corpus
-- enable broader questions of [larger corpora](https://muso.arts.gla.ac.uk/index.html)
-- help understand texts and [underlying social and cultural phenomena at scale](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/detail.action?docID=5772971)
-- expand textual studies with [temporal or geographical context](https://glam-workbench.net/web-archives/#exploring-change-over-time)
-- create [visual exploration](http://www.sixdegreesoffrancisbacon.com/) of text
-- use [statistical analysis methods](https://journals-sagepub-com.libraryproxy.griffith.edu.au/doi/pdf/10.1177/1532673X02030002003)
-
 ### Digital collections enable text mining and analysis
 
 The digitisation, Optical Character Recognition (OCR) processing, indexing, linking, and online hosting of primary source materials by archives, libraries, museums and galleries has enabled greater access, and new ways to find, explore, process and analyse text. 
@@ -59,6 +48,17 @@ Finnane, M., & Piper, A. (2016). The Prosecution Project: Understanding the Chan
 {% endcapture %} {% include card.md header="Case study - Digitisation and Prosecution Project" text=text %}
 
 {% include figure.html img="ProsectionProject_image_1.png" alt="Prosecution Project database" caption="Prosecution Project database" width="100%" %}
+
+### Computational methods make it all possible
+
+Automating repetative tasks, working with numbers and big data, are all things computers are good at, but what about text?  You can use computational methods with text to:
+- increase [validity](https://doi-org.libraryproxy.griffith.edu.au/10.1177%2F1466138117725340)
+- [repeat processes and analysis](https://glam-workbench.net/hansard/) on other other text or corpus
+- enable broader questions of [larger corpora](https://muso.arts.gla.ac.uk/index.html)
+- help understand texts and [underlying social and cultural phenomena at scale](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/detail.action?docID=5772971)
+- expand textual studies with [temporal or geographical context](https://glam-workbench.net/web-archives/#exploring-change-over-time)
+- create [visual exploration](http://www.sixdegreesoffrancisbacon.com/) of text
+- use [statistical analysis methods](https://journals-sagepub-com.libraryproxy.griffith.edu.au/doi/pdf/10.1177/1532673X02030002003)
 
 
 Now that you have explored some of the reasons researchers use text mining and analytics, let's investigate some methods and workflows, starting with where to find and how to build a text collection or corpus.
