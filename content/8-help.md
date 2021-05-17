@@ -60,6 +60,6 @@ For example, you could apply your changes to data that you had collected over di
 -----
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/7-vis.html"><-- BACK</a>
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/7-vis.html"><-- BACK</a>
   
 </p>
