@@ -2,7 +2,7 @@
 title: Rights
 nav: true
 ---
-# The Layout of OpenRefine
+# Rights, permissions, licences, what do you need?
 
 -----
 
