@@ -8,14 +8,16 @@ nav: true
 
 ### Activities and workflows
 
+A text mining and analysis workflow is a messy, iterative and complex process. It’s often like the diagram below. "Depending on the project, a researcher may repeat certain steps in small cycles, or return to previous steps, or do some exploratory steps to determine next steps." (Green, et al. 2018)
 
 {% include figure.html img="2021_UniIllinois_TextMineWorkflow.png" alt="Text mining workflow" caption="Text mining workflow" width="100%" %}
-Adapted from  Green, H., Henley, A., Morse, G., Courtney, A., Heidenwolf, T., Koehl, E. D., ... & Morris, S. (2018). " Digging deeper, reaching further: libraries empowering users to mine the HathiTrust Digital Library resources" curriculum. [http://hdl.handle.net/2142/102049](http://hdl.handle.net/2142/102049)
+Adapted from: Green, H., Henley, A., Morse, G., Courtney, A., Heidenwolf, T., Koehl, E. D., ... & Morris, S. (2018). " Digging deeper, reaching further: libraries empowering users to mine the HathiTrust Digital Library resources" curriculum. [http://hdl.handle.net/2142/102049](http://hdl.handle.net/2142/102049)
 
+### Text as data considerations
 
-### Text is everywhere
-
-Text is the main form for "communicating, discovering and processing information" (Sinclair and Rockwell, 2016).  Even popular non written forms of communication such as streamed videos are largely inaccessible without text-based searches of metadata such as title, description or creator. 
+Consider the questions below when embarking on a text mining project.
+{% include figure.html img="2021_UniIllinois_TextMineConsiderations.png" alt="Text mining workflow" caption="Text mining considerations" width="100%" %}
+Source: Green, H., Henley, A., Morse, G., Courtney, A., Heidenwolf, T., Koehl, E. D., ... & Morris, S. (2018). " Digging deeper, reaching further: libraries empowering users to mine the HathiTrust Digital Library resources" curriculum. http://hdl.handle.net/2142/102049![image](https://user-images.githubusercontent.com/51395844/118565053-d9bd7300-b7b4-11eb-9025-f76fbc7f7711.png)
 
 ### Computational methods to explore and analyse text
 
