@@ -60,9 +60,9 @@ Automating repetative tasks, working with numbers and big data, are all things c
 - create [visual exploration](http://www.sixdegreesoffrancisbacon.com/) of text
 - use [statistical analysis methods](https://journals-sagepub-com.libraryproxy.griffith.edu.au/doi/pdf/10.1177/1532673X02030002003)
 
-
+Now that you have explored some of the reasons researchers use text mining and analytics, let's investigate some methods and workflows, starting with where to find and how to build a text collection or corpus.
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/1-intro.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/1-build.html">NEXT --></a>
 </p> 
