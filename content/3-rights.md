@@ -1,5 +1,5 @@
 ---
-title: Layout
+title: Rights
 nav: true
 ---
 # The Layout of OpenRefine
@@ -52,6 +52,6 @@ When you click this, you will see a list of the existing projects and can click 
 -----
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/2-lesson.html"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/4-lesson.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/2-why.html"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/4-build.html">NEXT --></a>
 </p>
