@@ -60,4 +60,3 @@ Explore the two figures below to see examples of messy and clean tabular data.
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/0-intro.html"><-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/intro-data-wrangle/content/2-lesson.html">NEXT --></a>
 </p>
-
