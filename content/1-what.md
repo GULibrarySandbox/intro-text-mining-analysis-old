@@ -42,6 +42,7 @@ Natural language processing (NLP) techniques
 -	Syntactic parsing
 -	(Semantic Role Labeling)?? source: Dr. Yoshimasa Tsuruoka's tutorial at the National Centre for Text Mining here: http://www.nactem.ac.uk/teaching/ 
 
+Machine learning 
 
 The processes then enable tasks such as:
 
