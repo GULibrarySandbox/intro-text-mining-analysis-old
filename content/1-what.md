@@ -6,7 +6,7 @@ nav: true
 
 -----
 
-Text mining is the science of data mining collections of unstructured or semi-structured text, described in some disciplines as corpus. The goal of the process is to discover & extract knowledge, information or patterns, hidden in text (Hearst, 1999).  
+Text mining is the science of data mining collections of unstructured or semi-structured text(described in some disciplines as corpus). The goal of the process is to discover & extract knowledge, information or patterns, hidden in text (Hearst, 1999).  
 
 Text is pre-processed using methods below to enable computational analysis:
 
