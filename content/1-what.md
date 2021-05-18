@@ -21,17 +21,21 @@ We are all, regardless of discipline, methodology, or objective, trying to gain 
 - medical researchers analyse electronic [patient records](https://link-springer-com.libraryproxy.griffith.edu.au/book/10.1007/978-3-319-78503-5)
 - legal scholars examine [case law and legislation](https://www-annualreviews-org.libraryproxy.griffith.edu.au/doi/10.1146/annurev-lawsocsci-052720-121843#_i9)
 
-### Computational methods to acquire, process, explore and analyse text
+### Computational methods
 
-Text mining is the use of computational methods to extract data from collections of unstructured or semi-structured text. In the Humanities it is often described as distant reading of a corpus (text collection).  The goal of text mining is to discover & extract information or patterns hidden in text.  There is a long research tradition in text analysis and with the explosion in digital text, computational analysis methods have developed. 
+Text mining is the use of computational methods to extract data from collections of unstructured or semi-structured text. In the humanities this is often described as distant reading of a corpus (text collection).  The goal of text mining is to discover & extract information or patterns hidden in text.  
 
-Text analysis and computational methods are applied to text collections include:
+There is a long research tradition in text analysis in the humanities and with the explosion in digital text, computational analysis methods have developed in fields including statistics, computer science, (computational) linguistics, and library science.
+
+Computational text analysis methods include:
 - thematic analysis
 - sentiment analysis
-- term frequency
 - content analysis
+- network analysis
+- 
 
-### Uses 
+
+### Uses in research 
 
 You can use computational methods with text to:
 - increase [validity](https://doi-org.libraryproxy.griffith.edu.au/10.1177%2F1466138117725340)
