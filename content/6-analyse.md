@@ -29,13 +29,8 @@ Sentence
 {% capture text %}
 - Activity.{% endcapture %} {% include card.md header="Activity - ..." text=text %}
 
------
-
-- select  `Edit Column > Rename this column`  and enter  `Suburb`  as the new column name
-- repeat the process for  `Suburb_PostCode 2`  to rename the column to  `Postcode` .{% endcapture %} {% include card.md header="Activity - joining up GREL commands" text=text %}
 
 {% include button.md text="Watch this video for instructions" link="https://vimeo.com/...." color="info" %}
-
 
 -----
 
