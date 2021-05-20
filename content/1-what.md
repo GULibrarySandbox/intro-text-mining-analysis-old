@@ -28,37 +28,6 @@ Text mining is the use of computational methods to extract data from collections
 There is a long research tradition in text analysis in the humanities and with the explosion in digital text, computational analysis methods have developed in fields including statistics, computer science, (computational) linguistics, and library science.
 
 
-### Processing
-
-### Computational processing of text to extract data
-
-Natural language processing (NLP) techniques
-
--	Sentence splitting
--	Tokenization
--	Part-of-speech tagging
--	Shallow parsing
--	Named entity recognition
--	Syntactic parsing
--	(Semantic Role Labeling)?? source: Dr. Yoshimasa Tsuruoka's tutorial at the National Centre for Text Mining here: http://www.nactem.ac.uk/teaching/ 
-
-Machine learning 
-
-The processes then enable tasks such as:
-
-- "find and compare the number of instances of particular terms over time in a defined corpus"
-- "finding the relative frequency of the words in a text and then visualising these in a way that makes the different frequencies apparent, for example, by size and position in word clouds"
-- topic modeling - "identify groups of terms that tend to be representative of a given topic" Toon, E., Timmermann, C., & Worboys, M. (2016). Text-mining and the history of medicine: Big data, big questions? Medical History, 60(2), 294-296. https://doi.org/10.1017/mdh.2016.18 
-- named entity recognition 
-
-Computational text analysis methods include:
-- thematic analysis
-- sentiment analysis
-- content analysis
-- network analysis 
-- 
-
-
 ### Uses in research 
 
 You can use computational methods with text to:
@@ -73,10 +42,10 @@ You can use computational methods with text to:
 
 
 {% capture text %}
-- Map the meaning of the dataset to its structure, see ['Tidy data'](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html) by [Hadley Wickham](http://hadley.nz/){% endcapture %} {% include card.md header="Clean & standardise data" text=text %}
+- , see ['xx'](htta.html) {% endcapture %} {% include card.md header="Enter heading" text=text %}
 
 
-{% include figure.html img="MessyData.JPG" alt="Messy Data" caption="Messy Data" width="100%" %}
+{% include figure.html img="xxx.jpg" alt="Titles" caption="Title" width="100%" %}
 
 
 
