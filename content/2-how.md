@@ -13,6 +13,7 @@ A text mining and analysis workflow is a messy, iterative and complex process. I
 
 {% include figure.html img="2021_UniIllinois_TextMineWorkflow.png" alt="Text mining workflow" caption="Text mining workflow" width="100%" %}
 
+Source: Green, H., Henley, A., Morse, G., Courtney, A., Heidenwolf, T., Koehl, E. D., ... & Morris, S. (2018). " Digging deeper, reaching further: libraries empowering users to mine the HathiTrust Digital Library resources" curriculum. [http://hdl.handle.net/2142/102049](http://hdl.handle.net/2142/102049)
 
 ### Text as data considerations
 
@@ -23,7 +24,6 @@ Consider the questions below when embarking on a text mining project.
 - Find sources of text via GLAM catalogues, subscription databases, websites, social media [here, link to new libguide]
 - 
 
-Source: Green, H., Henley, A., Morse, G., Courtney, A., Heidenwolf, T., Koehl, E. D., ... & Morris, S. (2018). " Digging deeper, reaching further: libraries empowering users to mine the HathiTrust Digital Library resources" curriculum. [http://hdl.handle.net/2142/102049](http://hdl.handle.net/2142/102049)
 
 ### Prepare text for processing
 
