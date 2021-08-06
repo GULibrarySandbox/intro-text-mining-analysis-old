@@ -19,11 +19,25 @@ Source: Green, H., Henley, A., Morse, G., Courtney, A., Heidenwolf, T., Koehl, E
 
 Consider the questions below when embarking on a text mining project.
 
-- Do you already have a dataset, corpus or text source? GLAM catalogues, subscription databases, websites, social media are all great sources [here, link to new libguide]
-- Is the text you want to use already digitised? Handwriting, OCR recognition or even Speech to Text services might be needed, and lot of cleaning after
-- Are there copyright or licencing concerns? Some collections, particularly before a certain date provide licences for use such as [TROVE](https://trove.nla.gov.au/) from The National Library of Australia, or you can request permission from copyright owners for subscription databases via the [Library](https://www.griffith.edu.au/library/contact). Griffith's [Information Policy Officer](https://www.griffith.edu.au/copyright-matters/research-staff) can provide advice on specific use cases.
-- How much technical experience do you need? Some tools and methods are plug and play, which we will explore and others require coding. [eResearch Services](https://www.griffith.edu.au/eresearch-services) run regular coding workshops and provide great support via Hacky Hour.
-- Do you have funding?  Sometimes you need to pay for access to OCR text from vendor sources.
+*Do you already have a dataset, corpus or text source?* 
+
+GLAM catalogues, subscription databases, websites, social media are all great sources [here, link to new libguide]
+
+*Is the text you want to use already digitised?* 
+
+Handwriting, OCR recognition or even Speech to Text services might be needed, and lot of cleaning after.
+
+*Are there copyright or licencing concerns?*
+
+Some collections, particularly before a certain date provide licences for use such as [TROVE](https://trove.nla.gov.au/) from The National Library of Australia, or you can request permission from copyright owners for subscription databases via the [Library](https://www.griffith.edu.au/library/contact). Griffith's [Information Policy Officer](https://www.griffith.edu.au/copyright-matters/research-staff) can provide advice on specific use cases.
+
+*How much technical experience do you need?*
+
+Some tools and methods are plug and play, which we will explore and others require coding. [eResearch Services](https://www.griffith.edu.au/eresearch-services) run regular coding workshops and provide great support via Hacky Hour.
+
+*Do you have funding?*
+
+Sometimes you need to pay for access to OCR text from vendor sources.
 
 
 ### Prepare text for processing
