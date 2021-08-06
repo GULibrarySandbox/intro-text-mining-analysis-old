@@ -34,15 +34,12 @@ Explore one of the reasons why computational methods are used in text research b
 - enable broader questions of [larger corpora](https://muso.arts.gla.ac.uk/index.html)
 - help understand texts and [underlying social and cultural phenomena at scale](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/detail.action?docID=5772971)
 - expand textual studies with [temporal or geographical context](https://glam-workbench.net/web-archives/#exploring-change-over-time)
-- create [visual exploration](http://www.sixdegreesoffrancisbacon.com/) of text
+- create [visual exploration](http://www.sixdegreesoffrancisbacon.com/) of text, see also image below
 - use [statistical analysis methods](https://journals-sagepub-com.libraryproxy.griffith.edu.au/doi/pdf/10.1177/1532673X02030002003){% endcapture %} {% include card.md header="Activity: explore text research using computational methods" text=text %}
-
-### Case study : Six Degrees of Francis Bacon project 
 
 {% include figure.html img="SixDegreesFrancisBacon.png" alt="Francis Bacon Network visualisation" caption="Francis Bacon Network visualisation" width="100%" %}
 Source: "Francis Bacon Network [2, 1562-1626, 61-100%]." Six Degrees of Francis Bacon. [http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network, 8/6/2021](http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network, 8/6/2021).
 
-Six Degrees of Francis Bacon as shown above "is a digital reconstruction of the early modern social network that scholars and students from all over the world can collaboratively expand, revise, curate, and critique. Unlike published prose, Six Degrees is extensible, collaborative, and interoperable: extensible in that people and associations can always be added, modified, developed, or, removed; collaborative in that it synthesizes the work of many scholars; interoperable in that new work on the network is put into immediate relation to previously studied relationships." Source: [http://www.sixdegreesoffrancisbacon.com/about](http://www.sixdegreesoffrancisbacon.com/about) 
 
 Let's find out how the workflows of text mining and analysis work in the next lesson.
 
