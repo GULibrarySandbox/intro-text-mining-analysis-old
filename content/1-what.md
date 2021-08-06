@@ -46,5 +46,5 @@ Let's find out how the workflows of text mining and analysis work in the next le
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/2-why.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/2-how.html">NEXT --></a>
 </p>
