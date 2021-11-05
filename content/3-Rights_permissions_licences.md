@@ -14,6 +14,13 @@ When working with data it is vitally important that you have the right ethical p
 
 before undertaking reserach on exisitng datasets, be sure to read the terms and conditions of the use of hte data, contact Griffith research ethics 
 
+Data copyright
+
+APIs
+
+
+
+
 {% include button.md text="bla bla bla" link="https://vimeo.com/......." color="info" %}
 
 -----
