@@ -19,7 +19,7 @@ Sentence.
 
 #### Types of visualistaions
 
-generated from excell spread sheet
+generated from excel spread sheet
   
 Voyant tools 
   
