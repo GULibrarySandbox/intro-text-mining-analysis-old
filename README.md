@@ -1,4 +1,4 @@
-# An introduction to text mining and analysis 
+# An introduction to Digital texts and tools
 Self-paced [online workshop](https://griffithunilibrary.github.io/...../) developed by [Griffith University Library](https://www.griffith.edu.au/library).
 
 An introduction to digital methods and tools in HASS scholarship focussing on the following in the Digital Humanities workflow:  
