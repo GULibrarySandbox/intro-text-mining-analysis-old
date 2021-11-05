@@ -6,11 +6,13 @@ nav: true
 
 -----
 
-### Bla bla copyright bla
+### research data ethics
 
 {% include figure.html img="Oxxx.png" alt="Title" caption="Title" width="75%" %}
 
+When working with data it is vitally important that you have the right ethical permissions and clearances, this is true even when working with publically available datasets.
 
+before undertaking reserach on exisitng datasets, be sure to read the terms and conditions of the use of hte data, contact Griffith research ethics 
 
 {% include button.md text="bla bla bla" link="https://vimeo.com/......." color="info" %}
 
