@@ -14,12 +14,10 @@ communicate insights with impact
 
 The content on this page has been adapted from our self paced training resource available <a href='https://griffithunilibrary.github.io/data-vis-basics/' target='_blank'> here </a>
 
+
 ## requirements
 before you start you will need to know the image quality requirements of visulations. we cover this in detail in the linked workshop. 
   
-Sentence.{% endcapture %} {% include card.md header="Activity - ..." text=text %}
-
-Sentence.
 
 #### Types of visualistaions
 
