@@ -2,7 +2,7 @@
 title: What
 nav: true
 ---
-# What is text mining and analysis?
+# Introduction to the analysis of digital texts and tools
 
 -----
 ### Insights from text 
