@@ -4,6 +4,19 @@ nav: true
 ---
 # Building a text corpus or dataset
 
+this is the process of creating your data set. 
+
+This can be either through existing data, collation of resources or generating your own data.
+
+no matter how the dataset is created there are a few things that are required.
+
+The data needs to be machine readable, the data needs to be clean and if you are using tabular or structured data, your dataset needs to be consistent. 
+
+## Find data
+
+Griffith guide - [https://libraryguides.griffith.edu.au/finddata] (https://libraryguides.griffith.edu.au/finddata)
+
+
 --------
 ### GLAM Digital collections - primary source materials
 
