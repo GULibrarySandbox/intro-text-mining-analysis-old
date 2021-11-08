@@ -15,13 +15,15 @@ When working with data it is vitally important that you have the right ethical p
 ### Reserach data permissions 
 
 The level of permission you need to use and reuse research data depends on several variables, who owns the data, how you got the data and what you intend to use the data for. 
-When using a repository - data permissions
 
-scraping for data, creating original data
-  
-publishing the data - sensitive data,  de- identified data
-  
+When using data from a repository - data permissions
+
+when scraping for, or creating original data
  
+  
+When publishing the data - sensitive data,  de- identified data
+  
+Data copyright 
   
 -----
   
