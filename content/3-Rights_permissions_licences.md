@@ -17,7 +17,7 @@ When working with data it is vitally important that you have the right ethical p
   
   
 ## Gathering data VIA API
-# What is an API? (Application Programming Interface)
+### What is an API? (Application Programming Interface)
 API is the acronym for Application Programming Interface, which is a software tool that allows two applications to talk to each other. In the case of collecting web data, this is a database that stores the webpages data and something that can read, display or store that data (i.e. a webbrowser, a programming language such as python or some other program on your computer, or a cloud based application).
 
 If a website has an API, then use it. Generally, it won't let us collect data that your not allowed to collect, and its by far the easiest way to collect a websites data.
