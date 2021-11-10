@@ -21,11 +21,11 @@ before you start you will need to know the image quality requirements of visulat
 
 #### Types of visualistaions
 
-generated from excel spread sheet
+The type of visualisations you can create and somwewhat governed by the types of data you are working with. 
+
+with tabuslar data we cand generate visualisations excel spread sheets, tools such as RawGraphs and via code. 
   
-Voyant tools 
-  
-Raw graphs - 
+with unstrucutred data, Voyant tools will generate easy to use visualisations, we can also use code. 
 
 others
 Sentence.
