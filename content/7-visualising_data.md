@@ -28,7 +28,7 @@ With structured tabular data sets we can generate visualisations using tools suc
 With unstrucutred data, Voyant tools will generate easy to use visualisations, we can also use code. 
 
 
-For mapping data we can use tools such as <a href='https://aurin.org.au/' target=-'blank'>AURIN </a>
+For mapping data we can use tools such as <a href='https://aurin.org.au/' target='_blank'>AURIN </a>
 
 
 others
