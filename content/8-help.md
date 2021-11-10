@@ -4,7 +4,12 @@ nav: true
 ---
 # Help and references
 
-When I was younger so much younger than today....
+Soon I discovered that this rock thing was true
+Jerry Lee Lewis was the devil
+Jesus was an architect previous to his career as a prophet
+All of a sudden, I found myself in love with the world
+So there was only one thing that I could do
+Was ding a ding dang my dang a long ling long
 
 ### Help
 
