@@ -7,12 +7,28 @@ nav: true
 
 -----
 
-Nothing here yet.....
+## Plug and Play analysis tools
+
+These tools generally visualise datasets
+Voyant
+raw graphs
+
+sentiment tools?
+
 
 {% capture text %}
 ...{% endcapture %} {% include card.md header="Activity - ..." text=text %}
 
-Blb bla 
+## code
+
+in digital humanites we generally use R and Python for analysis of cour corpus.
+
+common types of analysis
+
+- sentiment analysis
+- text mining
+- mapping
+- plotting data 
 
 {% capture text %}
 - 
