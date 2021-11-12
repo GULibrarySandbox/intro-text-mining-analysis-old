@@ -22,9 +22,9 @@ before you start you will need to know the image quality requirements of visulat
 The type of visualisations you can create and somwewhat governed by the types of data you are working with. 
 
 With structured tabular data sets we can generate visualisations using tools such as; 
--excel spread sheets, 
--RawGraphs
--computational code. 
+- excel spread sheets, 
+- RawGraphs
+- computational code. 
 With unstrucutred data, Voyant tools will generate easy to use visualisations, we can also use code. 
 For mapping data we can use tools such as <a href='https://aurin.org.au/' target='_blank'>AURIN </a>
 - other data types 
