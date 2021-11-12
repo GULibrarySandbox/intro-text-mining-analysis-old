@@ -6,11 +6,9 @@ nav: true
 
 Visualising data can help us understand complex information quickly. Transforming data into a visual format can:
 
-reveal patterns and relationships
-
-identify trends
-
-communicate insights with impact
+- reveal patterns and relationships
+- identify trends
+- communicate insights with impact
 
 The content on this page has been adapted from our self paced training resource available <a href='https://griffithunilibrary.github.io/data-vis-basics/' target='_blank'> here </a>
 
