@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-## Introduction to text mining and analysis
+## Introduction to digital texts and tools
 
 {% include figure.html img="wordsearch.png" alt="intro image here" caption="" width="25%" %}
 
