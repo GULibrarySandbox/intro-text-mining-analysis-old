@@ -7,7 +7,7 @@ nav: true
 Building a corpus is the process of creating your data set. A corpus can be built either through existing data, collation of resources or generating your own data. No matter how the dataset is created there are a few things that are required. The data needs to be machine readable, the data needs to be clean and if you are using tabular or structured data, your dataset needs to be consistent. 
 
 ## Find data
-Data is everywhere, we can find data in repositories, archives, libraries, museums to name a few. an easy way to get started in finding discipline specific data sets is in the Griffith guide - <a href ='https://libraryguides.griffith.edu.au/finddata' target='_blank' <Finding data guide </a>
+Data is everywhere, we can find data in repositories, archives, libraries, museums to name a few. an easy way to get started in finding discipline specific data sets is in the Griffith guide <a href ='https://libraryguides.griffith.edu.au/finddata' target="_blank">Finding data guide </a>
 
 
 ### GLAM Digital collections - primary source materials
