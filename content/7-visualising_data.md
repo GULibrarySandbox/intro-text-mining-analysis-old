@@ -13,11 +13,11 @@ Visualising data can help us understand complex information quickly. Transformin
 The content on this page has been adapted from our self paced training resource available <a href='https://griffithunilibrary.github.io/data-vis-basics/' target='_blank'> here </a>
 
 
-## requirements
+## Requirements
 before you start you will need to know the image quality requirements of visulations. we cover this in detail in the linked workshop. 
   
 
-#### Types of visualistaions
+## Types of visualistaions
 
 The type of visualisations you can create and somwewhat governed by the types of data you are working with. 
 
