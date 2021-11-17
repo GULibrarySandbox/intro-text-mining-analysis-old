@@ -44,6 +44,8 @@ Consider the questions below when embarking on a text mining project.
 
 ### Prepare text for processing
 
+- prior to processing you will need to ensure your text is clean, consistently formatted and computationally analysable. .txt is hte preffered format. 
+
 
 ### Computationally process text to extract data
 
