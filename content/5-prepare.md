@@ -29,7 +29,7 @@ The best document types for analysis are PDF and .txt
 - again these resources must be machine readable, for spreadsheet data like an excell sheet, no trouble, but make it a CSV file, for other tabular data sets, like log books or ledgers the data will need to be in computationally analyisable state. you may need to transcribe the data for analysis.
 
 tools for preparing structured data
-- open refine < a href='https://openrefine.org/' target='_blank' > open refine <a/>
+- open refine <a href ='https://openrefine.org/' target="_blank" > open refine <a/>
 - digivol - good for transcribing structured data <a href ='https://volunteer.ala.org.au/' target="_blank" > Digivol <a/> 
 
 
