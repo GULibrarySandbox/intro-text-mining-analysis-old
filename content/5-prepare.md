@@ -20,6 +20,7 @@ tools for preparing text data
 - digivol - good for structured data
 - google docs 
 - adobe, for cleaning up scans, removing images and generating clean resources
+
 The best document types for analysis are PDF and .txt
  
 
