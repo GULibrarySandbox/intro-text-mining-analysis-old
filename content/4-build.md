@@ -14,6 +14,16 @@ When using text data or gaterhing data from online sources you many need to use 
 If a website has an API, then use it. Generally, it won't let us collect data that your not allowed to collect, and its by far the easiest way to collect a websites data. 
 
 
+
+### Building a data set
+
+
+
+### Cleaning your data 
+
+
+# Examples
+
 ### GLAM Digital collections - primary source materials
 
 Digitisation, Optical Character Recognition (OCR) processing, indexing, encoding, and online hosting of primary source materials by `archives, libraries, museums and galleries (GLAM sector)`  has enabled greater access, and new ways to find, explore, process and analyse text. 
