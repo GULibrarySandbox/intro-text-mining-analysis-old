@@ -16,11 +16,19 @@ If a website has an API, then use it. Generally, it won't let us collect data th
 
 
 ### Building a data set
+Building your data set is the process of finding and collating the materials you wish to analyse. Data sets in humanities reserach are also known as a corpus, please be aware that these terms are used interchangably.
 
+Building a data set can be as simple as collecting PDFs from your literature search, or as complex as transribing handwritten texts to a computational form. 
+Regaurdless of how your data set is created there are several elements that need to be enacted for you to be able to analyse the resource.
+
+- the materials must be compuationally readable. For modern PDFs of typed materails this is not an issue, however if you are usign scans of old texts, images of text or hand written documents these need to be transcribed or transformed into a readable format.  best formats for text are .PDF and .txt
+- Structured Vs Unstructured text.  Structured text is waht we more commonly call spread sheet data. This can take the form of log books, ledgers and other records, eg: old census data, birth deaths and marraige records, shipping logs and so on. These materails have a structure and need to be transcribed as such. Unstructured text is 
+- consistent formatting
+- clean. The resources must be clean, in practice this means free of white space, pages of text must be free of images, the text needs to be clear and unobscured.
 
 
 ### Cleaning your data 
-
+depending on what type of data 
 
 # Examples
 
