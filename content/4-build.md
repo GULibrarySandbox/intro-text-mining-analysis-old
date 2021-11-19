@@ -22,15 +22,23 @@ Building a data set can be as simple as collecting PDFs from your literature sea
 Regaurdless of how your data set is created there are several elements that need to be enacted for you to be able to analyse the resource.
 
 - the materials must be compuationally readable. For modern PDFs of typed materails this is not an issue, however if you are usign scans of old texts, images of text or hand written documents these need to be transcribed or transformed into a readable format.  best formats for text are .PDF and .txt
-- Structured Vs Unstructured text.  Structured text is waht we more commonly call spread sheet data. This can take the form of log books, ledgers and other records, eg: old census data, birth deaths and marraige records, shipping logs and so on. These materails have a structure and need to be transcribed as such. Unstructured text is 
-- consistent formatting
-- clean. The resources must be clean, in practice this means free of white space, pages of text must be free of images, the text needs to be clear and unobscured.
+- Structured Vs Unstructured text.  Structured text is waht we more commonly call spread sheet data. This can take the form of log books, ledgers and other records, eg: old census data, birth deaths and marraige records, shipping logs and so on. These materails have a structure and need to be transcribed as such. Unstructured text is written text. This is generally found as letters, diary entries, journal articles books and written content. Our main focus on these pages is to use the data found in unstructured text. *we will cover how to get your data in to computationally analyisable formats in the prepare section*
 
 
 ### Cleaning your data 
-depending on what type of data 
+depending on what type of data you have 
 
-# Examples
+- clean. The resources must be clean, in practice this means free of white space, pages of text must be free of images, the text needs to be clear and unobscured.
+- consistent formatting 
+
+
+- tools for data cleaning
+- - for structured data sets - open refine
+- - for unstructured data - adobe
+
+
+
+## Examples
 
 ### GLAM Digital collections - primary source materials
 
