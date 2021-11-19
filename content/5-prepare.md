@@ -5,7 +5,6 @@ nav: true
 
 # Prepare 
 
-
 preparing your data for analysis means
 
 is the data computataionally readable?
@@ -15,12 +14,30 @@ is the data clean?
 - text data must be - free of white space - computationally readable
 - for modern pdfs - no trouble, for older texts this will require some work, you might need to transcribe the data, or clean the data using various tools as scanned text will read as an image
 
+tools for preparing text data
+- there are a variety of tools available to assist transcribe text based resroucres
+- for transcribing text- transkribus free tool,good for hand written materials
+- digivol - good for structured data
+- google docs 
+- adobe, for cleaning up scans, removing images and generating clean resources
+
+best document types for analysis are PDF and .txt
+- 
+
 ### structured data
 - when we think of structured data we generally think of this a spreadsheet, but this can also be tabular data such as a log book or ledger
 - again these resources must be machine readable, for spreadsheet data like an excell sheet, no trouble, but make it a CSV file, for other tabular data sets, like log books or ledgers the data will need to be in computationally analyisable state. you may need to transcribe the data for analysis.
 
+tools for preparing structured data
+- open refine
+- digivol - good for transcribing structured data
+
+
 ### audio data
-- how you prepare this depends on what you are analysing for, if you are preparing interviews, you will need to transcribe the audio to text, however, if you are analysing the sounds, say, accents or pronounciations of words you will need to make sure the sound file is clear and unblemished.
+how you prepare this depends on what you are analysing for, if you are preparing interviews, you will need to transcribe the audio to text, however, if you are analysing the sounds, say, accents or pronounciations of words you will need to make sure the sound file is clear and unblemished.
+- youtube - use the transcription tools to generate text transcriptions
+- Alveo - tool to assist with transcription of interviews. 
+
 
 
 
