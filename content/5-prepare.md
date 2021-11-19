@@ -20,9 +20,8 @@ tools for preparing text data
 - digivol - good for structured data
 - google docs 
 - adobe, for cleaning up scans, removing images and generating clean resources
-
-best document types for analysis are PDF and .txt
-- 
+The best document types for analysis are PDF and .txt
+ 
 
 ### structured data
 - when we think of structured data we generally think of this a spreadsheet, but this can also be tabular data such as a log book or ledger
@@ -52,8 +51,7 @@ Finnane, M., & Piper, A. (2016). The Prosecution Project: Understanding the Chan
 {% include figure.html img="ProsectionProject_image_1.png" alt="Prosecution Project database" caption="Prosecution Project database" width="100%" %}
 
 ----
-### bla bla
-
+### 
 
 
 {% capture text %}
