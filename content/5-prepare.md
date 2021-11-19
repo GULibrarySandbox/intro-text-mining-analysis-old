@@ -30,7 +30,7 @@ The best document types for analysis are PDF and .txt
 
 tools for preparing structured data
 - open refine
-- digivol - good for transcribing structured data
+- digivol - good for transcribing structured data <a href ='https://volunteer.ala.org.au/' target="_blank" > Digivol <a/> 
 
 
 ### audio data
