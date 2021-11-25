@@ -39,7 +39,7 @@ With structured tabular data sets we can generate visualisations using tools suc
 - RawGraphs
 - computational code. 
 
-With unstrucutred data, Voyant tools <a href='https://voyant-tools.org/' target='_blank'>Voyant tools</a> will generate easy to use visualisations, we can also use code. 
+With unstrucutred data, <a href='https://voyant-tools.org/' target='_blank'>Voyant tools</a> will generate easy to use visualisations. 
 - For mapping data we can use tools such as <a href='https://aurin.org.au/' target='_blank'>AURIN </a>
 - other data types 
 Sentence.
