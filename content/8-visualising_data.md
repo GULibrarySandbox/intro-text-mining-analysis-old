@@ -32,17 +32,19 @@ The Data to Viz team also provide a collection of really useful tips and caveats
 
 ## Types of visualistaions
 
-The type of visualisations you can create and somwewhat governed by the types of data you are working with. 
+The type of visualisations you can create are somewhat governed by the types of data you are working with. 
 
-With structured tabular data sets we can generate visualisations using tools such as; 
+With structured data or tabular sets we can generate visualisations using tools such as; 
 - excel spread sheets, 
 - RawGraphs
 - computational code. 
 
-With unstrucutred data, <a href='https://voyant-tools.org/' target='_blank'>Voyant tools</a> will generate easy to use visualisations. 
-- For mapping data we can use tools such as <a href='https://aurin.org.au/' target='_blank'>AURIN </a>
+With unstrucutred data, generally prose, articles, diary entries and alike, <a href='https://voyant-tools.org/' target='_blank'>Voyant tools</a> will generate easy to use visualisations. For more complex analysis and visualisation we can use Python code.
+
+For mapping data we can use tools such as <a href='https://aurin.org.au/' target='_blank'>AURIN </a>, and even google earth. For Aurin you will need structured datasets with coordinates. 
+
 - other data types 
-Sentence.
+
 
 
 
