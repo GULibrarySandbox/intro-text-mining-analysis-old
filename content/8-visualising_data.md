@@ -16,7 +16,7 @@ The content on this page has been adapted from our self paced training resource 
 ## Requirements
 before you start you will need to know the image quality requirements of visulations. we cover this in detail in the linked workshop. 
 
-###Choose the right visualisation type for your data 
+### Choose the right visualisation type for your data 
 
 Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to find the most appropriate graph for your data.  
 <br>
