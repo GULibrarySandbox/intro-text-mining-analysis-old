@@ -11,6 +11,7 @@ is the data computataionally readable?
 is the data clean?
 
 ### text data
+
 - text data must be - free of white space - computationally readable
 - for modern pdfs - no trouble, for older texts this will require some work, you might need to transcribe the data, or clean the data using various tools as scanned text will read as an image
 
@@ -25,6 +26,7 @@ The best document types for analysis are PDF and .txt
  
 
 ### structured data
+
 - when we think of structured data we generally think of this a spreadsheet, but this can also be tabular data such as a log book or ledger
 - again these resources must be machine readable, for spreadsheet data like an excell sheet, no trouble, but make it a CSV file, for other tabular data sets, like log books or ledgers the data will need to be in computationally analyisable state. you may need to transcribe the data for analysis.
 
