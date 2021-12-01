@@ -3,22 +3,28 @@ title: Rights
 nav: true
 topics: Getting ethical clearance; Licenses and access agreements; Copyright
 ---
-# Rights, permissions, licences
+# Ethics, permissions, rights and licences
 
 -----
 
-## research data ethics
 
-{% include figure.html img="Oxxx.png" alt="Title" caption="Title" width="75%" %}
+{% include figure.html img="lego-galileo.jpg" alt="Title" caption="Title" width="75%" %}
+
+
+## Research data ethics
 
 {% capture text %}
-When working with data it is vitally important that you have the right ethical permissions and clearances even when working with publicly available datasets. 
+When working with data that includes information about people it is vitally important that you have ethical clearance — even when working with publicly available datasets.
 {% endcapture %}
-{% include alert.html text=text color="warning" %}
+{% include alert.md text=text color="warning" %}
 
-This is particularly important if you plan on webscraping pages for data. Before undertaking reserach on exisitng datasets, be sure to read the terms and conditions of the use of the data, contact Griffith research ethics <a href='https://www.griffith.edu.au/research/research-services/research-ethics-integrity' target="_blank"> here </a>
+Note that if you plan on obtaining your data by scraping webpages you may be inadvertently gathering personal information.
 
-### Research data permissions
+Here we will add a reference to the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018). The Griffith policy just points to this one anyway. 
+
+Before undertaking reserach on exisitng datasets, be sure to read the terms and conditions of the use of the data, contact [Griffith research ethics](https://www.griffith.edu.au/research/research-services/research-ethics-integrity).
+
+### Gaining access and permission
 
 The level of permission you need to use and reuse research data depends on several variables, who owns the data, how you got the data and what you intend to use the data for.
 
