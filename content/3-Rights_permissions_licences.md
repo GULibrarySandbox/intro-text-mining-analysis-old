@@ -6,7 +6,7 @@ topics: Getting ethical clearance; Licenses and access agreements; Copyright
 
 # Ethics, permissions, rights and licences
 
-{% include figure.html img="lego-galileo.jpg" alt="Lego figurines representing Galileo, Juno and Jupiter" caption=""EGO Galileo, Juno & Jupiter by TooMuchDew, licensed under CC BY-NC-ND 2.0" width="75%" %}
+{% include figure.html img="lego-galileo.jpg" alt="Lego figurines representing Galileo, Juno and Jupiter" caption="LEGO Galileo, Juno & Jupiter by TooMuchDew, licensed under CC BY-NC-ND 2.0" width="75%" %}
 
 ## Research data ethics
 
@@ -19,7 +19,7 @@ When working with data that includes information about people it is vitally impo
 
 Here we will add a reference to the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018). The Griffith policy just points to this one anyway. 
 
-Before undertaking reserach on exisitng datasets, be sure to read the terms and conditions of the use of the data, contact [Griffith research ethics](https://www.griffith.edu.au/research/research-services/research-ethics-integrity).
+Before undertaking research on existing datasets, be sure to read the terms and conditions of the use of the data, contact [Griffith research ethics](https://www.griffith.edu.au/research/research-services/research-ethics-integrity).
 
 --
 
@@ -46,12 +46,12 @@ When publishing the data - sensitive data,  de- identified data
 
 ## Data copyright
 
-Accessing and downloading data is one thing — publishing it is quite another. Obtaining permission to do one does not mean you have permission to do the other.
+> Accessing and downloading data is one thing — publishing it is another. Obtaining permission to do one does not mean you have permission to do the other.
+
 
 If you have created the textual data yourself (e.g. by conducting interviews or surveys), then you own the copyright and you do not need to seek copyright clearance, provided you do not substantially reproduce your subjects' exact words (note that the ethical considerations listed above still apply). The same applies for material that is out of copyright or is in the public domain. 
 
 Specific sites have specific terms explaining how researchers may access their data and what they are permitted to do with it. Some are very generous with their access provisions, while some do not allow re-use at all. Many sites allow their data to be used for research but prohibit commercial re-use.
-
 
 
 A quick checklist might be: 
