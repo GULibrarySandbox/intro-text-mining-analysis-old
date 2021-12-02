@@ -28,7 +28,7 @@ Where possible, you should remove personally identifying data from your data set
 {% capture text %}
 If you're unsure about your ethical obligations, contact [Griffith research ethics](https://www.griffith.edu.au/research/research-services/research-ethics-integrity).
 {% endcapture %}
-{% include alert.html text=text color="info" %}
+{% include alert.md text=text color="info" %}
 
 
 --
@@ -59,7 +59,7 @@ When publishing the data - sensitive data,  de- identified data
 {% capture copyrightwarning %}
 Accessing and downloading data is one thing — publishing it is another. Obtaining permission to do one does not mean you have permission to do the other.
 {% endcapture %}
-{% include alert.html text=copyrightwarning color="info" %}
+{% include alert.md text=copyrightwarning color="info" %}
 
 If you have created the textual data yourself (e.g. by conducting interviews or surveys), then you own the copyright and you do not need to seek copyright clearance, provided you do not substantially reproduce your subjects' exact words (note that the ethical considerations listed above still apply). The same applies for material that is out of copyright or is in the public domain. 
 
