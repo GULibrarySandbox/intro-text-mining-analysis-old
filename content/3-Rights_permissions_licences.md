@@ -17,9 +17,19 @@ When working with data that includes information about people it is vitally impo
 
 > Note that if you plan on obtaining your data by scraping webpages you may be inadvertently gathering personal information.
 
-Here we will add a reference to the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018). The Griffith policy just points to this one anyway. 
+Before undertaking research on existing datasets, be sure to read the terms and conditions of the use of the data,
 
-Before undertaking research on existing datasets, be sure to read the terms and conditions of the use of the data, contact [Griffith research ethics](https://www.griffith.edu.au/research/research-services/research-ethics-integrity).
+Here we will add a reference to the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018). The Griffith policy just points to this one anyway.
+
+### De-identifying data
+
+Where possible, you should remove personally identifying data from your data set before analysing and publishing it. This applies even where the information is not sensitive, unless the participants have given their informed consent to being identified in your study.
+
+{% capture text %}
+If you're unsure about your ethical obligations, contact [Griffith research ethics](https://www.griffith.edu.au/research/research-services/research-ethics-integrity).
+{% endcapture %}
+{% include alert.html text=text color="info" %}
+
 
 --
 
@@ -28,7 +38,7 @@ Before undertaking research on existing datasets, be sure to read the terms and 
 When you are working with data you have generated yourself, or with text that is out of copyright and in the public domain (see below), then there will be no conditions attached to your use of the data.
 
 {% capture text %}
-This does not mean there are no ethical considerations!
+**NB:** This does not mean there are no ethical considerations! If your corpus contains information about people then you ethical obligations to those people. 
 {% endcapture %}
 {% include alert.md text=text color="warning" %}
 
@@ -46,8 +56,10 @@ When publishing the data - sensitive data,  de- identified data
 
 ## Data copyright
 
-> Accessing and downloading data is one thing — publishing it is another. Obtaining permission to do one does not mean you have permission to do the other.
-
+{% capture copyrightwarning %}
+Accessing and downloading data is one thing — publishing it is another. Obtaining permission to do one does not mean you have permission to do the other.
+{% endcapture %}
+{% include alert.html text=copyrightwarning color="info" %}
 
 If you have created the textual data yourself (e.g. by conducting interviews or surveys), then you own the copyright and you do not need to seek copyright clearance, provided you do not substantially reproduce your subjects' exact words (note that the ethical considerations listed above still apply). The same applies for material that is out of copyright or is in the public domain. 
 
