@@ -22,7 +22,7 @@ If you plan on obtaining your data by scraping webpages you may be inadvertently
 {% capture termsandconditionswarning %}
 Before undertaking research on existing datasets, be sure to read the terms and conditions of the use of the data,
 {% endcapture %}
-{% include alert.html text=termsandconditionswarning color="danger" %}
+{% include alert.md text=termsandconditionswarning color="danger" %}
 
 {% capture deidentify %}
 Where possible, you should remove personally identifying data from your data set before analysing and publishing it. This applies even where the information is not sensitive, unless the participants have given their informed consent to being identified in your study.
