@@ -15,11 +15,14 @@ When working with data that includes information about people it is vitally impo
 {% endcapture %}
 {% include alert.md text=text color="warning" %}
 
-> Note that if you plan on obtaining your data by scraping webpages you may be inadvertently gathering personal information.
+Chapter 3.1 of the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018) describes . The Griffith policy just points to this one anyway.
 
+If you plan on obtaining your data by scraping webpages you may be inadvertently gathering personal information.
+
+{% capture termsandconditionswarning %}
 Before undertaking research on existing datasets, be sure to read the terms and conditions of the use of the data,
-
-Here we will add a reference to the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018). The Griffith policy just points to this one anyway.
+{% endcapture %}
+{% include alert.html text=termsandconditionswarning color="danger" %}
 
 {% capture deidentify %}
 Where possible, you should remove personally identifying data from your data set before analysing and publishing it. This applies even where the information is not sensitive, unless the participants have given their informed consent to being identified in your study.
