@@ -21,9 +21,10 @@ Before undertaking research on existing datasets, be sure to read the terms and 
 
 Here we will add a reference to the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018). The Griffith policy just points to this one anyway.
 
-### De-identifying data
-
+{% capture deidentify %}
 Where possible, you should remove personally identifying data from your data set before analysing and publishing it. This applies even where the information is not sensitive, unless the participants have given their informed consent to being identified in your study.
+{% endcapture %}
+{% include card.md header="De-identifying data" text=deidentify %}
 
 {% capture text %}
 If you're unsure about your ethical obligations, contact [Griffith research ethics](https://www.griffith.edu.au/research/research-services/research-ethics-integrity).
