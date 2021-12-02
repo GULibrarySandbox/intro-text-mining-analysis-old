@@ -32,9 +32,9 @@ depending on what type of data you have
 - consistent formatting 
 
 
-- tools for data cleaning
-- - for structured data sets we suggest <a href = 'https://openrefine.org/' target="_blank"> Open Refine </a> a free open source tool to clean and organise tabular datasets. training for open refine is availble <a href ='https://griffithunilibrary.github.io/intro-data-wrangle/' target="_blank">here. </a>
-- - for unstructured data - we suggest the <a href ='https://intranet.secure.griffith.edu.au/computing/software?_gl=1*16nj6v1*_ga*MjA2NDEzMDYwLjE2MTUxNTU0NjY.*_ga_5GKYJEBSN9*MTYzODQwODcxMy44NS4wLjE2Mzg0MDg3MTMuMA..#access' target="_blank">Adobe creative cloud </a> which is freely available to Griffith staff and students.
+tools for data cleaning
+- for structured data sets we suggest <a href = 'https://openrefine.org/' target="_blank"> Open Refine </a> a free open source tool to clean and organise tabular datasets. training for open refine is availble <a href ='https://griffithunilibrary.github.io/intro-data-wrangle/' target="_blank">here. </a>
+- for unstructured data - we suggest the <a href ='https://intranet.secure.griffith.edu.au/computing/software?_gl=1*16nj6v1*_ga*MjA2NDEzMDYwLjE2MTUxNTU0NjY.*_ga_5GKYJEBSN9*MTYzODQwODcxMy44NS4wLjE2Mzg0MDg3MTMuMA..#access' target="_blank">Adobe creative cloud </a> which is freely available to Griffith staff and students.
 
 
 
