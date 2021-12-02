@@ -31,10 +31,9 @@ How you cleand your data depends on what type of data you have. There are two ma
 For Structured data, broadly speaking, for resources to be clean, this means consistent data in each column, eg; consistent spelling and abreviations and as far as possible no blank spaces in the data sheets.
 For unstrucutred data this means the text is compuationally analysable, the tools will be able to read text but not images of text, pages are free of white space, pages of text must be free of images and the text needs to be clear and unobscured. 
 
+data cleaning is covered in great detail in section 5 of this resource. 
 
-tools for data cleaning
-- for structured data sets we suggest <a href = 'https://openrefine.org/' target="_blank"> Open Refine </a> a free open source tool to clean and organise tabular datasets. training for open refine is availble <a href ='https://griffithunilibrary.github.io/intro-data-wrangle/' target="_blank">here. </a>
-- for unstructured data - we suggest the <a href ='https://intranet.secure.griffith.edu.au/computing/software?_gl=1*16nj6v1*_ga*MjA2NDEzMDYwLjE2MTUxNTU0NjY.*_ga_5GKYJEBSN9*MTYzODQwODcxMy44NS4wLjE2Mzg0MDg3MTMuMA..#access' target="_blank">Adobe creative cloud </a> which is freely available to Griffith staff and students.
+
 
 
 
