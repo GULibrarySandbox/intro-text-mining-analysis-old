@@ -22,7 +22,7 @@ Building a data set can be as simple as collecting PDFs from your literature sea
 Regaurdless of how your data set is created there are several elements that need to be enacted for you to be able to analyse the resource.
 
 - the materials must be compuationally readable. For modern PDFs of typed materails this is not an issue, however if you are usign scans of old texts, images of text or hand written documents these need to be transcribed or transformed into a readable format.  best formats for text are .PDF and .txt
-- Structured Vs Unstructured text.  Structured text is waht we more commonly call spread sheet data. This can take the form of log books, ledgers and other records, eg: old census data, birth deaths and marraige records, shipping logs and so on. These materails have a structure and need to be transcribed as such. Unstructured text is written text. This is generally found as letters, diary entries, journal articles books and written content. Our main focus on these pages is to use the data found in unstructured text. *we will cover how to get your data in to computationally analyisable formats in the prepare section*
+- Structured Vs Unstructured text.  Structured text is waht we more commonly call spread sheet data. This can take the form of log books, ledgers and other records, eg: old census data, birth deaths and marraige records, shipping logs and so on. These materails have a structure and need to be transcribed as such. Unstructured text is written text. This is generally found as letters, diary entries, journal articles books and written content. Our main focus on these pages is to use the data found in unstructured text. *we will cover how to get your data in to computationally analyisable formats in the <a href ='https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-prepare.html' target="_blank">prepare section</a>*
 
 
 ### Cleaning your data 
@@ -31,7 +31,7 @@ How you cleand your data depends on what type of data you have. There are two ma
 For Structured data, broadly speaking, for resources to be clean, this means consistent data in each column, eg; consistent spelling and abreviations and as far as possible no blank spaces in the data sheets.
 For unstrucutred data this means the text is compuationally analysable, the tools will be able to read text but not images of text, pages are free of white space, pages of text must be free of images and the text needs to be clear and unobscured. 
 
-data cleaning is covered in great detail in <a href ='https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-prepare.html' target="_blank">section 5 </a> of this resource. 
+Data cleaning is covered in greater detail in <a href ='https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-prepare.html' target="_blank">section 5 </a> of this resource. 
 
 
 
