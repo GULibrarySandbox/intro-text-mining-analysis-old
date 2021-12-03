@@ -39,7 +39,11 @@ In digital humanites we generally use R and Python for analysis of cour corpus.
 
 These analysis types can tell us if a text is positive or negative, the occurance of key themes within a text, maps show not only locations but movements of people, the growth of cities and how we have changed the landscape.
 
-projects - exemplars ... 
+projects - exemplars ..
+
+<a href='https://medium.com/analytics-vidhya/top-5-unknown-sentiment-analysis-projects-on-github-to-help-you-through-your-nlp-projects-8d8f195e80fc' targer="_blank"> sentiment analysis projects </a>
+
+. 
 
 
 {% capture text %}
