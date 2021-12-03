@@ -31,8 +31,7 @@ How you cleand your data depends on what type of data you have. There are two ma
 For Structured data, broadly speaking, for resources to be clean, this means consistent data in each column, eg; consistent spelling and abreviations and as far as possible no blank spaces in the data sheets.
 For unstrucutred data this means the text is compuationally analysable, the tools will be able to read text but not images of text, pages are free of white space, pages of text must be free of images and the text needs to be clear and unobscured. 
 
-data cleaning is covered in great detail in section 5 of this resource. 
-
+data cleaning is covered in great detail in <a href ='https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-prepare.html' target="_blank">section 5 </a> of this resource. 
 
 
 
