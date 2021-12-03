@@ -46,6 +46,9 @@ projects - exemplars ...
 - 
 - .{% endcapture %} {% include card.md header="Activity " text=text %}
 
+For this activity take a look at the example DH project,  think about the process taken to get from the original resources to the final analyzed product.
+If possible, see if you can identify the tools and coding packages used to undertake the project.
+
 {% include button.md text="See the steps taken in this video" link="https://vimeo.com/....." color="info" %}
 
 -----
