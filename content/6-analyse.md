@@ -27,26 +27,37 @@ sentiment tools
 
 ## code
 
-in digital humanites we generally use R and Python for analysis of cour corpus.
+The use of computational analysis techniques in humanities reserach is the start point of Digital humanities reserach. 
+Using code for analysis can show us paterns and connections not seen through close reading alone. The use of code in analysis can help us find greater meaning in the data.
+In digital humanites we generally use R and Python for analysis of cour corpus.
 
-common types of analysis
-
+#### common types of analysis
 - sentiment analysis
 - text mining
 - mapping
 - plotting data 
 
+These analysis types can tell us if a text is positive or negative, the occurance of key themes within a text, maps show not only locations but movements of people, the growth of cities and how we have changed the landscape.
+
+projects - exemplars ... 
+
+
 {% capture text %}
 - 
-- .{% endcapture %} {% include card.md header="Activity - bla " text=text %}
+- .{% endcapture %} {% include card.md header="Activity " text=text %}
 
 {% include button.md text="See the steps taken in this video" link="https://vimeo.com/....." color="info" %}
 
 -----
 
-### bla bla
+### Pathways to analysis
 
-Sentence
+no matter what data you are starting with, it is important that you have an idea of what you hope your analysis will tell you.
+data set
+clean data - transcibe, annotated 
+analyse -
+
+visualise
 
 {% capture text %}
 - Activity.{% endcapture %} {% include card.md header="Activity - ..." text=text %}
