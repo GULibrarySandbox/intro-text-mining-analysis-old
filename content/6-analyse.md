@@ -15,7 +15,7 @@ Plug and play tools are interfaces where you can easily add data and analysis is
 - Cons - often inflexible, not good for deeper analysis
 
 #### Visualise your dataset
-- <a href =https://voyant-tools.org/' target="_blank"> Voyant </a>
+- <a href ='https://voyant-tools.org/' target="_blank"> Voyant </a>
 - <a href ='https://rawgraphs.io/' target="_blank"> Raw graphs </a>
 
 #### Check the sentiment of a resource
