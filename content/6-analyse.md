@@ -9,11 +9,17 @@ nav: true
 
 ## Plug and Play analysis tools
 
-These tools generally visualise datasets
-Voyant
-raw graphs
+Plug and play tools are interfaces where you can easily add data and analysis is done for you. The tools run on your web browser and are also know as Graphic user interface or GUI tools. The majority of these tools will be based up python or R analysis codes. We can use these tools for simple data analysis and visulations, they are really useful in getting started with analysis and getting an idea of what your data holds. 
 
-sentiment tools?
+- Pro's - easy to use, high level analysis, 
+- Cons - often inflexible, not good for deeper analysis
+
+#### These tools generally visualise datasets
+- Voyant
+- Raw graphs
+
+sentiment tools
+- https://www.danielsoper.com/sentimentanalysis/default.aspx 
 
 
 {% capture text %}
