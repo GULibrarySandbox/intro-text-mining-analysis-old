@@ -28,18 +28,23 @@ The best document types for analysis are PDF and .txt
 
 ### structured data
 
-- when we think of structured data we generally think of this a spreadsheet, but this can also be tabular data such as a log book or ledger
-- again these resources must be machine readable, for spreadsheet data like an excell sheet, no trouble, but make it a CSV file, for other tabular data sets, like log books or ledgers the data will need to be in computationally analyisable state. you may need to transcribe the data for analysis.
+- When we think of structured data we generally think of this a spreadsheet, but this can also be tabular data such as a log book or ledger
+- These resources must be machine readable, for spreadsheet data like an excell sheet, no trouble, but make it a CSV file, for other tabular data sets, like log books or ledgers the data will need to be in computationally analyisable state. you may need to transcribe the data for analysis.
 
-tools for preparing structured data
+Tools for preparing structured data
 - open refine <a href ='https://openrefine.org/' target="_blank" > open refine <a/>
 - digivol - good for transcribing structured data <a href ='https://volunteer.ala.org.au/' target="_blank" > Digivol <a/> 
 
 
-### audio data
-how you prepare this depends on what you are analysing for, if you are preparing interviews, you will need to transcribe the audio to text, however, if you are analysing the sounds, say, accents or pronounciations of words you will need to make sure the sound file is clear and unblemished.
+### Audio data
+How you prepare this depends on what you are analysing for, if you are preparing interviews, you will need to transcribe the audio to text, however, if you are analysing the sounds, say, accents or pronounciations of words you will need to make sure the sound file is clear and unblemished.
 - youtube - use the transcription tools to generate text transcriptions
 - Alveo - tool to assist with transcription of interviews. <a href='https://www.alveo.edu.au/' target="_blank" > Alveo <a/>
+ 
+ 
+### Images 
+ 
+### Video 
 
 
 
