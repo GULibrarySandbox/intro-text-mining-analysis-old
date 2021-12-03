@@ -5,7 +5,18 @@ nav: true
 
 # Prepare 
 
-Preparing or cleaning your data for analysis means that the data is consistent and machine readable. This process differs depending on what types of data you are analyising. 
+Preparing or cleaning your data for analysis means that the data is consistent and machine readable. This process differs depending on what types of data you are analyising. This guide is primarily focussed on text and structured data analysis. However, in this section we have included links and simple information on clearning multimedia data resourses such as; 
+- images
+- - maps 
+- - photos 
+- - fine arts 
+- audio 
+- - interviews 
+- - music  
+- video
+- - behavioural observation
+- - character recognition
+- - conversation
 
 ## Tools for data cleaning
 - For structured data sets we suggest <a href = 'https://openrefine.org/' target="_blank"> Open Refine </a> a free open source tool to clean and organise tabular datasets. training for open refine is availble <a href ='https://griffithunilibrary.github.io/intro-data-wrangle/' target="_blank">here. </a>
