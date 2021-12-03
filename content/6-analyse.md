@@ -23,7 +23,7 @@ Plug and play tools are interfaces where you can easily add data and analysis is
 
 
 {% capture text %}
-in this activity try the plug and play tools listed. look at the results, look for the opportunity and the limitations of each tool.{% endcapture %} {% include card.md header="Activity" text=text %}
+in this activity try the plug and play tools listed. look at the results, look for the opportunity for use to the analysis and the limitations of each tool.{% endcapture %} {% include card.md header="Activity" text=text %}
 
 ## code
 
