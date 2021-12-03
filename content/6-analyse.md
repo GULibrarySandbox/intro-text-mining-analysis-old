@@ -14,16 +14,16 @@ Plug and play tools are interfaces where you can easily add data and analysis is
 - Pro's - easy to use, high level analysis, 
 - Cons - often inflexible, not good for deeper analysis
 
-#### These tools generally visualise datasets
-- Voyant
-- Raw graphs
+#### Visualise your dataset
+- <a href =https://voyant-tools.org/' target="_blank"> Voyant </a>
+- <a href ='https://rawgraphs.io/' target="_blank"> Raw graphs </a>
 
-sentiment tools
-- https://www.danielsoper.com/sentimentanalysis/default.aspx 
+#### Check the sentiment of a resource
+ - https://www.danielsoper.com/sentimentanalysis/default.aspx 
 
 
 {% capture text %}
-...{% endcapture %} {% include card.md header="Activity - ..." text=text %}
+in this activity try the plug and play tools listed. look at the results, look for the opportunity and the limitations of each tool.{% endcapture %} {% include card.md header="Activity" text=text %}
 
 ## code
 
