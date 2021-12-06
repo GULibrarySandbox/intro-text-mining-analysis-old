@@ -6,7 +6,7 @@ nav: true
 # Prepare 
 
 Preparing or cleaning your data makes it consistent and machine readable for analysis. This process differs depending on what types and formats of files you are analysing.  
-
+{% include figure.html img="Textformats1.jpg" alt="Text as data formats" caption="Various text as data formats" width="100%" %}
 
 ## Tools
 - For structured data sets we suggest <a href = 'https://openrefine.org/' target="_blank"> OpenRefine </a> a free open source tool to clean and organise tabular datasets. Training for OpenRefine is availble <a href ='https://griffithunilibrary.github.io/intro-data-wrangle/' target="_blank">here. </a>
