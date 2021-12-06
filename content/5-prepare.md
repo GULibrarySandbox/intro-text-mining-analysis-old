@@ -5,34 +5,23 @@ nav: true
 
 # Prepare 
 
-Preparing or cleaning your data for analysis means that the data is consistent and machine readable. This process differs depending on what types of data you are analyising. This guide is primarily focussed on text and structured data analysis. However, in this section we have included links and simple information on clearning multimedia data resourses such as; 
-- images
-- - maps 
-- - photos 
-- - fine arts 
-- audio 
-- - interviews 
-- - music  
-- video
-- - behavioural observation
-- - character recognition
-- - conversation
+Preparing or cleaning your data makes it consistent and machine readable for analysis. This process differs depending on what types and formats of files you are analysing.  
 
-## Tools for data cleaning
-- For structured data sets we suggest <a href = 'https://openrefine.org/' target="_blank"> Open Refine </a> a free open source tool to clean and organise tabular datasets. training for open refine is availble <a href ='https://griffithunilibrary.github.io/intro-data-wrangle/' target="_blank">here. </a>
-- For unstructured data - we suggest the <a href ='https://intranet.secure.griffith.edu.au/computing/software?_gl=1*16nj6v1*_ga*MjA2NDEzMDYwLjE2MTUxNTU0NjY.*_ga_5GKYJEBSN9*MTYzODQwODcxMy44NS4wLjE2Mzg0MDg3MTMuMA..#access' target="_blank">Adobe creative cloud </a> which is freely available to Griffith staff and students.
 
-### text data
+## Tools
+- For structured data sets we suggest <a href = 'https://openrefine.org/' target="_blank"> OpenRefine </a> a free open source tool to clean and organise tabular datasets. Training for OpenRefine is availble <a href ='https://griffithunilibrary.github.io/intro-data-wrangle/' target="_blank">here. </a>
+- For unstructured data - we suggest the <a href ='https://intranet.secure.griffith.edu.au/computing/software?_gl=1*16nj6v1*_ga*MjA2NDEzMDYwLjE2MTUxNTU0NjY.*_ga_5GKYJEBSN9*MTYzODQwODcxMy44NS4wLjE2Mzg0MDg3MTMuMA..#access' target="_blank">Adobe creative cloud </a> for Griffith staff and [gImageReader] (https://github.com/manisandro/gImageReader#readme), an open source ocr processor for pdfs and images, for HDR candidates and students.
+
+### unstructured text
 
 - text data must be - free of white space - computationally readable
 - for modern pdfs - no trouble, for older texts this will require some work, you might need to transcribe the data, or clean the data using various tools as scanned text will read as an image
 
-tools for preparing text data
-- there are a variety of tools available to assist transcribe text based resroucres
+tools for preparing unstructured text data
 - for transcribing text- transkribus free tool,good for hand written materials
 - digivol - good for structured data
 - google docs 
-- adobe, for cleaning up scans, removing images and generating clean resources
+- Adobe or GImageReader, for cleaning up scans, removing images and generating clean resources
 
 The best document types for analysis are PDF and .txt
  
@@ -81,6 +70,21 @@ Finnane, M., & Piper, A. (2016). The Prosecution Project: Understanding the Chan
 
 {% include button.md text="Watch this video on ...." link="https://vimeo.com/..." color="info" %}
 
+ extra paragraph removed from top of page:
+ This guide is primarily focussed on unstructured structured text as data.
+ However, in this section we have included links and simple information on cleaning multimedia data resources such as; 
+- images
+- - maps 
+- - photos 
+- - fine arts 
+- audio 
+- - interviews 
+- - music  
+- video
+- - behavioural observation
+- - character recognition
+- - conversation
+ 
 -----
 
 <p align="center">
