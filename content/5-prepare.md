@@ -35,7 +35,8 @@ Note: All text documents need to be formatted for machine readability.
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
 | Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) | [Transkribus](https://readcoop.eu/transkribus/) | High quality scanner | [OpenRefine](https://openrefine.org/) |
 | [Microsoft Office 365](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57)| [Google Vision AI](https://cloud.google.com/vision) | Digital Camera | [gImageReader](https://github.com/manisandro/gImageReader#readme) |
-| [Griffith's Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) | MS Word | [Adobe Acrobat Pro DC](https://intranet.secure.griffith.edu.au/computing/software) (staff) OCR recognition | [gImageReader](https://github.com/manisandro/gImageReader#readme)(students) open source OCR processor for pdfs and images | 
+| [Griffith's Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) | MS Word | [Adobe Acrobat Pro DC](https://intranet.secure.griffith.edu.au/computing/software) (staff) OCR recognition |
+| | | [gImageReader](https://github.com/manisandro/gImageReader#readme) (students) open source OCR processor for pdfs and images | 
 {:.table .table-bordered}
 
 ### unstructured text
