@@ -7,6 +7,9 @@ nav: true
 This page is about using computational methods to analyse text based data sets.  This is a growing and fluid space with new tools and resources constantly being developed for use. 
 the content on these pages will help you create and build computataionally analysable data sets,  introduce computational methods for analysis for both plug and play tools and through code. 
 
+Digital humanities is a fluid growing area or research, how we define Digital humanities changes as new ideas are introduced 
+<a href ='https://whatisdigitalhumanities.com/' target="_blank">check here for todays defintion</a>
+
 We analyse text based resources to find new meanings, to show connections and add value to our research. 
 
 
