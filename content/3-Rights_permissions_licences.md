@@ -19,13 +19,21 @@ Chapter 3.1 of the National Statement on the [Ethical Conduct in Human Research]
 
 If you plan on obtaining your data by scraping webpages you may be inadvertently gathering personal information.
 
-{% capture termsandconditionswarning %}
+
 Before undertaking research on existing datasets, be sure to read the terms and conditions of the use of the data,
-{% endcapture %}
-{% include alert.md text=termsandconditionswarning color="danger" %}
 
 {% capture deidentify %}
 Where possible, you should remove personally identifying data from your data set before analysing and publishing it. This applies even where the information is not sensitive, unless the participants have given their informed consent to being identified in your study.
+
+{% capture reidentification %}
+**Beware of re-identification**
+
+If de-identification is done carelessly, or there are many data points in a data set that are unique to an individual, the data can be re-identified. In at least one case, this has led to published data sets being retracted.
+
+Note also that when a social media service has a search function, direct quotes from individuals can identify them
+{% endcapture %}
+{% include alert.md text=reidentification color="danger" %}
+
 {% endcapture %}
 {% include card.md header="De-identifying data" text=deidentify %}
 
