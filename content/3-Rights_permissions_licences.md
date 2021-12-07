@@ -42,28 +42,6 @@ If you're unsure about your ethical obligations, contact [Griffith research ethi
 {% endcapture %}
 {% include alert.md text=text color="info" %}
 
-
---
-
-## Gaining access and permission
-
-When you are working with data you have generated yourself, or with text that is out of copyright and in the public domain (see below), then there will be no conditions attached to your use of the data.
-
-{% capture text %}
-**NB:** This does not mean there are no ethical considerations! If your corpus contains information about people then you ethical obligations to those people. 
-{% endcapture %}
-{% include alert.md text=text color="warning" %}
-
-However, if you are using a dataset built, created or maintained by someone else, you will always be accessing it under the terms of some license or other. It might be an open license such as Creative Commons or the Unlicense
-
-The level of permission you need to use and reuse research data depends on several variables, who owns the data, how you got the data and what you intend to use the data for.
-
-When using data from a repository - data permissions
-
-when scraping for, or creating original data
-
-When publishing the data - sensitive data,  de- identified data
-
 --
 
 ## Data copyright
@@ -73,7 +51,8 @@ Accessing and downloading data is one thing — publishing it is another. Obtain
 {% endcapture %}
 {% include alert.md text=copyrightwarning color="info" %}
 
-If you have created the textual data yourself (e.g. by conducting interviews or surveys), then you own the copyright and you do not need to seek copyright clearance,  (note that the ethical considerations listed above still apply). The same applies for material that is out of copyright or is in the public domain. 
+If you have created the textual data yourself, or it is in the public domain, then you do not need to seek permission to use the data (you will still need permission from individual participants where that's appropriate — see the section on ethical considerations above). Usually, however, you will be obtaining data from a source that may have copyright ownership over it. So how do you get a license to use it?
+
 
 Specific sites have specific terms explaining how researchers may access their data and what they are permitted to do with it. Some are very generous with their access provisions, while some do not allow re-use at all. Many sites allow their data to be used for research but prohibit commercial re-use.
 
@@ -86,6 +65,32 @@ Is there an agreement or terms of use that you agreed to? What does it say about
 Do you have any plans to commercialise your research? Is that allowed by your access agreement?
 Will your published data be 'substantially similar' to the mined dataset?
 Will you be mixing different data sources? You might need to comply with both sets of terms, if they exist.
+
+{% capture permissionsblock %}
+
+When you are working with data you have generated yourself, or with text that is out of copyright and in the public domain (see below), then there will be no conditions attached to your use of the data.
+
+{% capture text %}
+**NB:** This does not mean there are no ethical considerations! If your corpus contains information about people then you ethical obligations to those people. 
+{% endcapture %}
+{% include alert.md text=text color="warning" %}
+
+However, if you are using a dataset built, created or maintained by someone else, you will always be accessing it under the terms of some license or other. It might be an open license such as Creative Commons or the Unlicense
+
+The level of permission you need to use and reuse research data depends on several variables, who owns the data, how you got the data and what you intend to use the data for.
+
+{% endcapture %}
+{% include card.md header="Gaining access and permission" text=permissionsblock %}
+
+When using data from a repository - data permissions
+
+when scraping for, or creating original data
+
+When publishing the data - sensitive data,  de- identified data
+
+--
+
+
   
 -----
   
