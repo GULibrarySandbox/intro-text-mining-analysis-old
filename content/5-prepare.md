@@ -15,6 +15,8 @@ Preparing or cleaning your data makes it consistent and machine readable for ana
 | observation video recordings        | ships logs, diaries, ledgers               | typed documents, letters, official records, recipes....        | webpage and social media content                                                                          |
 |                                     | original manuscripts & drafts              | brochures, menus & other primary source materials              |                                                                                                           |
 |                                     | scientific notes, annotations, field books |                                                                |                                                                                                           |
+
+
 ## Tools
 - For structured data sets we suggest <a href = 'https://openrefine.org/' target="_blank"> OpenRefine </a> a free open source tool to clean and organise tabular datasets. Training for OpenRefine is availble <a href ='https://griffithunilibrary.github.io/intro-data-wrangle/' target="_blank">here. </a>
 - For unstructured data - we suggest the <a href ='https://intranet.secure.griffith.edu.au/computing/software?_gl=1*16nj6v1*_ga*MjA2NDEzMDYwLjE2MTUxNTU0NjY.*_ga_5GKYJEBSN9*MTYzODQwODcxMy44NS4wLjE2Mzg0MDg3MTMuMA..#access' target="_blank">Adobe creative cloud </a> for Griffith staff and [gImageReader] (https://github.com/manisandro/gImageReader#readme), an open source ocr processor for pdfs and images, for HDR candidates and students.
