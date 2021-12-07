@@ -30,10 +30,12 @@ Note: All text documents need to be formatted for machine readability.
 {% include alert.md text=text color="info" %}
 
 
-## Tools
-Structured text data: <a href = 'https://openrefine.org/' target="_blank"> OpenRefine </a> a free open source tool to clean and organise tabular datasets. Training for OpenRefine is availble <a href ='https://griffithunilibrary.github.io/intro-data-wrangle/' target="_blank">here. </a>
+## Tools to prepare
 
-Unstructured text: <a href ='https://intranet.secure.griffith.edu.au/computing/software?_gl=1*16nj6v1*_ga*MjA2NDEzMDYwLjE2MTUxNTU0NjY.*_ga_5GKYJEBSN9*MTYzODQwODcxMy44NS4wLjE2Mzg0MDg3MTMuMA..#access' target="_blank">Adobe creative cloud </a> for Griffith staff and [gImageReader](https://github.com/manisandro/gImageReader#readme), an open source ocr processor for pdfs and images, for HDR candidates and students.
+| *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
+| Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)[staff](https://intranet.secure.griffith.edu.au/computing/software) | [Transkribus](https://readcoop.eu/transkribus/) | High quality scanner | [OpenRefine](https://openrefine.org/) |
+| [Microsoft Office 365] (https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57)| [Google Vision AI](https://cloud.google.com/vision) | Digital Camera | [gImageReader](https://github.com/manisandro/gImageReader#readme) open source OCR processor for pdfs and images |
+| [Griffith's Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) | MS Word | [Adobe Acrobat Pro DC](https://intranet.secure.griffith.edu.au/computing/software) OCR recognition (staff) | [gImageReader](https://github.com/manisandro/gImageReader#readme)(students) | 
 
 ### unstructured text
 
@@ -45,8 +47,6 @@ tools for preparing unstructured text data
 - digivol - good for structured data
 - google docs 
 - Adobe or GImageReader, for cleaning up scans, removing images and generating clean resources
-
-The best document types for analysis are PDF and .txt
  
 
 ### structured data
