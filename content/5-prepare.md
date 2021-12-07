@@ -24,7 +24,9 @@ Preparing or cleaning your data makes it consistent and machine readable for ana
 {:.table .table-bordered}
 
 {% capture text %}
-All text documents need to be formatted for machine readability.  .txt is the best format as it is non-prorpietrary & used in text analysis tools.  .pdf OCR processed format is accepted by some analysis tools.{% endcapture %}
+Note: All text documents need to be formatted for machine readability.  
+.txt is the best format as it is non-prorpietrary & used in text analysis tools.  
+.pdf OCR processed format is accepted by some analysis tools.{% endcapture %}
 {% include alert.md text=text color="info" %}
 
 
