@@ -33,17 +33,20 @@ Note: All text documents need to be formatted for machine readability.
 ## Tools to prepare
 
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
-| Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) | [Transkribus](https://readcoop.eu/transkribus/) | High quality scanner | [OpenRefine](https://openrefine.org/) to create structure to text |
-| [Microsoft Office 365](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57)| [Google Vision AI](https://cloud.google.com/vision) | Digital Camera | [gImageReader](https://github.com/manisandro/gImageReader#readme) |
-| [Griffith's Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) | MS Word | [Adobe Acrobat Pro DC](https://intranet.secure.griffith.edu.au/computing/software) (staff) OCR recognition |
-| | | [gImageReader](https://github.com/manisandro/gImageReader#readme) (students) open source OCR processor for pdfs and images | [DigiVol](https://volunteer.ala.org.au/) for structured text 
+| Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) | [Transkribus](https://readcoop.eu/transkribus/) | High quality scanner (then OCR recognition) | [OpenRefine](https://openrefine.org/) to create structure to text |
+| [Microsoft Office 365](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57)| [Google Vision AI](https://cloud.google.com/vision) | Digital Camera (then OCR recognition) | [gImageReader](https://github.com/manisandro/gImageReader#readme) (students) open source OCR processor for pdfs and images |
+| [Griffith's Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) | MS Word | | [Adobe Acrobat Pro DC](https://intranet.secure.griffith.edu.au/computing/software) (staff) OCR recognition |
+| | | | [DigiVol](https://volunteer.ala.org.au/) for structured text 
 {:.table .table-bordered}
 
 ### unstructured vs structured text and machine readibility
 
-Humans understand that language and the text that represents it is highly complex and full of structure. Text is often described as unstructured when it does not fit easily into a database management system, or is easily processed by a computer (computers only understand the simplest of structures). 
+Humans understand that language and the text that represents it is highly complex and full of structure. However text is often described as unstructured when it does not fit easily into a database management system, or is easily processed by a computer (computers only understand the simplest of structures). 
+
 Unstructured text in this context may include text from narratives (books, articles etc.), interviews, survey responses with free text and more.  
+
 Structured text can include metadata from GLAM catalogues or finding aides, text in structured databases, possibly spreadsheets, even old ledgers and logbooks. 
+
 There are different processes that need to be undertaken with structured vs unstructured, or even semi-structured (you can probably guess what that is..) text.
 
 ### unstructured text
