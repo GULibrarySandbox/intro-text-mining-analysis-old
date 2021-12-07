@@ -22,8 +22,10 @@ Preparing or cleaning your data makes it consistent and machine readable for ana
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
 | audio transcription, then cleaning | transcription, then cleaning | digitisation, then cleaning | reformating, then cleaning |
 {:.table .table-bordered}
-All text documents need to be formatted for machine readability.  .txt is the best format as it is non-prorpietrary & used in text analysis tools.  .pdf OCR processed format is accepted by some analysis tools.
-{:.table .table-bordered}
+
+{% capture text %}
+All text documents need to be formatted for machine readability.  .txt is the best format as it is non-prorpietrary & used in text analysis tools.  .pdf OCR processed format is accepted by some analysis tools.{% endcapture %}
+{% include alert.md text=text color="info" %}
 
 
 ## Tools
@@ -85,24 +87,9 @@ Finnane, M., & Piper, A. (2016). The Prosecution Project: Understanding the Chan
 - .{% endcapture %} {% include card.md header="Activity - bla bla" text=text %}
 
 
-
 {% include button.md text="Watch this video on ...." link="https://vimeo.com/..." color="info" %}
 
- extra paragraph removed from top of page:
- This guide is primarily focussed on unstructured structured text as data.
- However, in this section we have included links and simple information on cleaning multimedia data resources such as; 
-- images
-- - maps 
-- - photos 
-- - fine arts 
-- audio 
-- - interviews 
-- - music  
-- video
-- - behavioural observation
-- - character recognition
-- - conversation
- 
+
 -----
 
 <p align="center">
