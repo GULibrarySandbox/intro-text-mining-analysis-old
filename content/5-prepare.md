@@ -7,13 +7,18 @@ nav: true
 
 Preparing or cleaning your data makes it consistent and machine readable for analysis. This process differs depending on what types and formats of files you are analysing.  
 {% include figure.html img="Textformats1.jpg" alt="Text as data formats, Speech to text, Handwritten text, Printed text, Digital text" caption="Different text as data formats that need processing" width="100%" %}
-
+## Text as data - what does it include?
 | Speech to text | Handwritten text | Printed text | Digital text |
-| survey audio recordings | personal letters | books, journals, news articles,legislation, government reports | online databases & digital collections of published or primary sources... |
-| interview audio or video recordings | official correspondence | unpublished papers,survey results... | your own digital documents, interview transcripts, survey results, unpublished works, language corpora... |
+| survey audio recordings | personal letters | books, journals, news articles, legislation, government reports | online databases & digital collections of published or primary sources...
+| interview audio or video recordings | official correspondence | unpublished papers | unpublished works, your own digital documents
 | observation video recordings | ships logs, diaries, ledgers | typed documents, letters, official records, recipes.... | webpage and social media content |
-| | original manuscripts & drafts | brochures, menus & other primary source materials | |
-| | scientific notes, annotations, field books | | | |
+| | original manuscripts & drafts | brochures, menus, other primary source materials | language corpora |
+| | scientific notes, annotations, field books | survey results | interview transcripts, survey results |
+{:.table .table-bordered}
+
+## Text as data - how to prepare?
+| Speech to text | Handwritten text | Printed text | Digital text |
+| audio transcription, then cleaning | transcription, then cleaning | digitisation, then cleaning | reformating, then cleaning |
 {:.table .table-bordered}
 
 
