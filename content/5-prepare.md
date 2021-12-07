@@ -10,10 +10,10 @@ Preparing or cleaning your data makes it consistent and machine readable for ana
 
 | Speech to text | Handwritten text | Printed text | Digital text |
 | survey audio recordings | personal letters | books, journals, news articles, legislation, government reports | online databases & digital collections of published or primary sources...
-| interview audio or video recordings | official correspondence | unpublished papers, survey results... | your own digital documents, interview transcripts, survey results, unpublished works, language corpora...
+| interview audio or video recordings | official correspondence | unpublished papers | unpublished works
 | observation video recordings | ships logs, diaries, ledgers | typed documents, letters, official records, recipes.... | webpage and social media content |
-| | original manuscripts & drafts | brochures, menus & other primary source materials | |
-| | scientific notes, annotations, field books | | |
+| | original manuscripts & drafts | brochures, menus, other primary source materials | language corpora |
+| | scientific notes, annotations, field books | survey results | your own digital documents, interview transcripts, survey results |
 {:.table .table-bordered}
 
 
