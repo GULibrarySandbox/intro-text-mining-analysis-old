@@ -13,7 +13,8 @@ Preparing or cleaning your data makes it consistent and machine readable for ana
 | interview audio or video recordings | official correspondence | unpublished papers,survey results... | your own digital documents, interview transcripts, survey results, unpublished works, language corpora... |
 | observation video recordings | ships logs, diaries, ledgers | typed documents, letters, official records, recipes.... | webpage and social media content |
 | | original manuscripts & drafts | brochures, menus & other primary source materials | |
-| | scientific notes, annotations, field books | | | |{:.table .table-bordered}
+| | scientific notes, annotations, field books | | | |
+{:.table .table-bordered}
 
 
 ## Tools
