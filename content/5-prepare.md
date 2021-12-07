@@ -21,6 +21,7 @@ Preparing or cleaning your data makes it consistent and machine readable for ana
 
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
 | audio transcription, then cleaning | transcription, then cleaning | digitisation, then cleaning | reformating, then cleaning |
+{:.table .table-bordered}
 | All text documents need to be formatted for machine readability.  .txt is the best format as it is non-prorpietrary & used in text analysis tools.  .pdf OCR processed format is accepted by some analysis tools.|
 {:.table .table-bordered}
 
