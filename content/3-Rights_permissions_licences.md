@@ -6,7 +6,7 @@ topics: Getting ethical clearance; Licenses and access agreements; Copyright
 
 # Ethics, permissions, rights and licences
 
-{% include figure.html img="lego-galileo.jpg" alt="Lego figurines representing Galileo, Juno and Jupiter" caption="LEGO Galileo, Juno & Jupiter by TooMuchDew, licensed under CC BY-NC-ND 2.0" width="75%" %}
+{% include figure.html img="eratosthenes.jpg" alt="Eratosthenes Teaching in Alexandria" caption="'Eratosthenes Teaching in Alexandria' by Bernardo Strozzi by mark6mauno is licensed under CC BY 2.0" width="100%" %}
 
 ## Research data ethics
 
@@ -49,7 +49,7 @@ When publishing the data - sensitive data,  de- identified data
 > Accessing and downloading data is one thing — publishing it is another. Obtaining permission to do one does not mean you have permission to do the other.
 
 
-If you have created the textual data yourself (e.g. by conducting interviews or surveys), then you own the copyright and you do not need to seek copyright clearance, provided you do not substantially reproduce your subjects' exact words (note that the ethical considerations listed above still apply). The same applies for material that is out of copyright or is in the public domain. 
+If you have created the textual data yourself (e.g. by conducting interviews or surveys), then you own the copyright and you do not need to seek copyright clearance,  (note that the ethical considerations listed above still apply). The same applies for material that is out of copyright or is in the public domain. 
 
 Specific sites have specific terms explaining how researchers may access their data and what they are permitted to do with it. Some are very generous with their access provisions, while some do not allow re-use at all. Many sites allow their data to be used for research but prohibit commercial re-use.
 
