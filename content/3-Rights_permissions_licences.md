@@ -78,9 +78,9 @@ Specific sites have specific terms explaining how researchers may access their d
 {% capture commercialuse %}
 **What constitutes commercial use?**
 
-You might need to consider whether your publication constitutes 
+You might need to consider whether your publication constitutes commercial use.
 {% endcapture %}
-{% include alert.html text=commercialuse color="info" %}
+{% include alert.md text=commercialuse color="info" %}
 
 A quick checklist might be: 
 
