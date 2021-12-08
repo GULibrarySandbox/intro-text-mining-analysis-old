@@ -11,11 +11,29 @@ topics: Getting ethical clearance; Licenses and access agreements; Copyright
 ## Research data ethics
 
 {% capture text %}
-When working with data that includes information about people it is vitally important that you have ethical clearance — even when working with publicly available datasets.
+Any research involving human subjects carries ethical obligations. Even when working with publicly available datasets, your research may require to to obtain the necessary consents and ethical clearances, if it involves people in any way.
 {% endcapture %}
 {% include alert.md text=text color="warning" %}
 
-Chapter 3.1 of the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018) describes . The Griffith policy just points to this one anyway.
+According to Griffith's [Ethics Booklet on Information Technology and Online Research](https://www.griffith.edu.au/__data/assets/pdf_file/0026/354752/booklet37.pdf), whether online content analysis is viewed as 'human research' depends on:
+
+1. the degree to which the material is 'on the public record' and;
+2. whether it is contentious or likely to be of concern to the subject.
+
+Chapter 3.1, Element 4 of the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018) describes the ethical standards relating to the collection, use and management of data in human research.
+
+{% capture consent %}
+It may be necessary to gain consent from individuals whose information is contained in the data set you are using. 'Informed consent' requires that the subject know exactly how the information will be published and the potential risks to them or their reputation, as a result of publishing the information.
+
+You cannot assume that because a person has made a post on a public forum, that they consent to their post being used in your research.
+
+{% capture ongoing %}
+Consent may also be an ongoing process. Where the goals or potential outputs of your research might change over time, you might need to approach people for further consent. 
+{% endcapture %}
+{% include alert.md text=ongoing color="primary" %}
+
+{% endcapture %}
+{% include card.md header="Gaining informed consent" text=consent %}
 
 If you plan on obtaining your data by scraping webpages you may be inadvertently gathering personal information.
 
@@ -53,9 +71,16 @@ Accessing and downloading data is one thing — publishing it is another. Obtain
 
 If you have created the textual data yourself, or it is in the public domain, then you do not need to seek permission to use the data (you will still need permission from individual participants where that's appropriate — see the section on ethical considerations above). Usually, however, you will be obtaining data from a source that may have copyright ownership over it. So how do you get a license to use it?
 
+{% capture permissionsblock %}
 
 Specific sites have specific terms explaining how researchers may access their data and what they are permitted to do with it. Some are very generous with their access provisions, while some do not allow re-use at all. Many sites allow their data to be used for research but prohibit commercial re-use.
 
+{% capture commercialuse %}
+**What constitutes commercial use?**
+
+You might need to consider whether your publication constitutes 
+{% endcapture %}
+{% include alert.html text=commercialuse color="info" %}
 
 A quick checklist might be: 
 
@@ -65,8 +90,6 @@ Is there an agreement or terms of use that you agreed to? What does it say about
 Do you have any plans to commercialise your research? Is that allowed by your access agreement?
 Will your published data be 'substantially similar' to the mined dataset?
 Will you be mixing different data sources? You might need to comply with both sets of terms, if they exist.
-
-{% capture permissionsblock %}
 
 When you are working with data you have generated yourself, or with text that is out of copyright and in the public domain (see below), then there will be no conditions attached to your use of the data.
 
