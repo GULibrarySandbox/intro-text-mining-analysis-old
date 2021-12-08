@@ -65,11 +65,10 @@ If possible, see if you can identify the tools and coding packages used to under
 ### Pathways to analysis
 
 no matter what data you are starting with, it is important that you have an idea of what you hope your analysis will tell you.
-data set
-clean data - transcibe, annotated 
-analyse -
 
-visualise
+- data set
+- clean data, transcibe, annotated 
+- analyse/visualise
 
 {% capture text %}
 - Activity.{% endcapture %} {% include card.md header="Activity - ..." text=text %}
