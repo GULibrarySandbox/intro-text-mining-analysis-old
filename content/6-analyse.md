@@ -16,7 +16,7 @@ Plug and play tools are interfaces where you can easily add data and analysis is
 
 ### Gale digital scholar lab 
 Gale Digital scholar lab is an in house tool that can build, clean and analyse text based data. The lab is designed to use the Gale primary source archives, but you can use the analysis tools with your own data.
-Find out more about Gale digital scholar lab <a href ='https://go-gale-com.libraryproxy.griffith.edu.au/ps/start.do?p=DSLAB&u=griffith' target="_blank> here </a>(login required)  and <a href ='https://sway.office.com/v4sYacFkErbH9HNo' target="_blank"> here. </a>
+Find out more about Gale digital scholar lab <a href ='https://go-gale-com.libraryproxy.griffith.edu.au/ps/start.do?p=DSLAB&u=griffith' target="_blank"> here </a> (login required)  and <a href ='https://sway.office.com/v4sYacFkErbH9HNo' target="_blank"> here. </a>
 
 
 #### Visualise your dataset
