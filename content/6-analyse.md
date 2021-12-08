@@ -40,8 +40,9 @@ Find out more about Gale digital scholar lab <a href ='https://go-gale-com.libra
 #### Check the sentiment of a resource
 Sentiment analysis is commonly used in research to see public sentiment on products, ideas or policy. 
 
-This tool will show you the sentiment of one resource
+This tool will show you the sentiment of one resource, 
  - https://www.danielsoper.com/sentimentanalysis/default.aspx 
+
 zero being neutral, over zero positive sentiment and less than zero negative. 
 
 Sentiment analysis is available in Gale digital scholars lab, but is more commonly utilized through code where you can analyze multiple documents at a sentence level.  
