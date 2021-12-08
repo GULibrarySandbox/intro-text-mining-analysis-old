@@ -44,7 +44,7 @@ In digital humanites we generally use R and Python for analysis of cour corpus.
 
 These analysis types can tell us if a text is positive or negative, the occurance of key themes within a text, maps show not only locations but movements of people, the growth of cities and how we have changed the landscape.
 
-sentiment analysis - "Sentiment analysis (or opinion mining) is a natural language processing technique used to determine whether data is positive, negative, or neutral."( 2021 Top 5 Unknown Sentiment Analysis Projects On Github To Help You Through Your NLP Projects, https://medium.com/analytics-vidhya/top-5-unknown-sentiment-analysis-projects-on-github-to-help-you-through-your-nlp-projects-8d8f195e80fc)   
+sentiment analysis - "Sentiment analysis (or opinion mining) is a natural language processing technique used to determine whether data is positive, negative, or neutral."(2021 Top 5 Unknown Sentiment Analysis Projects On Github To Help You Through Your NLP Projects, <a href ='https://medium.com/analytics-vidhya/top-5-unknown-sentiment-analysis-projects-on-github-to-help-you-through-your-nlp-projects-8d8f195e80fc' target="_blank"> link here </a>)   
 this analysis tool is used to find populuar sentiment on an idea or product.  it is very common to use when scanning social media or comments sections to see the response to ideas, good or bad. 
 
 
