@@ -7,6 +7,20 @@ nav: true
 
 -----
 
+## Pathways to analysis
+
+no matter what data you are starting with, it is important that you have an idea of what outcomes you are looking for.
+
+for analysis we need
+- data set
+- clean data, transcibe, annotated 
+
+focus for 
+- analysis
+- visualisations
+
+
+
 ## Plug and Play analysis tools
 
 Plug and play tools are interfaces where you can easily add data and analysis is done for you. The tools run on your web browser and are also know as Graphic user interface or GUI tools. The majority of these tools will be based up python or R analysis codes. We can use these tools for simple data analysis and visulations, they are really useful in getting started with analysis and getting an idea of what your data holds. 
@@ -62,13 +76,6 @@ If possible, see if you can identify the tools and coding packages used to under
 
 -----
 
-### Pathways to analysis
-
-no matter what data you are starting with, it is important that you have an idea of what you hope your analysis will tell you.
-
-- data set
-- clean data, transcibe, annotated 
-- analyse/visualise
 
 {% capture text %}
 - Activity.{% endcapture %} {% include card.md header="Activity - ..." text=text %}
