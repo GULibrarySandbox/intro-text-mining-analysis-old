@@ -48,16 +48,17 @@ Unstructured text in this context may include text from narratives (books, artic
 
 Structured text can include metadata from GLAM catalogues or finding aides, text in structured databases, possibly spreadsheets, even old ledgers and logbooks. 
 
-There are different processes that need to be undertaken with structured vs unstructured, or even semi-structured (you can probably guess what that is..) text.
+There are different processes that need to be undertaken with structured vs unstructured text.
 
-### Unstructured text
-Text data must be free of white space to make it computationally readable.  For modern pdfs this no trouble, for older texts you might need to transcribe the data, or clean the data, as scanned text may read as an image.
+### What to do with unstructured text
+- Text data must be free of white space to make it computationally readable.  
+   For modern pdfs this no trouble, for older texts you might need to transcribe the data, or clean the data, as scanned text may read as an image.
+- All tools in the table above can be used for preparing unstructured text data and OpenRefine can help provide structure to unstructured text.
+- Unstructured text in file formats such as `.doc` , `.docx`, `.rtf` (rich text format) can be exported as `.txt` via Microsoft Word.
 
-All tools in the table above can be used for preparing unstructured text data and OpenRefine can help provide structure to unstructured text.
-
-### Structured text
+### How to convert structured text formats
 - spreadsheet data like an excel sheet, reformat as a `.csv` file 
-- tabular data sets, like log books or ledgers you may need to transcribe the data into a tabular structure, or scan then format as `.txt`
+- file formats including `.xml`, `JSON`, `html`, import and converted using Microsoft Excel into `.csv` or `.txt` dlimited text file, in which a `tab` separates ech field of text.
 
 ### Audio data 
  
