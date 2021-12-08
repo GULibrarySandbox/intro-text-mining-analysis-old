@@ -58,13 +58,13 @@ There are different processes that need to be undertaken with structured vs unst
 
 ### How to convert structured text formats
 - spreadsheet data like an excel sheet, reformat as a `.csv` file 
-- file formats including `.xml`, `JSON`, `html`, import and converted using Microsoft Excel into `.csv` or `.txt` dlimited text file, in which a `tab` separates ech field of text.
+- file formats including `.xml`, `JSON`, `html`, import and convert using Microsoft Excel into `.csv` or `.txt` dlimited text file, in which a `tab` separates each field of text.
 
 ### Audio data 
  
 How you prepare this depends on what you are analysing for, if you are preparing interviews, you will need to transcribe the audio to text.  However, if you are analysing the sounds, such as accents or pronounciations of words, you will need to make sure the sound file is clear and unblemished.
 - youtube - use the transcription tools to generate text transcriptions
-- Alveo - tool to assist with transcription of interviews. <a href='https://www.alveo.edu.au/' target="_blank" > Alveo <a/>
+- [Alveo](https://www.alveo.edu.au/) - tool to assist with transcription of interviews.
  
 ------
 
@@ -72,20 +72,9 @@ How you prepare this depends on what you are analysing for, if you are preparing
 Prosecution Project researchers worked with a team of eResearch specialists and database and web designers to develop a structured database managed through a secure web portal. With the support of volunteers, they undertook massive digitisation, transcription and indexing work resulting in a longitudinal database of criminal prosecutions never before available in Australia. They also recognized the potential of enriching the data via links to the sources used such as newspaper articles in National Library of Australia TROVE database.  
 Read more about the project at: 
 Finnane, M., & Piper, A. (2016). The Prosecution Project: Understanding the Changing Criminal Trial Through Digital Tools. Law and History Review, 34(4), 873-891. [doi:10.1017/S0738248016000316](doi:10.1017/S0738248016000316)
-{% endcapture %} {% include card.md header="Case study -the Prosecution Project - digitising, transcribing, building" text=text %}
+{% endcapture %} {% include card.md header="Case study - the Prosecution Project - digitising, transcribing, building" text=text %}
 
 {% include figure.html img="ProsectionProject_image_1.png" alt="Prosecution Project database" caption="Prosecution Project database" width="100%" %}
-
-----
-### 
-
-
-{% capture text %}
-- .{% endcapture %} {% include card.md header="Activity - bla bla" text=text %}
-
-
-{% include button.md text="Watch this video on ...." link="https://vimeo.com/..." color="info" %}
-
 
 -----
 
