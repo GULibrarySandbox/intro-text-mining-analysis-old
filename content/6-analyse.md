@@ -14,6 +14,11 @@ Plug and play tools are interfaces where you can easily add data and analysis is
 - Pro's - easy to use, high level analysis, 
 - Cons - often inflexible, not good for deeper analysis
 
+### Gale digital scholar lab 
+Gale Digital scholar lab is an in house tool that can build, clean and analyse text based data. The lab is designed to use the Gale primary source archives, but you can use the analysis tools with your own data.
+Find out more about Gale digital schola lab <a href ='https://sway.office.com/v4sYacFkErbH9HNo' target=_"blank"> here. </a>
+
+
 #### Visualise your dataset
 - <a href ='https://voyant-tools.org/' target="_blank"> Voyant </a>
 - <a href ='https://rawgraphs.io/' target="_blank"> Raw graphs </a>
