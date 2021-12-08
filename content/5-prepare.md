@@ -39,9 +39,10 @@ Note: All text documents need to be formatted for machine readability.
 | | | | [DigiVol](https://volunteer.ala.org.au/) for structured text 
 {:.table .table-bordered}
 
-### unstructured vs structured text and machine readibility
 
-Humans understand that language and the text that represents it is highly complex and full of structure. However text is often described as unstructured when it does not fit easily into a database management system, or is easily processed by a computer (computers only understand the simplest of structures). 
+### Unstructured vs structured text and machine readibility
+
+Humans understand that language, and the text that represents it, is highly complex and full of structure. However text is often described as unstructured, when it does not fit easily into a database management system, or is not easily processed by a computer. 
 
 Unstructured text in this context may include text from narratives (books, articles etc.), interviews, survey responses with free text and more.  
 
