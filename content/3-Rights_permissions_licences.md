@@ -28,7 +28,9 @@ It may be necessary to gain consent from individuals whose information is contai
 You cannot assume that because a person has made a post on a public forum, that they consent to their post being used in your research.
 
 {% capture ongoing %}
-Consent may also be an ongoing process. Where the goals or potential outputs of your research might change over time, you might need to approach people for further consent. 
+**Consent may also be an ongoing process.**
+
+Where the goals or potential outputs of your research might change over time, you might need to approach people for further consent. 
 {% endcapture %}
 {% include alert.md text=ongoing color="primary" %}
 
@@ -36,9 +38,6 @@ Consent may also be an ongoing process. Where the goals or potential outputs of 
 {% include card.md header="Gaining informed consent" text=consent %}
 
 If you plan on obtaining your data by scraping webpages you may be inadvertently gathering personal information.
-
-
-Before undertaking research on existing datasets, be sure to read the terms and conditions of the use of the data,
 
 {% capture deidentify %}
 Where possible, you should remove personally identifying data from your data set before analysing and publishing it. This applies even where the information is not sensitive, unless the participants have given their informed consent to being identified in your study.
@@ -71,9 +70,19 @@ Accessing and downloading data is one thing — publishing it is another. Obtain
 
 If you have created the textual data yourself, or it is in the public domain, then you do not need to seek permission to use the data (you will still need permission from individual participants where that's appropriate — see the section on ethical considerations above). Usually, however, you will be obtaining data from a source that may have copyright ownership over it. So how do you get a license to use it?
 
+## Gaining access and permission
+
 {% capture permissionsblock %}
 
 Specific sites have specific terms explaining how researchers may access their data and what they are permitted to do with it. Some are very generous with their access provisions, while some do not allow re-use at all. Many sites allow their data to be used for research but prohibit commercial re-use.
+
+**When using data from a repository**
+
+Info about terms of service
+
+**When scraping web pages or querying an API**
+
+Info about scraping
 
 {% capture commercialuse %}
 **What constitutes commercial use?**
@@ -82,19 +91,21 @@ You might need to consider whether your publication constitutes commercial use.
 {% endcapture %}
 {% include alert.md text=commercialuse color="info" %}
 
+Before undertaking research on existing datasets, be sure to read the terms and conditions of the use of the data.
+
 A quick checklist might be: 
 
-How will the data be downloaded? Directly from the web, or via an API?
-To what degree is the data set in the public domain? Who is it owned by, if not?
-Is there an agreement or terms of use that you agreed to? What does it say about allowed or excluded uses?
-Do you have any plans to commercialise your research? Is that allowed by your access agreement?
-Will your published data be 'substantially similar' to the mined dataset?
-Will you be mixing different data sources? You might need to comply with both sets of terms, if they exist.
+ - How will the data be downloaded? Directly from the web, or via an API?
+ - To what degree is the data set in the public domain? Who is it owned by, if not?
+ - Is there an agreement or terms of use that you agreed to? What does it say about allowed or excluded uses?
+ - Do you have any plans to commercialise your research? Is that allowed by your access agreement?
+ - Will your published data be 'substantially similar' to the mined dataset?
+ - Will you be mixing different data sources? You might need to comply with both sets of terms, if they exist.
 
 When you are working with data you have generated yourself, or with text that is out of copyright and in the public domain (see below), then there will be no conditions attached to your use of the data.
 
 {% capture text %}
-**NB:** This does not mean there are no ethical considerations! If your corpus contains information about people then you ethical obligations to those people. 
+**NB:** This does not mean there are no ethical considerations! If your corpus contains information about people then you hold ethical obligations to those people. 
 {% endcapture %}
 {% include alert.md text=text color="warning" %}
 
@@ -103,11 +114,7 @@ However, if you are using a dataset built, created or maintained by someone else
 The level of permission you need to use and reuse research data depends on several variables, who owns the data, how you got the data and what you intend to use the data for.
 
 {% endcapture %}
-{% include card.md header="Gaining access and permission" text=permissionsblock %}
-
-When using data from a repository - data permissions
-
-when scraping for, or creating original data
+{% include card.md header="Terms of service" text=permissionsblock %}
 
 When publishing the data - sensitive data,  de- identified data
 
