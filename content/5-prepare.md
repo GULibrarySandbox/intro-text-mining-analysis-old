@@ -50,18 +50,18 @@ Structured text can include metadata from GLAM catalogues or finding aides, text
 
 There are different processes that need to be undertaken with structured vs unstructured, or even semi-structured (you can probably guess what that is..) text.
 
-### unstructured text
-- text data must be - free of white space - computationally readable
-- for modern pdfs - no trouble - for older texts you might need to transcribe the data, or clean the data using various tools as scanned text will read as an image.
-- all tools above can be used for preparing unstructured text data.  OpenRefine can help provide structure to unstructured text.
+### Unstructured text
+Text data must be free of white space to make it computationally readable.  For modern pdfs this no trouble, for older texts you might need to transcribe the data, or clean the data, as scanned text may read as an image.
 
-### structured text
+All tools in the table above can be used for preparing unstructured text data and OpenRefine can help provide structure to unstructured text.
+
+### Structured text
 - spreadsheet data like an excel sheet, reformat as a `.csv` file 
 - tabular data sets, like log books or ledgers you may need to transcribe the data into a tabular structure, or scan then format as `.txt`
 
 ### Audio data 
  
-How you prepare this depends on what you are analysing for, if you are preparing interviews, you will need to transcribe the audio to text, however, if you are analysing the sounds, say, accents or pronounciations of words you will need to make sure the sound file is clear and unblemished.
+How you prepare this depends on what you are analysing for, if you are preparing interviews, you will need to transcribe the audio to text.  However, if you are analysing the sounds, such as accents or pronounciations of words, you will need to make sure the sound file is clear and unblemished.
 - youtube - use the transcription tools to generate text transcriptions
 - Alveo - tool to assist with transcription of interviews. <a href='https://www.alveo.edu.au/' target="_blank" > Alveo <a/>
  
