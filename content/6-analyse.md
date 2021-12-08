@@ -44,7 +44,7 @@ Find out more about Gale digital scholar lab <a href ='https://go-gale-com.libra
 {% capture text %}
 in this activity try the plug and play tools listed. look at the results, look for the opportunity for use to the analysis and the limitations of each tool.{% endcapture %} {% include card.md header="Activity" text=text %}
 
-## code
+## Computational Analysis
 
 The use of computational analysis techniques in humanities reserach is the start point of Digital humanities reserach. 
 Using code for analysis can show us paterns and connections not seen through close reading alone. The use of code in analysis can help us find greater meaning in the data.
