@@ -83,9 +83,26 @@ Accessing and downloading data is one thing — publishing it is another. Obtain
 
 If you have created the textual data yourself, or it is in the public domain, then you do not need to seek permission to use the data (you will still need permission from individual participants where that's appropriate — see the section on ethical considerations above). Usually, however, you will be obtaining data from a source that may have copyright ownership over it. So how do you get a license to use it?
 
+Often it is OK to publish data sets containing text or data mining data.  This is because these datasets are very different from the data they mine (from a copyright point of view).  However you should firstly check with the Information Policy Officer: (antony.ley@griffith.edu.au) before publishing this data.
+
 ## Gaining access and permission
 
+Before undertaking research on existing datasets, be sure to read the terms and conditions of the use of the data.
+
+A quick checklist might be: 
+
+ - How will the data be downloaded? Directly from the web, or via an API?
+ - To what degree is the data set in the public domain? Who is it owned by, if not?
+ - Is there an agreement or terms of use that you agreed to? What does it say about allowed or excluded uses?
+ - Do you have any plans to commercialise your research? Is that allowed by your access agreement?
+ - Will your published data be 'substantially similar' to the mined dataset?
+ - Will you be mixing different data sources? You might need to comply with both sets of terms, if they exist.
+
 {% capture permissionsblock %}
+
+When you sign up for a social media service like Twitter, you agree to be bound by their Terms of Service. Those terms limit what you are allowed as a member to do with their site (including whether you can scrape their site). 
+
+Sites that provide an API to query their site contents will have separate Terms of Service relating to their API. 
 
 Specific sites have specific terms explaining how researchers may access their data and what they are permitted to do with it. Some are very generous with their access provisions, while some do not allow re-use at all. Many sites allow their data to be used for research but prohibit commercial re-use.
 
@@ -103,17 +120,6 @@ Info about scraping
 You might need to consider whether your publication constitutes commercial use.
 {% endcapture %}
 {% include alert.md text=commercialuse color="info" %}
-
-Before undertaking research on existing datasets, be sure to read the terms and conditions of the use of the data.
-
-A quick checklist might be: 
-
- - How will the data be downloaded? Directly from the web, or via an API?
- - To what degree is the data set in the public domain? Who is it owned by, if not?
- - Is there an agreement or terms of use that you agreed to? What does it say about allowed or excluded uses?
- - Do you have any plans to commercialise your research? Is that allowed by your access agreement?
- - Will your published data be 'substantially similar' to the mined dataset?
- - Will you be mixing different data sources? You might need to comply with both sets of terms, if they exist.
 
 When you are working with data you have generated yourself, or with text that is out of copyright and in the public domain (see below), then there will be no conditions attached to your use of the data.
 
