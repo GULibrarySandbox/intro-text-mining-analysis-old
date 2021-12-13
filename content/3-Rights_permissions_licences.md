@@ -17,22 +17,29 @@ Any research involving **human subjects** carries ethical obligations. Even if y
 
 ### Does my research inolve 'human subjects'?
 
-If you are obtaining your data by scraping webpages you may be inadvertently gathering personal information. Archival sources may also identify individuals.
+If you are obtaining your data by scraping webpages you may be inadvertently gathering personal information. [GLAM](https://glam-workbench.net/) archival sources might also contain personally identifying information.
 
 According to Griffith's [Ethics Booklet on Information Technology and Online Research](https://www.griffith.edu.au/__data/assets/pdf_file/0026/354752/booklet37.pdf), whether online content analysis is viewed as 'human research' depends on:
 
 1. the degree to which the material is 'on the public record' and;
 2. whether it is contentious or likely to be of concern to the subject.
 
+In general, the less the information could be considered 'on the public record' and the more likely the material might be contentious or of concern to the person, the more likely its inclusion would make the work 'human research'. 
+
+{% capture text %}
+If you're unsure about your ethical obligations, contact [Griffith research ethics](https://www.griffith.edu.au/research/research-services/research-ethics-integrity).
+{% endcapture %}
+{% include alert.md text=text color="info" %} 
+
 {% capture consent %}
 It may be necessary to gain consent from individuals whose information is contained in the data set you are using. 'Informed consent' requires that the subject know exactly how the information will be published and the potential risks to them or their reputation, as a result of publishing the information.
 
-You cannot assume that because a person has made a post on a public forum, that they consent to their post being used in your research.
+It's important to note that just because a person has made a post on a public forum (like Twitter or Facebook), they haven't provided you with their implied consent to their post being used in your research.
 
 {% capture ongoing %}
 **Consent may also be an ongoing process.**
 
-Where the goals or potential outputs of your research might change over time, you might need to approach people for further consent. 
+If you've already gained consent from your subjects and then want to do something new or different with your data, you might need to approach them for further consent.
 {% endcapture %}
 {% include alert.md text=ongoing color="primary" %}
 
