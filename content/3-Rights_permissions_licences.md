@@ -11,16 +11,18 @@ topics: Getting ethical clearance; Licenses and access agreements; Copyright
 ## Research data ethics
 
 {% capture text %}
-Any research involving human subjects carries ethical obligations. Even when working with publicly available datasets, your research may require to to obtain the necessary consents and ethical clearances, if it involves people in any way.
+Any research involving **human subjects** carries ethical obligations. Even if you are working with publicly available datasets, it might be necessary to obtain consent from the individuals involved and ethical clearance from the university.
 {% endcapture %}
 {% include alert.md text=text color="warning" %}
+
+### Does my research inolve 'human subjects'?
+
+If you are obtaining your data by scraping webpages you may be inadvertently gathering personal information. Archival sources may also identify individuals.
 
 According to Griffith's [Ethics Booklet on Information Technology and Online Research](https://www.griffith.edu.au/__data/assets/pdf_file/0026/354752/booklet37.pdf), whether online content analysis is viewed as 'human research' depends on:
 
 1. the degree to which the material is 'on the public record' and;
 2. whether it is contentious or likely to be of concern to the subject.
-
-Chapter 3.1, Element 4 of the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018) describes the ethical standards relating to the collection, use and management of data in human research.
 
 {% capture consent %}
 It may be necessary to gain consent from individuals whose information is contained in the data set you are using. 'Informed consent' requires that the subject know exactly how the information will be published and the potential risks to them or their reputation, as a result of publishing the information.
@@ -37,7 +39,9 @@ Where the goals or potential outputs of your research might change over time, yo
 {% endcapture %}
 {% include card.md header="Gaining informed consent" text=consent %}
 
-If you plan on obtaining your data by scraping webpages you may be inadvertently gathering personal information.
+### What are my ethical obligations?
+
+Chapter 3.1, Element 4 of the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018) describes the ethical standards relating to the collection, use and management of data in human research.
 
 {% capture deidentify %}
 Where possible, you should remove personally identifying data from your data set before analysing and publishing it. This applies even where the information is not sensitive, unless the participants have given their informed consent to being identified in your study.
