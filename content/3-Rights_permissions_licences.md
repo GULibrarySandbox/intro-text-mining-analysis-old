@@ -15,7 +15,7 @@ Any research involving **human subjects** carries ethical obligations. Even if y
 {% endcapture %}
 {% include alert.md text=text color="warning" %}
 
-### Does my research inolve 'human subjects'?
+### Does my research involve 'human subjects'?
 
 If you are obtaining your data by scraping webpages you may be inadvertently gathering personal information. [GLAM](https://glam-workbench.net/) archival sources might also contain personally identifying information.
 
@@ -34,7 +34,7 @@ If you're unsure about your ethical obligations, contact [Griffith research ethi
 {% capture consent %}
 It may be necessary to gain consent from individuals whose information is contained in the data set you are using. 'Informed consent' requires that the subject know exactly how the information will be published and the potential risks to them or their reputation, as a result of publishing the information.
 
-It's important to note that just because a person has made a post on a public forum (like Twitter or Facebook), they haven't provided you with their implied consent to their post being used in your research.
+It's important to note that just because a person has made a post on a public forum (like Twitter or Facebook), it doesn't mean they have given their implied consent to being included in your research.
 
 {% capture ongoing %}
 **Consent may also be an ongoing process.**
@@ -50,8 +50,10 @@ If you've already gained consent from your subjects and then want to do somethin
 
 Chapter 3.1, Element 4 of the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018) describes the ethical standards relating to the collection, use and management of data in human research.
 
+Griffith publishes a [Guide for Managing Your Research Data](https://www.griffith.edu.au/__data/assets/pdf_file/0025/1233907/20210107-Guide-to-managing-research-data.pdf) that outlines the considerations involved in preparing a Data Management Plan. Having this information ready will help you to explain to your participants 
+
 {% capture deidentify %}
-Where possible, you should remove personally identifying data from your data set before analysing and publishing it. This applies even where the information is not sensitive, unless the participants have given their informed consent to being identified in your study.
+It is usually (but not always) necessary to remove personally identifying data from your data set before analysing and publishing it. This applies even where the information is not sensitive, unless the participants have given their informed consent to being identified in your study.
 
 {% capture reidentification %}
 **Beware of re-identification**
@@ -70,14 +72,14 @@ If you're unsure about your ethical obligations, contact [Griffith research ethi
 {% endcapture %}
 {% include alert.md text=text color="info" %}
 
---
+- - -
 
 ## Data copyright
 
 {% capture copyrightwarning %}
 Accessing and downloading data is one thing — publishing it is another. Obtaining permission to do one does not mean you have permission to do the other.
 {% endcapture %}
-{% include alert.md text=copyrightwarning color="info" %}
+{% include alert.md text=copyrightwarning color="warning" %}
 
 If you have created the textual data yourself, or it is in the public domain, then you do not need to seek permission to use the data (you will still need permission from individual participants where that's appropriate — see the section on ethical considerations above). Usually, however, you will be obtaining data from a source that may have copyright ownership over it. So how do you get a license to use it?
 
