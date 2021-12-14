@@ -19,12 +19,14 @@ Any research involving **human subjects** carries ethical obligations. Even if y
 
 If you are obtaining your data by scraping webpages you may be inadvertently gathering personal information. [GLAM](https://glam-workbench.net/) archival sources might also contain personally identifying information.
 
+Further, just because a person has made a post on a public forum like Twitter or Facebook, it doesn't mean they have consented to its being included in your research.
+
 According to Griffith's [Ethics Booklet on Information Technology and Online Research](https://www.griffith.edu.au/__data/assets/pdf_file/0026/354752/booklet37.pdf), whether online content analysis is viewed as 'human research' depends on:
 
 1. the degree to which the material is 'on the public record' and;
 2. whether it is contentious or likely to be of concern to the subject.
 
-In general, the less the information could be considered 'on the public record' and the more likely the material might be contentious or of concern to the person, the more likely its inclusion would make the work 'human research'. 
+In general, the less the information could be considered 'on the public record' and the more likely the material might be contentious or of concern to the person, the more likely its inclusion would make the work 'human research'.
 
 {% capture text %}
 If you're unsure about your ethical obligations, contact [Griffith research ethics](https://www.griffith.edu.au/research/research-services/research-ethics-integrity).
@@ -32,9 +34,7 @@ If you're unsure about your ethical obligations, contact [Griffith research ethi
 {% include alert.md text=text color="info" %} 
 
 {% capture consent %}
-It may be necessary to gain consent from individuals whose information is contained in the data set you are using. 'Informed consent' requires that the subject know exactly how the information will be published and the potential risks to them or their reputation, as a result of publishing the information.
-
-It's important to note that just because a person has made a post on a public forum (like Twitter or Facebook), it doesn't mean they have given their implied consent to being included in your research.
+'Informed consent' requires that the subject know exactly how the information will be published and the potential risks to them or their reputation, as a result of publishing the information.
 
 {% capture ongoing %}
 **Consent may also be an ongoing process.**
@@ -53,7 +53,7 @@ Chapter 3.1, Element 4 of the National Statement on the [Ethical Conduct in Huma
 Griffith publishes a [Guide for Managing Your Research Data](https://www.griffith.edu.au/__data/assets/pdf_file/0025/1233907/20210107-Guide-to-managing-research-data.pdf) that outlines the considerations involved in preparing a Data Management Plan. Having this information ready will help you to explain to your participants 
 
 {% capture deidentify %}
-It is usually (but not always) necessary to remove personally identifying data from your data set before analysing and publishing it. This applies even where the information is not sensitive, unless the participants have given their informed consent to being identified in your study.
+Unless the participants have given their informed consent to being identified, you might need to remove personally identifying data from your data set before publishing it. This applies to all personal information, not just data which is sensitive or confidential.
 
 {% capture reidentification %}
 **Beware of re-identification**
