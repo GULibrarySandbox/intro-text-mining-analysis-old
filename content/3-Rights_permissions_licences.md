@@ -108,7 +108,7 @@ Some data is in the public domain (meaning nobody owns the copyright), or is lic
 It's possible for some Creative Commons licenses include a 'No Derivatives' term, which would prevent you from publishing new works based on the original. It's unlikely however that that a CC dataset would be published with a 'No Derivatives' term.
 
 {% endcapture %}
-{% include card.md header="Public domain and Creative Commons" text=text %}
+{% include card.md header="Public domain and Creative Commons" text=publicdomain %}
 
 {% capture permissionsblock %}
 
