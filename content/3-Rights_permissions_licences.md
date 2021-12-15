@@ -55,12 +55,13 @@ Griffith publishes a [Guide for Managing Your Research Data](https://www.griffit
 {% capture deidentify %}
 Unless the participants have given their informed consent to being identified, you might need to remove personally identifying data from your data set before publishing it. This applies to all personal information, not just data which is sensitive or confidential.
 
+Where a social media service has a search function, using direct quotes can identify individuals.
+
 {% capture reidentification %}
 **Beware of re-identification**
 
 If de-identification is done carelessly, or there are many data points in a data set that are unique to an individual, the data can be re-identified. In at least one case, this has led to published data sets being retracted.
 
-Note also that when a social media service has a search function, direct quotes from individuals can identify them
 {% endcapture %}
 {% include alert.md text=reidentification color="danger" %}
 
@@ -76,35 +77,40 @@ If you're unsure about your ethical obligations, contact [Griffith research ethi
 
 ## Data copyright
 
+Both copyright law and any relevant licensing terms will affect what you can do with scraped data.
+
 {% capture copyrightwarning %}
 Accessing and downloading data is one thing — publishing it is another. Obtaining permission to do one does not mean you have permission to do the other.
 {% endcapture %}
 {% include alert.md text=copyrightwarning color="warning" %}
 
-If you have created the textual data yourself, or it is in the public domain, then you do not need to seek permission to use the data (you will still need permission from individual participants where that's appropriate — see the section on ethical considerations above). Usually, however, you will be obtaining data from a source that may have copyright ownership over it. So how do you get a license to use it?
+Copyright law prevents you from publishing data sets owned by someone else without permission. If your published data is only slightly altered from the original, its copyright would still remain with the original owner. However, the results published from text or data mining are often very different from the data they mine, meaning it may not be considered substantially the same work.
 
-Often it is OK to publish data sets containing text or data mining data.  This is because these datasets are very different from the data they mine (from a copyright point of view).  However you should firstly check with the Information Policy Officer: (antony.ley@griffith.edu.au) before publishing this data.
+{% capture text %}
+If you are intending to publish anything based on copyrighted data, always check with the [Information Policy Officer](http://www.griffith.edu.au/copyright-matters/) first.
+{% endcapture %}
+{% include alert.md text=text color="info" %}
 
 ## Gaining access and permission
 
-Before undertaking research on existing datasets, be sure to read the terms and conditions of the use of the data.
+Social media sites, online archives and repositories all have Terms of Service that determine what you are allowed to do with their data (including whether scraping or bulk-access is allowed). Where a site provides an API, separate Terms of Service will usually apply to that.
 
-A quick checklist might be: 
+Many sites allow research or non-commercial scraping or API use.
 
- - How will the data be downloaded? Directly from the web, or via an API?
- - To what degree is the data set in the public domain? Who is it owned by, if not?
- - Is there an agreement or terms of use that you agreed to? What does it say about allowed or excluded uses?
- - Do you have any plans to commercialise your research? Is that allowed by your access agreement?
- - Will your published data be 'substantially similar' to the mined dataset?
- - Will you be mixing different data sources? You might need to comply with both sets of terms, if they exist.
+{% capture publicdomain %}
+Some data is in the public domain (meaning nobody owns the copyright), or is licensed under free or public licenses like [Creative Commons](https://creativecommons.org.au) or (Copyleft)[https://opensource.com/resources/what-is-copyleft]. Creative Commons is not the same as being copyright-free. It is still a kind of license that you need to comply with. The main difference is that you don't have to ask permission to use the material. Permission is granted by the owner in advance, provided that you conform to the licence terms. 
+
+{% capture stillethics %}
+**NB:** This does not mean there are no ethical considerations! If your corpus contains information about people then you may still hold ethical obligations to them.
+{% endcapture %}
+{% include alert.md text=stillethics color="warning" %}
+
+It's possible for some Creative Commons licenses include a 'No Derivatives' term, which would prevent you from publishing new works based on the original. It's unlikely however that that a CC dataset would be published with a 'No Derivatives' term.
+
+{% endcapture %}
+{% include card.md header="Public domain and Creative Commons" text=text %}
 
 {% capture permissionsblock %}
-
-When you sign up for a social media service like Twitter, you agree to be bound by their Terms of Service. Those terms limit what you are allowed as a member to do with their site (including whether you can scrape their site). 
-
-Sites that provide an API to query their site contents will have separate Terms of Service relating to their API. 
-
-Specific sites have specific terms explaining how researchers may access their data and what they are permitted to do with it. Some are very generous with their access provisions, while some do not allow re-use at all. Many sites allow their data to be used for research but prohibit commercial re-use.
 
 **When using data from a repository**
 
@@ -117,16 +123,12 @@ Info about scraping
 {% capture commercialuse %}
 **What constitutes commercial use?**
 
-You might need to consider whether your publication constitutes commercial use.
+You might need to consider whether your use of the data constitutes commercial use.
+
 {% endcapture %}
 {% include alert.md text=commercialuse color="info" %}
 
 When you are working with data you have generated yourself, or with text that is out of copyright and in the public domain (see below), then there will be no conditions attached to your use of the data.
-
-{% capture text %}
-**NB:** This does not mean there are no ethical considerations! If your corpus contains information about people then you hold ethical obligations to those people. 
-{% endcapture %}
-{% include alert.md text=text color="warning" %}
 
 However, if you are using a dataset built, created or maintained by someone else, you will always be accessing it under the terms of some license or other. It might be an open license such as Creative Commons or the Unlicense
 
