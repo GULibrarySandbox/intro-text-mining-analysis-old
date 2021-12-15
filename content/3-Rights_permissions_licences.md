@@ -86,10 +86,10 @@ Accessing and downloading data is one thing — publishing it is another. Obtain
 
 Copyright law prevents you from publishing data sets owned by someone else without permission. If your published data is only slightly altered from the original, its copyright would still remain with the original owner. However, the results published from text or data mining are often very different from the data they mine, meaning it may not be considered substantially the same work.
 
-{% capture text %}
+{% capture checkwithcopyrightofficer %}
 If you are intending to publish anything based on copyrighted data, always check with the [Information Policy Officer](http://www.griffith.edu.au/copyright-matters/) first.
 {% endcapture %}
-{% include alert.md text=text color="info" %}
+{% include alert.md text=checkwithcopyrightofficer color="info" %}
 
 ## Gaining access and permission
 
