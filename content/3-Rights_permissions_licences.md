@@ -98,7 +98,7 @@ Social media sites, online archives and repositories all have Terms of Service t
 Many sites allow research or non-commercial scraping or API use.
 
 {% capture publicdomain %}
-Some data is in the public domain (meaning nobody owns the copyright), or is licensed under free or public licenses like [Creative Commons](https://creativecommons.org.au) or (Copyleft)[https://opensource.com/resources/what-is-copyleft]. Creative Commons is not the same as being copyright-free. It is still a kind of license that you need to comply with. The main difference is that you don't have to ask permission to use the material. Permission is granted by the owner in advance, provided that you conform to the licence terms. 
+Some data is in the public domain (meaning nobody owns the copyright), or is licensed under free or public licenses like [Creative Commons](https://creativecommons.org.au) or [Copyleft][https://opensource.com/resources/what-is-copyleft]. Creative Commons is not the same as being copyright-free. It is still a kind of license that you need to comply with. The main difference is that you don't have to ask permission to use the material. Permission is granted by the owner in advance, provided that you conform to the licence terms. 
 
 {% capture stillethics %}
 **NB:** This does not mean there are no ethical considerations! If your corpus contains information about people then you may still hold ethical obligations to them.
@@ -137,14 +137,6 @@ The level of permission you need to use and reuse research data depends on sever
 {% endcapture %}
 {% include card.md header="Terms of service" text=permissionsblock %}
 
-When publishing the data - sensitive data,  de- identified data
-
---
-
-
-  
------
-  
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/2-why.html"><-- BACK</a> |
