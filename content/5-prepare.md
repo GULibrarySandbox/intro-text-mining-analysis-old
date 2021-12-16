@@ -6,7 +6,17 @@ nav: true
 # Prepare 
 
 Preparing or cleaning your data makes it consistent and machine readable for analysis. This process differs depending on what types and formats of files you are analysing.  
+
+## Cleaning your data 
+How you cleand your data depends on what type of data you have. There are two main types of dataset used; sturctured, which takes the form of tabular data like in spreadsheet or a ledger and unstructured, which is free form text, such as diary entries, newpaper articles, letters and so on. 
+
+For Structured data, broadly speaking, for resources to be clean, this means consistent data in each column, eg; consistent spelling and abreviations and as far as possible no blank spaces in the data sheets.
+For unstrucutred data this means the text is compuationally analysable, the tools will be able to read text but not images of text, pages are free of white space, pages of text must be free of images and the text needs to be clear and unobscured. 
+
+Data cleaning is covered in greater detail in <a href ='https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-prepare.html' target="_blank">section 5 </a> of this resource. 
 {% include figure.html img="Textformats1.jpg" alt="Text as data formats, Speech to text, Handwritten text, Printed text, Digital text" caption="Different text as data formats that need processing" width="100%" %}
+
+
 ## Text as data - what does it include?
 
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
