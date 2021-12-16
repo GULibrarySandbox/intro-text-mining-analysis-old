@@ -25,17 +25,6 @@ Regaurdless of how your data set is created there are several elements that need
 - Structured Vs Unstructured text.  Structured text is waht we more commonly call spread sheet data. This can take the form of log books, ledgers and other records, eg: old census data, birth deaths and marraige records, shipping logs and so on. These materails have a structure and need to be transcribed as such. Unstructured text is written text. This is generally found as letters, diary entries, journal articles books and written content. Our main focus on these pages is to use the data found in unstructured text. *How to get your data in to computationally analyisable formats is covered in the <a href ='https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-prepare.html' target="_blank">prepare section</a> of this resource.*
 
 
-### Cleaning your data 
-How you cleand your data depends on what type of data you have. There are two main types of dataset used; sturctured, which takes the form of tabular data like in spreadsheet or a ledger and unstructured, which is free form text, such as diary entries, newpaper articles, letters and so on. 
-
-For Structured data, broadly speaking, for resources to be clean, this means consistent data in each column, eg; consistent spelling and abreviations and as far as possible no blank spaces in the data sheets.
-For unstrucutred data this means the text is compuationally analysable, the tools will be able to read text but not images of text, pages are free of white space, pages of text must be free of images and the text needs to be clear and unobscured. 
-
-Data cleaning is covered in greater detail in <a href ='https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-prepare.html' target="_blank">section 5 </a> of this resource. 
-
-
-
-
 ## Examples
 
 ### GLAM Digital collections - primary source materials
