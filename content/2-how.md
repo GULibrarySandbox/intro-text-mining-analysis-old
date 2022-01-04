@@ -20,7 +20,7 @@ Source: Green, H., Henley, A., Morse, G., Courtney, A., Heidenwolf, T., Koehl, E
 Consider the questions below when embarking on a text mining project.
 
 **what is your desired outcome?**
-- think about waht you need the outcome to be and decide if this is the best way to reach that outcome.  The learning curve for many of the tools and processes is quite steep and there may be easier options. 
+- think about what you need the outcome of your research to be and decide if using this method is the best way to reach that outcome.  The learning curve for many of the tools and processes is quite steep and there may be easier options. 
 
 
 **Do you already have a dataset, corpus or text source?**
