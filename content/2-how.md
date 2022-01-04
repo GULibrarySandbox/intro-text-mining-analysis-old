@@ -27,7 +27,9 @@ Consider the questions below when embarking on a text mining project.
 - GLAM catalogues, subscription databases, websites, social media are all great sources [here, link to new libguide]
 
 **Is the text you want to use already digitised?**
-- Handwriting, OCR recognition or even Speech to Text services might be needed, and lot of cleaning after.
+- if the text is in the form of a modern PDF it should not need any further amendments. However, with texts made up of handwritten content, OCR recognition tools or even Speech to Text services might be needed, where you read the text into a transcription tool. With older PDFs or handwritten digital texts you will need to transcribe the materials to a machine readible format. txt is the universal format, PDF can also be used. 
+
+
 
 **What are the copyright or licencing requirements?**
 - Some collections, particularly before a certain date provide licences for use such as [TROVE](https://trove.nla.gov.au/) from The National Library of Australia, or
@@ -44,7 +46,7 @@ Consider the questions below when embarking on a text mining project.
 
 ### Prepare text for processing
 
-- prior to processing you will need to ensure your text is clean, consistently formatted and computationally analysable. .txt is hte preffered format. 
+- prior to processing you will need to ensure your text is clean. By clean we mean consistently formatted, white space removed and the text is computationally analysable .txt is the preffered format, PDF can also be used. 
 
 
 ### Computationally process text to extract data
