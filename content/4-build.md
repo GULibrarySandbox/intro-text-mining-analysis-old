@@ -9,7 +9,9 @@ Building a corpus is the process of creating your data set. A corpus can be buil
 ## Find data
 Data is everywhere, we can find data in repositories, archives, libraries, museums to name a few. an easy way to get started in finding discipline specific data sets is in the Griffith guide <a href ='https://libraryguides.griffith.edu.au/finddata' target="_blank">Finding data guide </a>. The data on these guides is generally easily downloaded and free to use.  Be sure to cite any resource you use in your research. 
 
-Datasets are often available directly from the source, repositories will have links to the datasets that can be downloaded.  When using text data or gathering data from online sources you may need to use an API.  API is the acronym for Application Programming Interface, which is a software tool that allows two applications to talk to each other. 
+If you cannot get the data you need from the available guides you can go directly from the source, webpages often make their data available to reserachers. Archives and other repositories will have links to the datasets that can be downloaded, as will Government webpages.  
+
+ When using text data or gathering data from online sources you may need to use an API.  API is the acronym for Application Programming Interface, which is a software tool that allows two applications to talk to each other. 
 In the case of collecting web data, this is a database that stores the webpages data and something that can read, display or store that data (i.e. a webbrowser, a programming language such as python or some other program on your computer, or a cloud based application).
 
 If a website has an API, then use it. Generally, webpages won't let us collect data using the API is by far the easiest way to collect a websites data. 
