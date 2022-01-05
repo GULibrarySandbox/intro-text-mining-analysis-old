@@ -7,7 +7,7 @@ nav: true
 Building a corpus is the process of creating your data set. A corpus can be built either through existing data, collation of resources or generating your own data. No matter how the dataset is created there are a few things that are required. The data needs to be machine readable, the data needs to be clean and if you are using tabular or structured data, your dataset needs to be consistent. 
 
 ## Find data
-Data is everywhere, we can find data in repositories, archives, libraries, museums to name a few. an easy way to get started in finding discipline specific data sets is in the Griffith guide <a href ='https://libraryguides.griffith.edu.au/finddata' target="_blank">Finding data guide </a>
+Data is everywhere, we can find data in repositories, archives, libraries, museums to name a few. an easy way to get started in finding discipline specific data sets is in the Griffith guide <a href ='https://libraryguides.griffith.edu.au/finddata' target="_blank">Finding data guide </a>. The data on these guides is generally easily downloaded and free to use.  Be sure to cite any resource you use in your research. 
 
 Datasets are often available directly from the source, repositories will have links to the datasets that can be downloaded.  When using text data or gathering data from online sources you may need to use an API.  API is the acronym for Application Programming Interface, which is a software tool that allows two applications to talk to each other. 
 In the case of collecting web data, this is a database that stores the webpages data and something that can read, display or store that data (i.e. a webbrowser, a programming language such as python or some other program on your computer, or a cloud based application).
