@@ -66,7 +66,7 @@ Natural language processing (NLP) is the branch of artificial intelligence (AI) 
 -	Syntactic parsing
 -	(Semantic Role Labeling)?? source: Dr. Yoshimasa Tsuruoka's tutorial at the National Centre for Text Mining here: http://www.nactem.ac.uk/teaching/ 
 
-Machine learning 
+## Machine learning 
 
 The processes then enable tasks such as:
 
