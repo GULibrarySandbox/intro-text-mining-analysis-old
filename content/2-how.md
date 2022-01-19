@@ -53,6 +53,9 @@ Consider the questions below when embarking on a text mining project.
 
 Natural language processing (NLP) techniques
 
+Natural language processing (NLP) is the branch of artificial intelligence (AI) that deals with training a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. (https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
+
+
 (add definition - https://www.ibm.com/cloud/learn/natural-language-processing)
 
 -	Sentence splitting
