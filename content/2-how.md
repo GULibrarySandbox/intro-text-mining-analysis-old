@@ -53,6 +53,8 @@ Consider the questions below when embarking on a text mining project.
 
 Natural language processing (NLP) techniques
 
+(add definition - https://www.ibm.com/cloud/learn/natural-language-processing)
+
 -	Sentence splitting
 -	Tokenization
 -	Part-of-speech tagging
