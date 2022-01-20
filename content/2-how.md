@@ -55,9 +55,7 @@ Natural language processing (NLP) techniques
 
 Natural language processing (NLP) is the branch of artificial intelligence (AI) that deals with training a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. (https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
 
-
-(add definition - https://www.ibm.com/cloud/learn/natural-language-processing)
-
+in practice, NLP tools break down text into analysable parts, these parts include
 -	Sentence splitting
 -	Tokenization
 -	Part-of-speech tagging
@@ -65,6 +63,8 @@ Natural language processing (NLP) is the branch of artificial intelligence (AI) 
 -	Named entity recognition
 -	Syntactic parsing
 -	(Semantic Role Labeling)?? source: Dr. Yoshimasa Tsuruoka's tutorial at the National Centre for Text Mining here: http://www.nactem.ac.uk/teaching/ 
+
+With these parts we can create new data on the resource, look for themes and relationships in the text and identify person and place names.  
 
 ## Machine learning 
 
