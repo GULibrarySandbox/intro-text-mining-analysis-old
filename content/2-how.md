@@ -75,6 +75,10 @@ The processes then enable tasks such as:
 - topic modeling - "identify groups of terms that tend to be representative of a given topic" Toon, E., Timmermann, C., & Worboys, M. (2016). Text-mining and the history of medicine: Big data, big questions? Medical History, 60(2), 294-296. https://doi.org/10.1017/mdh.2016.18 
 - named entity recognition 
 
+https://en.wikipedia.org/wiki/Machine_learning
+
+https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/
+
 
 ### Analyse
 Computational text analysis methods include:
