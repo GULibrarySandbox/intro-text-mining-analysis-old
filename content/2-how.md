@@ -64,16 +64,15 @@ in practice, NLP tools break down text into analysable parts, these parts includ
 -	Syntactic parsing
 -	(Semantic Role Labeling)?? source: Dr. Yoshimasa Tsuruoka's tutorial at the National Centre for Text Mining here: http://www.nactem.ac.uk/teaching/ 
 
-With these parts we can create new data on the resource, look for themes and relationships in the text and identify person and place names.  (example)
-
-## Machine learning 
-
-The processes then enable tasks such as:
+once the data has been process, we can then take on tasks such as:
 
 - "find and compare the number of instances of particular terms over time in a defined corpus"
+- 
 - "finding the relative frequency of the words in a text and then visualising these in a way that makes the different frequencies apparent, for example, by size and position in word clouds"
+- 
 - topic modeling - "identify groups of terms that tend to be representative of a given topic" Toon, E., Timmermann, C., & Worboys, M. (2016). Text-mining and the history of medicine: Big data, big questions? Medical History, 60(2), 294-296. https://doi.org/10.1017/mdh.2016.18 
-- named entity recognition 
+- 
+- named entity recognition, to find either person or place, or both.  
 
 https://en.wikipedia.org/wiki/Machine_learning
 
