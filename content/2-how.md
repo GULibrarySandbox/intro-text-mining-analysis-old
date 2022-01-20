@@ -64,7 +64,7 @@ in practice, NLP tools break down text into analysable parts, these parts includ
 -	Syntactic parsing
 -	(Semantic Role Labeling)?? source: Dr. Yoshimasa Tsuruoka's tutorial at the National Centre for Text Mining here: http://www.nactem.ac.uk/teaching/ 
 
-With these parts we can create new data on the resource, look for themes and relationships in the text and identify person and place names.  
+With these parts we can create new data on the resource, look for themes and relationships in the text and identify person and place names.  (example)
 
 ## Machine learning 
 
