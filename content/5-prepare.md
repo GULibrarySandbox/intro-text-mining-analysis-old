@@ -34,7 +34,7 @@ Data cleaning is covered in greater detail in <a href ='https://griffithunilibra
 {:.table .table-bordered}
 
 {% capture text %}
-Note: All text documents need to be formatted for machine readability.  
+Note: All text documents need to be formatted for machine readability. Machine readability means consistency of fonts, clear text, the removal of punctuation and white space and all other formatting or macros.
 `.txt`  is the best format as it is non-proprietary & used in text analysis tools.  
 `.pdf`  OCR processed format is accepted by some analysis tools.{% endcapture %}
 {% include alert.md text=text color="info" %}
