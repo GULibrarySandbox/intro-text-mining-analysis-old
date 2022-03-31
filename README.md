@@ -12,7 +12,8 @@ Learning Outcomes: 
 - Ability to find textual data for digital analysis  
 - Choose the best tool for your dataset at each stage of the digital research process.  
     
-Download and play with software and datasets, do activities and watch videos to guide you through the lessons. Give yourself around ??? hours to complete the modules.
+Download and play with software and datasets, do activities and watch videos to guide you through the lessons. The lessons are sequential but can be used as stand alone tool
+Give yourself around 3 hours to complete all the modules.
 
 All materials in these lessons are licenced CC BY.
 
