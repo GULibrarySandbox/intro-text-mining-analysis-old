@@ -2,6 +2,7 @@
 title: What
 nav: true
 ---
+
 # Introduction to the analysis of digital texts and tools
 
 This page is about using computational methods to analyse text based data sets.  This is a growing and fluid space with new tools and resources constantly being developed for use. 
