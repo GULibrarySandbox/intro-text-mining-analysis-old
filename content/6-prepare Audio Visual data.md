@@ -1,3 +1,6 @@
+title: Prepare Audio Visual data
+nav: true
+
 ## Video and Audio data 
 
 The preparation of video and audio data is hugely important if you are conducting interviews, annotating sound, recording the views and emotions of focus groups or note taking from video observations. 
