@@ -3,6 +3,8 @@ title: Prepare Audio Visual data
 nav: true
 ---
 ## Video and Audio data 
+![image](https://user-images.githubusercontent.com/42364968/169417549-371d6781-7efd-4f03-b2a3-49c30f46de34.png)
+
 
 The preparation of video and audio data is hugely important if you are analysing interview content, annotating sounds, recording the views and emotions of focus groups or note taking from video observations. 
  
