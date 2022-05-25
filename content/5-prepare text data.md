@@ -3,6 +3,9 @@ title: Prepare text data
 nav: true
 ---
 
+![image](https://user-images.githubusercontent.com/42364968/170155378-7e7a9952-f36b-43cf-8ab5-6ba0826de422.png)
+
+
 # Prepare 
 
 Preparing or cleaning your data makes it consistent and machine readable for analysis. This process differs depending on what types and formats of files you are analysing.  
