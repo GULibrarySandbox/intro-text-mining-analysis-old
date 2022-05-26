@@ -20,3 +20,5 @@ All materials in these lessons are licenced CC BY.
 Add other acknowledgements.....here....
 
 [Workshop-template-b](https://github.com/evanwill/workshop-template-b) by [evanwill](https://github.com/evanwill) is built using [Jekyll](https://jekyllrb.com/) on [GitHub Pages](https://pages.github.com/). The site is styled using Bootstrap with FontAwesome icons.
+
+Griffith University - CRICOS Provider Number 00233E.
