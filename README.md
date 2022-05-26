@@ -3,9 +3,9 @@ A self-paced [online workshop](https://griffithunilibrary.github.io/intro-text-m
 
 An introduction to digital methods and tools in humanities and social sciences (HASS) scholarship focusing on the following in the Digital Humanities workflow: 
 
-- Build: where to locate and how to gather textual data for your corpora or data set   
-- Prepare: explore useful processes and tools to prepare textual data for analysis, including transcription tools to use and data recognition (OCR) to ensure machine readability  
-- Analyse: identify different types of analysis used to interrogate content and uncover new insights
+- **Build**: where to locate and how to gather textual data for your corpora or data set   
+- **Prepare**: explore useful processes and tools to prepare textual data for analysis, including transcription tools to use and data recognition (OCR) to ensure machine readability  
+- **Analyse**: identify different types of analysis used to interrogate content and uncover new insights
 
 Learning Outcomes:  
 - Understand the basic workflow of researching with digital text  
