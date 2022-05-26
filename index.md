@@ -24,12 +24,14 @@ Download and play with software and datasets, do activities and watch videos to 
 
 {% include toc.html %}
 
-All materials in these lessons are licenced CC BY.
+All materials in these lessons are licenced [CC BY](https://creativecommons.org/licenses/by/4.0/).
 
-Add other acknowledgements.....here....
+Add other acknowledgements ... here.
 
 Hosted by [Griffith University Library](https://www.griffith.edu.au/library), {{ site.pub_year }}.
   
 ------
 
 {% include credits.html %}
+
+Griffith University - CRICOS Provider Number 00233E.
