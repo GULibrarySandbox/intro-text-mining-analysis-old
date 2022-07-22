@@ -50,7 +50,7 @@ Cleaning is the first step to preparing your text for computational analysis. By
 
 Natural language processing (NLP) is the branch of artificial intelligence (AI) that deals with training a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. (https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
 
-in practice, NLP tools break down text into analysable parts, these parts include
+in practice, NLP tools break down text into analysable parts, these parts include:
 -	Sentence splitting
 -	Tokenization
 -	Part-of-speech tagging
@@ -58,19 +58,12 @@ in practice, NLP tools break down text into analysable parts, these parts includ
 -	Named entity recognition
 -	Syntactic parsing (Tsuruoka, n.d.) 
 
-once the data has been process, we can then take on tasks such as:
-
-- "find and compare the number of instances of particular terms over time in a defined corpus"
-- 
-- "finding the relative frequency of the words in a text and then visualising these in a way that makes the different frequencies apparent, for example, by size and position in word clouds"
-- 
+Once the data has been processed, we can then take on tasks such as:
+- find and compare instances of particular terms over time via defined 
+- Word frequency analysis and visualisation via word clouds
 - topic modeling - "identify groups of terms that tend to be representative of a given topic" Toon, E., Timmermann, C., & Worboys, M. (2016). Text-mining and the history of medicine: Big data, big questions? Medical History, 60(2), 294-296. https://doi.org/10.1017/mdh.2016.18 
-- 
 - named entity recognition, to find either person or place, or both.  
-
-https://en.wikipedia.org/wiki/Machine_learning
-
-https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/
+- machine learning https://en.wikipedia.org/wiki/Machine_learning & https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/
 
 
 ### Analyse
