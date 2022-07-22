@@ -16,7 +16,7 @@ Learn steps to: 
 Learning Outcomes: 
 
 - Understand the basic workflow of researching with digital text 
-- Basic knowledge of textual data, its types and usage considerations  
+- Identify different types of textual data and usage considerations  
 - Ability to find textual data for digital analysis 
 - Choose the best tool for your dataset at each stage of the digital research process. 
 
