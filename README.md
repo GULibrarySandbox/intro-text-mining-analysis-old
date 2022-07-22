@@ -7,9 +7,9 @@ An introduction to digital methods and tools in humanities and social sciences
 - **Prepare**: explore useful processes and tools to prepare textual data for analysis, including transcription tools to use and data recognition (OCR) to ensure machine readability  
 - **Analyse**: identify different types of analysis used to interrogate content and uncover new insights
 
-Learning Outcomes:  
+Learning outcomes:
 - Understand the basic workflow of researching with digital text  
-- Basic knowledge of textual data, its types and usage considerations   
+- Identify different types of textual data and usage considerations   
 - Ability to find textual data for digital analysis  
 - Choose the best tool for your dataset at each stage of the digital research process.  
     
