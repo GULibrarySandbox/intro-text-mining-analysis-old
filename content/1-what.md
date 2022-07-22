@@ -33,7 +33,7 @@ Explore one of the reasons why computational methods are used in text research b
 - help understand texts and [underlying social and cultural phenomena at scale](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/detail.action?docID=5772971)
 - expand textual studies with [temporal or geographical context](https://glam-workbench.net/web-archives/#exploring-change-over-time)
 - create [visual exploration](http://www.sixdegreesoffrancisbacon.com/) of text, see also image below
-- to undertake [statistical analysis](https://journals-sagepub-com.libraryproxy.griffith.edu.au/doi/pdf/10.1177/1532673X02030002003)of text{% endcapture %} {% include card.md header="Activity: explore text research using computational methods" text=text %}
+- to undertake [statistical analysis](https://journals-sagepub-com.libraryproxy.griffith.edu.au/doi/pdf/10.1177/1532673X02030002003) of text{% endcapture %} {% include card.md header="Activity: explore text research using computational methods" text=text %}
 
 Below is an example of an interactive visual exploration of Francis Bacon's network of associations, created by a group of researchers using computational methods with text.  It is interactive and can be explored at [http://www.sixdegreesoffrancisbacon.com/](http://www.sixdegreesoffrancisbacon.com/).
 {% include figure.html img="SixDegreesFrancisBacon.png" alt="Francis Bacon Network visualisation" caption="Francis Bacon Network visualisation" width="100%" %}
