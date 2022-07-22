@@ -3,21 +3,9 @@ title: What
 nav: true
 ---
 
-# Introduction to the analysis of digital texts and tools
+# Insights from text 
 
-This page is about using computational methods to analyse text based data sets.  This is a growing and fluid space with new tools and resources constantly being developed for use. 
-the content on these pages will help you create and build computataionally analysable data sets,  introduce computational methods for analysis for both plug and play tools and through code. 
-
-Digital humanities is a fluid growing area or research, how we define Digital humanities changes as new ideas are introduced 
-<a href ='https://whatisdigitalhumanities.com/' target="_blank">check here for todays defintion</a>
-
-We analyse text based resources to find new meanings, to show connections and add value to our research. 
-
-
------
-### Insights from text 
-
-Text is considered even in the 21st century, the main form for "communicating, discovering and processing information" (Sinclair and Rockwell, 2016).  Even popular non written forms of communication such as streamed videos are largely inaccessible without text-based searches of metadata such as title, description or creator.  
+Text is considered even in the 21st century, the main form for "communicating, discovering and processing information" (Sinclair and Rockwell, 2016).  Even popular non written forms of communication such as streamed videos are largely inaccessible without text-based searches of metadata such as title, description or creator, or from text within transcripts.  
 
 We are all, regardless of discipline, methodology, or objective, trying to gain insights from text.
 
