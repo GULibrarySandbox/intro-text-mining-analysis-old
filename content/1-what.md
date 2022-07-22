@@ -25,7 +25,7 @@ Below is an example of an interactive visual exploration of Francis Bacon's netw
 Source: "Francis Bacon Network [2, 1562-1626, 61-100%]." Six Degrees of Francis Bacon. [http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network, 8/6/2021](http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network, 8/6/2021).
 
 -----
-# Why - Insights from text 
+### Why - Insights from text 
 
 Text is considered even in the 21st century, the main form for "communicating, discovering and processing information" (Sinclair and Rockwell, 2016).  Even popular non written forms of communication such as streamed videos are largely inaccessible without text-based searches of metadata such as title, description or creator, or from text within transcripts.  
 
