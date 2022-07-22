@@ -15,21 +15,16 @@ A text mining and analysis workflow is a messy, iterative and complex process. I
 
 Source: Green, H., Henley, A., Morse, G., Courtney, A., Heidenwolf, T., Koehl, E. D., ... & Morris, S. (2018). " Digging deeper, reaching further: libraries empowering users to mine the HathiTrust Digital Library resources" curriculum. [http://hdl.handle.net/2142/102049](http://hdl.handle.net/2142/102049)
 
-### Text as data considerations
+----
+### Considerations
 
-Consider the questions below when embarking on a text mining project.
+Consider the questions below when embarking on a text mining and analysis project.
 
-**what is your desired outcome?**
-- think about what you need the outcome of your research to be and decide if using this method is the best way to reach that outcome.  The learning curve for many of the tools and processes is quite steep and there may be easier options. 
-
-
-**Do you already have a dataset, corpus or text source?**
-- GLAM catalogues, subscription databases, websites, social media are all great sources [here, link to new libguide]
+**Do you have a dataset, corpus or text source?**
+- GLAM catalogues, subscription databases, websites, social media are all great sources if you don't have your own text data. Find sources via the [Texting mining guide](https://libraryguides.griffith.edu.au/text-mining)
 
 **Is the text you want to use already digitised?**
 - if the text is in the form of a modern PDF it should not need any further amendments. However, with texts made up of handwritten content, OCR recognition tools or even Speech to Text services might be needed, where you read the text into a transcription tool. With older PDFs or handwritten digital texts you will need to transcribe the materials to a machine readible format. txt is the universal format, PDF can also be used. 
-
-
 
 **What are the copyright or licencing requirements?**
 - Some collections, particularly before a certain date provide licences for use such as [TROVE](https://trove.nla.gov.au/) from The National Library of Australia, or
@@ -43,15 +38,15 @@ Consider the questions below when embarking on a text mining project.
 **Do you have funding?**
 - Sometimes you need to pay for access to OCR text from vendor sources.
 
-
+----
 ### Prepare text for processing
 
-- prior to processing you will need to ensure your text is clean. By clean we mean consistently formatted, white space removed and the text is computationally analysable .txt is the preffered format, PDF can also be used. 
+Cleaning is the first step to preparing your text for computational analysis. By clean we mean consistently formatted, white space removed and formatted so it can be read by a program or code. .txt is the preffered format, PDF can also be used. 
 
-
+----
 ### Computationally process text to extract data
 
-Natural language processing (NLP) techniques
+**Natural language processing (NLP) techniques**
 
 Natural language processing (NLP) is the branch of artificial intelligence (AI) that deals with training a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. (https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
 
@@ -61,8 +56,7 @@ in practice, NLP tools break down text into analysable parts, these parts includ
 -	Part-of-speech tagging
 -	Shallow parsing
 -	Named entity recognition
--	Syntactic parsing
--	(Semantic Role Labeling)?? source: Dr. Yoshimasa Tsuruoka's tutorial at the National Centre for Text Mining here: http://www.nactem.ac.uk/teaching/ 
+-	Syntactic parsing (Tsuruoka, n.d.) 
 
 once the data has been process, we can then take on tasks such as:
 
