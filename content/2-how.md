@@ -39,43 +39,14 @@ Consider the questions below when embarking on a text mining and analysis projec
 - Sometimes you need to pay for access to OCR text from vendor sources.
 
 ----
-### Prepare text for processing
+### Text mining and analysis workflow steps
+- Find and build the dataset 
+- Prepare text for processing
+- Computationally process text to extract data
+- Analyse text using computational methods
+- Visualise text using computational methods
 
-Cleaning is the first step to preparing your text for computational analysis. By clean we mean consistently formatted, white space removed and formatted so it can be read by a program or code. .txt is the preffered format, PDF can also be used. 
-
-----
-### Computationally process text to extract data
-
-**Natural language processing (NLP) techniques**
-
-Natural language processing (NLP) is the branch of artificial intelligence (AI) that deals with training a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. (https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
-
-in practice, NLP tools break down text into analysable parts, these parts include:
--	Sentence splitting
--	Tokenization
--	Part-of-speech tagging
--	Shallow parsing
--	Named entity recognition
--	Syntactic parsing (Tsuruoka, n.d.) 
-
-Once the data has been processed, we can then take on tasks such as:
-- find and compare instances of particular terms over time via defined 
-- Word frequency analysis and visualisation via word clouds
-- topic modeling - "identify groups of terms that tend to be representative of a given topic" Toon, E., Timmermann, C., & Worboys, M. (2016). Text-mining and the history of medicine: Big data, big questions? Medical History, 60(2), 294-296. https://doi.org/10.1017/mdh.2016.18 
-- named entity recognition, to find either person or place, or both.  
-- machine learning https://en.wikipedia.org/wiki/Machine_learning & https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/
-
-
-### Analyse
-Computational text analysis methods include:
-- thematic analysis
-- sentiment analysis
-- content analysis
-- network analysis 
-- .....
-
-### Visualise
-
+Read on to discover more on these activities.
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/1-what.html"><-- BACK</a> |
