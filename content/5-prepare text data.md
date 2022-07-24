@@ -6,17 +6,16 @@ nav: true
 ![image](https://user-images.githubusercontent.com/42364968/170155378-7e7a9952-f36b-43cf-8ab5-6ba0826de422.png)
 
 
-# Prepare 
+# Prepare & Process
 
-Preparing or cleaning your data makes it consistent and machine readable for analysis. This process differs depending on what types and formats of files you are analysing.  
+Preparing and processing your data makes it consistent and machine readable for analysis. This process differs depending on what types and formats of files you are analysing.  
 
-## Cleaning your data 
-How you cleand your data depends on what type of data you have. There are two main types of dataset used; sturctured, which takes the form of tabular data like in spreadsheet or a ledger and unstructured, which is free form text, such as diary entries, newpaper articles, letters and so on. 
+## Preparation steps - cleaning and formatting your data 
+How you clean your data depends on what type of data you have. There are two main types of dataset used; sturctured, which takes the form of tabular data like in spreadsheet or a ledger and unstructured, which is free form text, such as diary entries, newpaper articles, letters and so on. 
 
 For Structured data, broadly speaking, for resources to be clean, this means consistent data in each column, eg; consistent spelling and abreviations and as far as possible no blank spaces in the data sheets.
 For unstrucutred data this means the text is compuationally analysable, the tools will be able to read text but not images of text, pages are free of white space, pages of text must be free of images and the text needs to be clear and unobscured. 
 
-Data cleaning is covered in greater detail in <a href ='https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-prepare.html' target="_blank">section 5 </a> of this resource. 
 {% include figure.html img="Textformats1.jpg" alt="Text as data formats, Speech to text, Handwritten text, Printed text, Digital text" caption="Different text as data formats that need processing" width="100%" %}
 
 
@@ -30,7 +29,7 @@ Data cleaning is covered in greater detail in <a href ='https://griffithunilibra
 | | scientific notes, annotations, field books | survey results | interview transcripts, survey results |
 {:.table .table-bordered}
 
-## Text as data - how to prepare?
+## Text as data - how to format?
 
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
 | audio transcription, then cleaning | transcription, then cleaning | digitisation, transcription then cleaning | reformating, then cleaning |
@@ -75,8 +74,30 @@ There are different processes that need to be undertaken with structured vs unst
 - spreadsheet data like an excel sheet, reformat as a `.csv` file 
 - file formats including `.xml`, `JSON`, `html`, import and convert using Microsoft Excel into `.csv` or `.txt` dlimited text file, in which a `tab` separates each field of text.
 
+### Processing methods
 
+Once the text is cleaned, formatted it can be computationally processed by a number of different methods, depending on your analysis needs.
 
+**Natural language processing (NLP) techniques**
+
+Natural language processing (NLP) is the branch of artificial intelligence (AI) that deals with training a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. (https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
+
+in practice, NLP tools break down text into analysable parts, these parts include:
+-	Sentence splitting
+-	Tokenization
+-	Part-of-speech tagging
+-	Shallow parsing
+-	Named entity recognition
+-	Syntactic parsing (Tsuruoka, n.d.) 
+
+Once the data has been processed, we can then take on tasks such as:
+- find and compare instances of particular terms over time via defined 
+- Word frequency analysis and visualisation via word clouds
+- topic modeling - "identify groups of terms that tend to be representative of a given topic" Toon, E., Timmermann, C., & Worboys, M. (2016). Text-mining and the history of medicine: Big data, big questions? Medical History, 60(2), 294-296. https://doi.org/10.1017/mdh.2016.18 
+- named entity recognition, to find either person or place, or both.  
+- machine learning https://en.wikipedia.org/wiki/Machine_learning & https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/
+
+![image](https://user-images.githubusercontent.com/51395844/180670565-86edcaa7-86b4-4f38-9f30-f8357bff75a4.png)
 
 
 
