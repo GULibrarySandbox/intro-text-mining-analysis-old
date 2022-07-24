@@ -40,13 +40,15 @@ Consider the questions below when embarking on a text mining and analysis projec
 
 ----
 ### Text mining and analysis workflow steps
+
+The most common steps in the workflow include: 
 - Find and build the dataset 
 - Prepare text for processing
 - Computationally process text to extract data
 - Analyse text using computational methods
 - Visualise text using computational methods
 
-Read on to discover more on these activities.
+Read on to discover more about these activities.
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/1-what.html"><-- BACK</a> |
