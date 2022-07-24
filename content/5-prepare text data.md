@@ -74,6 +74,7 @@ There are different processes that need to be undertaken with structured vs unst
 - spreadsheet data like an excel sheet, reformat as a `.csv` file 
 - file formats including `.xml`, `JSON`, `html`, import and convert using Microsoft Excel into `.csv` or `.txt` dlimited text file, in which a `tab` separates each field of text.
 
+
 ----
 
 ### Processing methods
@@ -91,13 +92,6 @@ NLP tools break down text into analysable parts, these parts include:
 -	Shallow parsing
 -	Named entity recognition
 -	Syntactic parsing (Tsuruoka, n.d.) 
-
-Once the data has been processed, you can take on tasks such as:
--  Find and compare instances of particular terms over time from particular source collection
--  Word frequency analysis and visualisation via word clouds
--  Topic modeling - "identify groups of terms that tend to be representative of a given topic" (Toon, 2016)
--  named entity recognition, to find either person or place, or both.  
--  machine learning https://en.wikipedia.org/wiki/Machine_learning & https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/
 
 ------
 
