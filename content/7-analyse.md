@@ -41,7 +41,7 @@ Find out more about Gale digital scholar lab <a href ='https://go-gale-com.libra
 Sentiment analysis is commonly used in research to see public sentiment on products, ideas or policy. 
 
 This tool will show you the sentiment of one resource, 
- - https://www.danielsoper.com/sentimentanalysis/default.aspx 
+ - <a href = 'https://www.danielsoper.com/sentimentanalysis/default.aspx' target="_blank> Free Sentiment Analyzer from Prof. Soper </a>
 
 zero being neutral, over zero positive sentiment and less than zero negative. 
 
