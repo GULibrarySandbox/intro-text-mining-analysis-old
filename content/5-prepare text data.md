@@ -78,7 +78,7 @@ There are different processes that need to be undertaken with structured vs unst
 
 Once the text is cleaned, formatted it can be computationally processed by a number of different methods, depending on your analysis needs.
 
-**Natural language processing (NLP) techniques**
+#### Natural language processing (NLP) techniques ####
 
 Natural language processing (NLP) is the branch of artificial intelligence (AI) that deals with training a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. (https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
 
@@ -91,16 +91,11 @@ in practice, NLP tools break down text into analysable parts, these parts includ
 -	Syntactic parsing (Tsuruoka, n.d.) 
 
 Once the data has been processed, we can then take on tasks such as:
-- find and compare instances of particular terms over time via defined 
-- Word frequency analysis and visualisation via word clouds
-- topic modeling - "identify groups of terms that tend to be representative of a given topic" Toon, E., Timmermann, C., & Worboys, M. (2016). Text-mining and the history of medicine: Big data, big questions? Medical History, 60(2), 294-296. https://doi.org/10.1017/mdh.2016.18 
-- named entity recognition, to find either person or place, or both.  
-- machine learning https://en.wikipedia.org/wiki/Machine_learning & https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/
-
-![image](https://user-images.githubusercontent.com/51395844/180670565-86edcaa7-86b4-4f38-9f30-f8357bff75a4.png)
-
-
-
+-  find and compare instances of particular terms over time via defined 
+-  Word frequency analysis and visualisation via word clouds
+-  topic modeling - "identify groups of terms that tend to be representative of a given topic" Toon, E., Timmermann, C., & Worboys, M. (2016). Text-mining and the history of medicine: Big data, big questions? Medical History, 60(2), 294-296. https://doi.org/10.1017/mdh.2016.18 
+-  named entity recognition, to find either person or place, or both.  
+-  machine learning https://en.wikipedia.org/wiki/Machine_learning & https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/
 
 ------
 
