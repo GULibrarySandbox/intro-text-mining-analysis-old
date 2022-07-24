@@ -58,8 +58,13 @@ Using code for analysis can show us paterns and connections not seen through clo
 In digital humanites we generally use R and Python for analysis of cour corpus.
 
 #### common types of analysis
+Once the data has been processed, we can undertake analysis tasks such as:
+- Find and compare instances of particular terms over time from particular source collection
+- Word frequency analysis and visualisation via word clouds
+- Topic modeling - "identify groups of terms that tend to be representative of a given topic" (Toon, 2016)
+- named entity recognition, to find either person or place, or both.  
+- Machine learning https://en.wikipedia.org/wiki/Machine_learning & https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/
 - sentiment analysis
-- text mining
 - mapping
 - plotting data 
 
