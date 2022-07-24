@@ -57,6 +57,6 @@ The images below include example source materials:
 ----
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/3-rights.html"><-- BACK</a> |
+  <a href=https://griffithunilibrary.github.io/intro-text-mining-analysis/content/3-rights_permissions_licences.html<-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-prepare.html">NEXT --></a>
 </p>
