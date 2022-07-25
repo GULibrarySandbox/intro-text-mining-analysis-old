@@ -20,7 +20,7 @@ Once the text is cleaned and formatted it can be computationally processed by a 
 
 #### Natural language processing (NLP) techniques
 
-Natural language processing (NLP) is the branch of artificial intelligence (AI) that deals with training a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. (https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
+Natural language processing (NLP) is the branch of artificial intelligence (AI) technology to train a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. (https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
 
 NLP tools break down text into analysable parts, these include:
 
