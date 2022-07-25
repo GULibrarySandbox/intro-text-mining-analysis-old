@@ -25,8 +25,6 @@ Natural language processing (NLP) is the branch of artificial intelligence (AI) 
 NLP tools break down text into analysable parts, these include:
 
 -	Tokenization - Split the text into sentences and sentences into words.  Change to lowercase and remove punctuation.  This is creates a 'bag of words' for analysis
-
-
 -	Part-of-speech tagging
 -	Shallow parsing
 -	Named entity extraction
