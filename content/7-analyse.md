@@ -32,7 +32,7 @@ NLP tools break down text into analysable parts, these include:
 -	Named entity extraction
 -	Syntactic parsing (Tsuruoka, n.d.) 
 
-<<<<IMAGE HERE>>>>
+{% include figure.html img="BagOfWords.PNG" alt="Bag of words" caption="Natural Language Processing - tokenization" width="100%" %}
 
 ## Computational Analysis
 
@@ -91,15 +91,6 @@ in this activity try the plug and play tools listed. look at the results, look f
 {% capture text %}
 For this activity take a look at the example DH project,  think about the process taken to get from the original resources to the final analyzed product.
 If possible, see if you can identify the tools and coding packages used to undertake the project.{% endcapture %} {% include card.md header="Activity " text=text %}
-
------
-
-
-{% capture text %}
-- Activity.{% endcapture %} {% include card.md header="Activity - ..." text=text %}
-
-
-{% include button.md text="Watch this video for instructions" link="https://vimeo.com/...." color="info" %}
 
 -----
 
