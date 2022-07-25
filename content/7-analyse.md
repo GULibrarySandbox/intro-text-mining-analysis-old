@@ -9,12 +9,30 @@ nav: true
 
 ## Pathways to analysis
 
-no matter what data you are starting with, it is important that you have an idea of what outcomes you are looking for.
-
-for analysis we need:
+no matter what data you are starting with, it is important that you have an idea of what outcomes you are looking for. For analysis we need:
 - data set
 - clean data, transcibe, annotated 
 - processed by a computational method
+
+### Processing methods
+
+Once the text is cleaned and formatted it can be computationally processed by a number of different methods, depending on your analysis needs.
+
+#### Natural language processing (NLP) techniques
+
+Natural language processing (NLP) is the branch of artificial intelligence (AI) that deals with training a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. (https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
+
+NLP tools break down text into analysable parts, these include:
+
+-	Tokenization - Split the text into sentences and sentences into words.  Change to lowercase and remove punctuation.  This is creates a 'bag of words' for analysis
+
+
+-	Part-of-speech tagging
+-	Shallow parsing
+-	Named entity extraction
+-	Syntactic parsing (Tsuruoka, n.d.) 
+
+<<<<IMAGE HERE>>>>
 
 ## Computational Analysis
 
