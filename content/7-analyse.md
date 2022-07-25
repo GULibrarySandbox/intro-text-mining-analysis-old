@@ -3,7 +3,7 @@ title: Analyse
 nav: true
 ---
 
-# Analysis methods and tools
+# Process & Analyse - methods and tools
 
 -----
 
@@ -11,34 +11,46 @@ nav: true
 
 no matter what data you are starting with, it is important that you have an idea of what outcomes you are looking for.
 
-for analysis we need
+for analysis we need:
 - data set
 - clean data, transcibe, annotated 
+- processed by a computational method
 
-focus for 
-- analysis
-- visualisations
+## Computational Analysis
 
+The use of computational analysis techniques in humanities reserach is the start point of Digital humanities research. Using code for analysis can show us paterns and connections not seen through close reading alone and can help us find greater meaning in the data. R and Python are the most popular code used  to analyse corpus.
 
+### Common types of analysis
+Once the data has been processed, we can undertake analysis tasks such as:
+- Find and compare instances of particular terms over time from particular source collection
+- Word frequency analysis and visualisation via word clouds
+- Topic modeling - "identify groups of terms that tend to be representative of a given topic" (Toon, 2016)
+- Named entity recognition, to find either person or place, or both.  
+- Machine learning https://en.wikipedia.org/wiki/Machine_learning & https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/
+- sentiment analysis - a natural language processing technique used to determine whether data is positive, negative, or neutral.
+- mapping - to show locations and even movements of people or ideas, growth of cities and how landscapes have been changed.
+- plotting data 
 
+----
 ## Plug and Play analysis tools
 
 Plug and play tools are interfaces where you can easily add data and analysis is done for you. The tools run on your web browser and are also know as Graphic user interface or GUI tools. The majority of these tools will be based up python or R analysis codes. We can use these tools for simple data analysis and visulations, they are really useful in getting started with analysis and getting an idea of what your data holds. 
 
 - Pro's - easy to use, high level analysis, 
-- Cons - often inflexible, not good for deeper analysis
+- Cons - often inflexible, not good for deeper analysis, may not be able to use with identifiable data
 
-### Gale digital scholar lab 
-Gale Digital scholar lab is an in house tool that can build, clean and analyse text based data. The lab is designed to use the Gale primary source archives, but you can use the analysis tools with your own data.
-Find out more about Gale digital scholar lab <a href ='https://go-gale-com.libraryproxy.griffith.edu.au/ps/start.do?p=DSLAB&u=griffith' target="_blank"> here </a> (login required)  and <a href ='https://sway.office.com/v4sYacFkErbH9HNo' target="_blank"> here. </a>
+### Gale Digital Scholar Lab 
+Gale Digital scholar lab is subscription service with tools that can build, clean and analyse text based data. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data.
+Find out more about Gale Digital Scholar Lab <a href ='https://go-gale-com.libraryproxy.griffith.edu.au/ps/start.do?p=DSLAB&u=griffith' target="_blank"> here </a> (login required)  and <a href ='https://sway.office.com/v4sYacFkErbH9HNo' target="_blank"> here. </a>
 
-
-#### Visualise your dataset
+### Open source tools
 - <a href ='https://voyant-tools.org/' target="_blank"> Voyant </a>
 - <a href ='https://rawgraphs.io/' target="_blank"> Raw graphs </a>
 
-#### Check the sentiment of a resource
-Sentiment analysis is commonly used in research to see public sentiment on products, ideas or policy. 
+----
+
+#### Sentiment analysis
+Sentiment analysis is commonly used in research to see public sentiment on products, ideas or policy. It is useful when scanning social media or comments sections to see the response to ideas, good or bad. 
 
 This tool will show you the sentiment of one resource, 
  - <a href = 'https://www.danielsoper.com/sentimentanalysis/default.aspx' target="_blank"> Free Sentiment Analyzer from Prof. Soper </a>
@@ -51,36 +63,12 @@ Sentiment analysis is available in Gale digital scholars lab, but is more common
 {% capture text %}
 in this activity try the plug and play tools listed. look at the results, look for the opportunity for use to the analysis and the limitations of each tool.{% endcapture %} {% include card.md header="Activity" text=text %}
 
-## Computational Analysis
 
-The use of computational analysis techniques in humanities reserach is the start point of Digital humanities reserach. 
-Using code for analysis can show us paterns and connections not seen through close reading alone. The use of code in analysis can help us find greater meaning in the data.
-In digital humanites we generally use R and Python for analysis of cour corpus.
+#### Support and training 
 
-#### common types of analysis
-Once the data has been processed, we can undertake analysis tasks such as:
-- Find and compare instances of particular terms over time from particular source collection
-- Word frequency analysis and visualisation via word clouds
-- Topic modeling - "identify groups of terms that tend to be representative of a given topic" (Toon, 2016)
-- named entity recognition, to find either person or place, or both.  
-- Machine learning https://en.wikipedia.org/wiki/Machine_learning & https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/
-- sentiment analysis
-- mapping
-- plotting data 
+*Sentiment analysis*
 
-These analysis types can tell us if a text is positive or negative, the occurance of key themes within a text, maps show not only locations but movements of people, the growth of cities and how we have changed the landscape.
-
-sentiment analysis - "Sentiment analysis (or opinion mining) is a natural language processing technique used to determine whether data is positive, negative, or neutral."(2021 Top 5 Unknown Sentiment Analysis Projects On Github To Help You Through Your NLP Projects, <a href ='https://medium.com/analytics-vidhya/top-5-unknown-sentiment-analysis-projects-on-github-to-help-you-through-your-nlp-projects-8d8f195e80fc' target="_blank"> link here </a>)   
-this analysis tool is used to find populuar sentiment on an idea or product.  it is very common to use when scanning social media or comments sections to see the response to ideas, good or bad. 
-
-
-
-projects - exemplars ..
-
-<a href='https://medium.com/analytics-vidhya/top-5-unknown-sentiment-analysis-projects-on-github-to-help-you-through-your-nlp-projects-8d8f195e80fc' targer="_blank"> sentiment analysis projects </a>
-
-. 
-
+[Top 5 Unknown Sentiment Analysis Projects On Github To Help You Through Your NLP Projects - 2021](https://medium.com/analytics-vidhya/top-5-unknown-sentiment-analysis-projects-on-github-to-help-you-through-your-nlp-projects-8d8f195e80fc) 
 
 {% capture text %}
 For this activity take a look at the example DH project,  think about the process taken to get from the original resources to the final analyzed product.
