@@ -6,7 +6,7 @@ nav: true
 ![image](https://user-images.githubusercontent.com/42364968/170155378-7e7a9952-f36b-43cf-8ab5-6ba0826de422.png)
 
 
-# Prepare & Process
+# Prepare and format
 
 Preparing and processing your data makes it consistent and machine readable for analysis. This process differs depending on what types and formats of files you are analysing.  
 
@@ -73,25 +73,6 @@ There are different processes that need to be undertaken with structured vs unst
 ### How to convert structured text formats
 - spreadsheet data like an excel sheet, reformat as a `.csv` file 
 - file formats including `.xml`, `JSON`, `html`, import and convert using Microsoft Excel into `.csv` or `.txt` dlimited text file, in which a `tab` separates each field of text.
-
-
-----
-
-### Processing methods
-
-Once the text is cleaned, formatted it can be computationally processed by a number of different methods, depending on your analysis needs.
-
-#### Natural language processing (NLP) techniques ####
-
-Natural language processing (NLP) is the branch of artificial intelligence (AI) that deals with training a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. (https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
-
-NLP tools break down text into analysable parts, these parts include:
--	Sentence splitting
--	Tokenization
--	Part-of-speech tagging
--	Shallow parsing
--	Named entity recognition
--	Syntactic parsing (Tsuruoka, n.d.) 
 
 ------
 
