@@ -22,7 +22,7 @@ If you cannot get the data you need from the available guides make an enquiry wi
 
 ### Using an API to extract data
 
-When using text data or gathering data from online sources you may need to use an API.  API is the acronym for Application Programming Interface, which is a software tool that allows two applications to talk to each other. 
+When using text data or gathering data from online sources you may need to use an Application Programming Interface (API), a software tool that allows two applications to talk to each other. 
 In the case of collecting web data, this is a database that stores the webpages data and something that can read, display or store that data (i.e. a webbrowser, a programming language such as python or some other program on your computer, or a cloud based application).
 
 If a website has an API, then use it. Generally, webpages do not like researchers using their data,  using the supplied API is by far the easiest way to collect a websites data. Examples of API's useful to text analysis researchers:
