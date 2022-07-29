@@ -20,7 +20,7 @@ If you cannot get the data you need from the available guides make an enquiry wi
 
 ### Extracting data
 
-### Using an API to extract data
+#### Using an API to extract data
 
 When using text data or gathering data from online sources you may need to use an Application Programming Interface (API), a software tool that allows two applications to talk to each other. In the case of collecting web data, it is a database that stores the webpages data and something that can read, display or store that data (i.e. a webbrowser, a programming language such as python or some other program on your computer, or a cloud based application).
 
