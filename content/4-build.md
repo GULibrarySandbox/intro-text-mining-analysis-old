@@ -11,28 +11,28 @@ Building a corpus is the process of creating your data set. A corpus can be buil
 {% include figure.html img="GLAMCollections.PNG" alt="Find data in GLAM collections" caption="Find data in GLAM collections" width="100%" %}
 
 Digitisation, Optical Character Recognition (OCR) processing, indexing, encoding, and online hosting of primary source materials by `archives, libraries, museums and galleries (GLAM sector)`  has enabled greater access, and new ways to find, explore, process and analyse text as data.  An easy way to get started in finding discipline specific data sets is in the Griffith guides
-- <a href ='https://libraryguides.griffith.edu.au/finddata' target="_blank">Finding data guide </a>.   
-- [http://nla.gov.au/nla.news-page930175](Text mining and analysis guide)
-- 
+- <a href ='https://libraryguides.griffith.edu.au/finddata' target="_blank">Finding data guide </a>   
+- [Text mining and analysis guide](https://libraryguides.griffith.edu.au/text-mining)
+
 Be sure to cite any resource you use in your research. 
 
 If you cannot get the data you need from the available guides you can go directly from the source, webpages often make their data available to researchers. Archives and other repositories will have links to the datasets that can be downloaded, as will Government webpages.  
 
+### Using an API to extract data
+
 When using text data or gathering data from online sources you may need to use an API.  API is the acronym for Application Programming Interface, which is a software tool that allows two applications to talk to each other. 
 In the case of collecting web data, this is a database that stores the webpages data and something that can read, display or store that data (i.e. a webbrowser, a programming language such as python or some other program on your computer, or a cloud based application).
 
-If a website has an API, then use it. Generally, webpages do not like researchers using their data,  using the supplied API is by far the easiest way to collect a websites data. 
+If a website has an API, then use it. Generally, webpages do not like researchers using their data,  using the supplied API is by far the easiest way to collect a websites data. Examples of API's useful to text analysis researchers:
+- [TROVE API guide](https://trove.nla.gov.au/about/create-something/using-api)
+- [Assoc Prof Tim Sherrat's GLAM data & API list](https://glam-workbench.net/glam-data-list/)
 
 
 ### Building a data set
 Building your data set is the process of finding and collating the materials you wish to analyse. Data sets in humanities reserach are also known as a corpus, please be aware that these terms are used interchangably.
 
 Building a data set can be as simple as collecting PDFs from your literature search, or as complex as transribing handwritten texts to a computational form. 
-Regaurdless of how your data set is created there are several elements that need to be enacted for you to be able to analyse the resource.
-
-- the materials must be compuationally readable. For modern PDFs of typed materails this is not an issue, however if you are usign scans of old texts, images of text or hand written documents these need to be transcribed or transformed into a readable format.  best formats for text are .PDF and .txt
-- Structured Vs Unstructured text.  Structured text is waht we more commonly call spread sheet data. This can take the form of log books, ledgers and other records, eg: old census data, birth deaths and marraige records, shipping logs and so on. These materails have a structure and need to be transcribed as such. Unstructured text is written text. This is generally found as letters, diary entries, journal articles books and written content. Our main focus on these pages is to use the data found in unstructured text. *How to get your data in to computationally analyisable formats is covered in the <a href ='https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-prepare.html' target="_blank">prepare section</a> of this resource.*
-
+Regardless of how your data set is created there are several elements that need to be enacted for you to be able to analyse the resource. This is covered next in the `prepare text data` lesson.
 
 
 {% capture text %}
