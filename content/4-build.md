@@ -16,7 +16,7 @@ Digitisation, Optical Character Recognition (OCR) processing, indexing, encoding
 
 Be sure to cite any resource you use in your research. 
 
-If you cannot get the data you need from the available guides you can go directly from the source, webpages often make their data available to researchers. Archives and other repositories will have links to the datasets that can be downloaded, as will Government webpages.  
+If you cannot get the data you need from the available guides make an enquiry with a website or platform of interest. Companies often make their data available to researchers by agreement such as Twitter's Academic Research access service. Archives and other repositories will have links to the datasets that can be downloaded, as will Government webpages.  
 
 ### Using an API to extract data
 
@@ -25,8 +25,11 @@ In the case of collecting web data, this is a database that stores the webpages 
 
 If a website has an API, then use it. Generally, webpages do not like researchers using their data,  using the supplied API is by far the easiest way to collect a websites data. Examples of API's useful to text analysis researchers:
 - [TROVE API guide](https://trove.nla.gov.au/about/create-something/using-api)
-- [Assoc Prof Tim Sherrat's GLAM data & API list](https://glam-workbench.net/glam-data-list/)
-
+- [Assoc Prof Tim Sherrat's Australian GLAM data & API list](https://glam-workbench.net/glam-data-list/)
+- [State Library of Queensland's open datasets](https://www.slq.qld.gov.au/get-involved/open-data/open-datasets-released-state-library)
+- [QLD Open Data Portal API guides](https://www.data.qld.gov.au/article/standards-and-guidance/publishing-guides-standards/api-user-guide)
+- [Twitter's Academic Research Access API](https://developer.twitter.com/en/products/twitter-api/academic-research)
+- [JSTOR text mining support](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/)
 
 ### Building a data set
 Building your data set is the process of finding and collating the materials you wish to analyse. Data sets in humanities reserach are also known as a corpus, please be aware that these terms are used interchangably.
