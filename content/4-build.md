@@ -7,7 +7,10 @@ nav: true
 Building a corpus is the process of creating your data set. A corpus can be built either through existing data, collation of resources or generating your own data. No matter how the dataset is created there are a few things that are required. The data needs to be machine readable, the data needs to be clean and if you are using tabular or structured data, your dataset needs to be consistent. 
 
 ## Find data
-Data is everywhere, we can find data in repositories, archives, libraries, museums to name a few. an easy way to get started in finding discipline specific data sets is in the Griffith guide <a href ='https://libraryguides.griffith.edu.au/finddata' target="_blank">Finding data guide </a>. The data on these guides is generally easily downloaded and free to use.  Be sure to cite any resource you use in your research. 
+
+{% include figure.html img="GLAMCollections.PNG" alt="Find data in GLAM collections" caption="Find data in GLAM collections" width="100%" %}
+
+Data is everywhere, we can find data in repositories, galleries, archives, libraries, museums (GLAM collections) to name a few. an easy way to get started in finding discipline specific data sets is in the Griffith guide <a href ='https://libraryguides.griffith.edu.au/finddata' target="_blank">Finding data guide </a>. The data on these guides is generally easily downloaded and free to use.  Be sure to cite any resource you use in your research. 
 
 If you cannot get the data you need from the available guides you can go directly from the source, webpages often make their data available to reserachers. Archives and other repositories will have links to the datasets that can be downloaded, as will Government webpages.  
 
@@ -15,8 +18,6 @@ If you cannot get the data you need from the available guides you can go directl
 In the case of collecting web data, this is a database that stores the webpages data and something that can read, display or store that data (i.e. a webbrowser, a programming language such as python or some other program on your computer, or a cloud based application).
 
 If a website has an API, then use it. Generally, webpages do not like researchers using their data,  using the supplied API is by far the easiest way to collect a websites data. 
-
-
 
 ### Building a data set
 Building your data set is the process of finding and collating the materials you wish to analyse. Data sets in humanities reserach are also known as a corpus, please be aware that these terms are used interchangably.
@@ -51,8 +52,6 @@ The images below include example source materials:
 {% endcapture %}
 {% include alert.md text=alert color="warning" %}
 
-
-{% include button.md text="Watch this video to work through the activities" link="https://vimeo.com/...." color="info" %}
 
 ----
 
