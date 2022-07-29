@@ -4,11 +4,11 @@ nav: true
 ---
 # Building a text corpus or dataset
 
-Building a data set can be as simple as collecting PDFs from your literature search, or as complex as transribing handwritten texts to a computational form. Building a corpus is the process of creating your data set. Data sets in humanities reserach are also known as a corpus, please be aware that these terms are used interchangably.
+Building a corpus is the process of finding, accessing and extracting or creating your data set. Building a data set can be as simple as collecting PDFs from your literature search, or as complex as transribing handwritten texts and converting into a computational format.  Data sets in humanities reserach are also known as a corpus and these terms can be used interchangably.
 
 A corpus can be built either through existing data, collation of resources or generating your own data. No matter how the dataset is created there are a few things that are required. The data needs to be machine readable, the data needs to be clean and if you are using tabular or structured data, your dataset needs to be consistent. The first step is to find the dataset or corpus of interest.
 
-## Find data
+## Finding data
 
 {% include figure.html img="GLAMCollections.PNG" alt="Find data in GLAM collections" caption="Find data in GLAM collections" width="100%" %}
 
@@ -16,16 +16,15 @@ Digitisation, Optical Character Recognition (OCR) processing, indexing, encoding
 - <a href ='https://libraryguides.griffith.edu.au/finddata' target="_blank">Finding data guide </a>   
 - [Text mining and analysis guide](https://libraryguides.griffith.edu.au/text-mining)
 
-Be sure to cite any resource you use in your research. 
+If you cannot get the data you need from the available guides make an enquiry with the platform of interest. Companies often make their data available to researchers by agreement such as Twitter's Academic Research access service. Archives and other repositories will have links to the datasets that can be downloaded, as will Government webpages.  
 
-If you cannot get the data you need from the available guides make an enquiry with a website or platform of interest. Companies often make their data available to researchers by agreement such as Twitter's Academic Research access service. Archives and other repositories will have links to the datasets that can be downloaded, as will Government webpages.  
+### Extracting data
 
 ### Using an API to extract data
 
-When using text data or gathering data from online sources you may need to use an Application Programming Interface (API), a software tool that allows two applications to talk to each other. 
-In the case of collecting web data, this is a database that stores the webpages data and something that can read, display or store that data (i.e. a webbrowser, a programming language such as python or some other program on your computer, or a cloud based application).
+When using text data or gathering data from online sources you may need to use an Application Programming Interface (API), a software tool that allows two applications to talk to each other. In the case of collecting web data, it is a database that stores the webpages data and something that can read, display or store that data (i.e. a webbrowser, a programming language such as python or some other program on your computer, or a cloud based application).
 
-If a website has an API, then use it. Generally, webpages do not like researchers using their data,  using the supplied API is by far the easiest way to collect a websites data. Examples of API's useful to text analysis researchers:
+Using a supplied API is the easiest way to collect a large dataset of text from a database or website. Examples of API's useful to text analysis researchers include:
 - [TROVE API guide](https://trove.nla.gov.au/about/create-something/using-api)
 - [Assoc Prof Tim Sherrat's Australian GLAM data & API list](https://glam-workbench.net/glam-data-list/)
 - [State Library of Queensland's open datasets](https://www.slq.qld.gov.au/get-involved/open-data/open-datasets-released-state-library)
@@ -47,7 +46,7 @@ The images below include example source materials like those used by the Prosecu
 
 
 ----
-{% capture alert %}*Note:* bla bla.
+{% capture alert %}*Note:* Be sure to cite any resource / dataset / corpus you use in your research.
 {% endcapture %}
 {% include alert.md text=alert color="warning" %}
 
