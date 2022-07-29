@@ -4,7 +4,9 @@ nav: true
 ---
 # Building a text corpus or dataset
 
-Building a corpus is the process of creating your data set. A corpus can be built either through existing data, collation of resources or generating your own data. No matter how the dataset is created there are a few things that are required. The data needs to be machine readable, the data needs to be clean and if you are using tabular or structured data, your dataset needs to be consistent. 
+Building a data set can be as simple as collecting PDFs from your literature search, or as complex as transribing handwritten texts to a computational form. Building a corpus is the process of creating your data set. Data sets in humanities reserach are also known as a corpus, please be aware that these terms are used interchangably.
+
+A corpus can be built either through existing data, collation of resources or generating your own data. No matter how the dataset is created there are a few things that are required. The data needs to be machine readable, the data needs to be clean and if you are using tabular or structured data, your dataset needs to be consistent. The first step is to find the dataset or corpus of interest.
 
 ## Find data
 
@@ -29,14 +31,7 @@ If a website has an API, then use it. Generally, webpages do not like researcher
 - [State Library of Queensland's open datasets](https://www.slq.qld.gov.au/get-involved/open-data/open-datasets-released-state-library)
 - [QLD Open Data Portal API guides](https://www.data.qld.gov.au/article/standards-and-guidance/publishing-guides-standards/api-user-guide)
 - [Twitter's Academic Research Access API](https://developer.twitter.com/en/products/twitter-api/academic-research)
-- [JSTOR text mining support](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/)
-
-### Building a data set
-Building your data set is the process of finding and collating the materials you wish to analyse. Data sets in humanities reserach are also known as a corpus, please be aware that these terms are used interchangably.
-
-Building a data set can be as simple as collecting PDFs from your literature search, or as complex as transribing handwritten texts to a computational form. 
-Regardless of how your data set is created there are several elements that need to be enacted for you to be able to analyse the resource. This is covered next in the `prepare text data` lesson.
-
+- [JSTOR text mining support](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/
 
 {% capture text %}
 The Prosecution Project is a collaborative research project on the history of the criminal trial in Australia from 1788 to 1960. Sources of text data included Supreme Court crimial trial registers, Police Gazettes nontices, Prison and Convict Registers, along with press releases and other newspaper articles  [https://prosecutionproject.griffith.edu.au/](https://prosecutionproject.griffith.edu.au/).
