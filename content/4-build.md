@@ -31,7 +31,7 @@ If a website has an API, then use it. Generally, webpages do not like researcher
 - [State Library of Queensland's open datasets](https://www.slq.qld.gov.au/get-involved/open-data/open-datasets-released-state-library)
 - [QLD Open Data Portal API guides](https://www.data.qld.gov.au/article/standards-and-guidance/publishing-guides-standards/api-user-guide)
 - [Twitter's Academic Research Access API](https://developer.twitter.com/en/products/twitter-api/academic-research)
-- [JSTOR text mining support](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/
+- [JSTOR text mining support](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/)
 
 {% capture text %}
 The Prosecution Project is a collaborative research project on the history of the criminal trial in Australia from 1788 to 1960. Sources of text data included Supreme Court crimial trial registers, Police Gazettes nontices, Prison and Convict Registers, along with press releases and other newspaper articles  [https://prosecutionproject.griffith.edu.au/](https://prosecutionproject.griffith.edu.au/).
