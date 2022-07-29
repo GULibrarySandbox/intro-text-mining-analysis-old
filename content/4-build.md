@@ -2,11 +2,11 @@
 title: Build
 nav: true
 ---
-# Building a text corpus or dataset
+# Building a dataset
 
-Building a corpus is the process of finding, accessing and extracting or creating your data set. Building a data set can be as simple as collecting PDFs from your literature search, or as complex as transribing handwritten texts and converting into a computational format.  Data sets in humanities reserach are also known as a corpus and these terms can be used interchangably.
+A dataset can be built either through finding and extracting existing data, collating resources or generating your own data. Building a dataset can be as simple as collecting PDFs from your literature search, or as complex as transribing handwritten texts and converting into a computational format.  Note that datasets in humanities research are also known as corpus. No matter how the dataset is created there are a few things that are required. The data needs to be clean and machine readable, and if you are using tabular or structured data, your dataset needs to be formatted consistently. 
 
-A corpus can be built either through existing data, collation of resources or generating your own data. No matter how the dataset is created there are a few things that are required. The data needs to be machine readable, the data needs to be clean and if you are using tabular or structured data, your dataset needs to be consistent. The first step is to find the dataset or corpus of interest.
+The first step is to find the dataset or corpus of interest.
 
 ## Finding data
 
