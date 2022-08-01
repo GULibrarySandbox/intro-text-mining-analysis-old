@@ -20,7 +20,7 @@ Once the text is cleaned and formatted it can be computationally processed by a 
 
 #### Natural language processing (NLP) techniques
 
-Natural language processing (NLP) is the branch of artificial intelligence (AI) technology to train a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. (https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
+Natural language processing (NLP) is the branch of artificial intelligence (AI) technology to train a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. Source: [Bell & Olavsrud, 2021](https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
 
 NLP tools break down text into analysable parts, these include:
 
@@ -36,11 +36,7 @@ NLP tools break down text into analysable parts, these include:
 Machine learning is the "the process of teaching a computer system how to make accurate predictions when fed data" [Heath, 2020](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/) and another branch of AI used in text mining and analysis. 
 
 
-## Computational Analysis
-
-The use of computational analysis techniques in humanities reserach is the start point of Digital humanities research. Using code for analysis can show us paterns and connections not seen through close reading alone and can help us find greater meaning in the data. R and Python are the most popular code used  to analyse corpus.
-
-### Common types of analysis
+## Common types of Computational analysis
 
 {% include figure.html img="TextAnalysisTasks.PNG" alt="Text analysis tasks" caption="Text analysis tasks" width="100%" %}
 Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017, September). Visual text analysis in digital humanities. In Computer Graphics Forum (Vol. 36, No. 6, pp. 226-250) [https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873](https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873)
@@ -70,13 +66,13 @@ Plug and play tools are interfaces where you can easily add data and analysis is
 - Pro's - easy to use, high level analysis, 
 - Cons - often inflexible, not good for deeper analysis, may not be able to use with identifiable data
 
-### Gale Digital Scholar Lab 
-Gale Digital scholar lab is subscription service with tools that can build, clean and analyse text based data. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data.
+### Gale Digital Scholar Lab - Griffith University subscription
+Gale Digital scholar provides tools that can build, clean and analyse text based data. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data.
 - Sentiment analysis
 - 
 Find out more about Gale Digital Scholar Lab <a href ='https://go-gale-com.libraryproxy.griffith.edu.au/ps/start.do?p=DSLAB&u=griffith' target="_blank"> here </a> (login required)  and <a href ='https://sway.office.com/v4sYacFkErbH9HNo' target="_blank"> here. </a>
 
-### Open source tools
+### Open source (free) tools
 - <a href ='https://voyant-tools.org/' target="_blank"> Voyant </a>
 - <a href ='https://rawgraphs.io/' target="_blank"> Raw graphs </a>
 - <a href = 'https://www.danielsoper.com/sentimentanalysis/default.aspx' target="_blank"> Free Sentiment Analyzer from Prof. Soper </a> Good for one source.
