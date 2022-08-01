@@ -88,7 +88,7 @@ in this activity try the plug and play tools listed. look at the results, look f
 
 
 ##### Learn coding for text mining and analysis
-- Griffith's eResearch services run 3-day beginner [R & Python workshop](https://www.griffith.edu.au/eresearch-services/hacky-hour) throughout the year. 
+- [Beginner R & Python workshops](https://www.griffith.edu.au/eresearch-services/hacky-hour) are available from Griffith's eResearch services throughout the year. 
 - [Constellate tutorials](https://constellate-org.libraryproxy.griffith.edu.au/) a series of lessons to help you learn about programming in Python, text analysis, and the Constellate platform for JSTOR.
 - [Programming Historian](https://programminghistorian.org/en/lessons/)  novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching. These include lesons in R and Python. 
 - [GLAM Workbench tutorials](https://glam-workbench.net/getting-started/) learn how to use the GLAM Workbench to extract and analyse data from Australia's galleries libraries, archives and museums.
