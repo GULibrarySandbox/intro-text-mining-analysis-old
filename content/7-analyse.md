@@ -9,7 +9,7 @@ nav: true
 
 ## Pathways to analysis
 
-no matter what data you are starting with, it is important that you have an idea of what outcomes you are looking for. For analysis we need:
+No matter what data you are starting with, it is important that you have an idea of what outcomes you are looking for. For analysis we need:
 - data set
 - clean data, transcibe, annotated 
 - processed by a computational method
@@ -32,6 +32,10 @@ NLP tools break down text into analysable parts, these include:
 
 {% include figure.html img="BagOfWords.PNG" alt="Bag of words" caption="Natural Language Processing - tokenization" width="100%" %}
 
+#### Machine learning
+Machine learning is the "the process of teaching a computer system how to make accurate predictions when fed data" [Heath, 2020](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/) and another branch of AI used in text mining and analysis. 
+
+
 ## Computational Analysis
 
 The use of computational analysis techniques in humanities reserach is the start point of Digital humanities research. Using code for analysis can show us paterns and connections not seen through close reading alone and can help us find greater meaning in the data. R and Python are the most popular code used  to analyse corpus.
@@ -41,15 +45,22 @@ The use of computational analysis techniques in humanities reserach is the start
 {% include figure.html img="TextAnalysisTasks.PNG" alt="Text analysis tasks" caption="Text analysis tasks" width="100%" %}
 Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017, September). Visual text analysis in digital humanities. In Computer Graphics Forum (Vol. 36, No. 6, pp. 226-250) [https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873](https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873)
 
-Once the data has been processed, we can undertake analysis tasks such as:
-- Find and compare instances of particular terms over time from particular source collection
-- Word frequency analysis and visualisation via word clouds
-- Topic modeling - "identify groups of terms that tend to be representative of a given topic" (Toon, 2016)
-- Named entity recognition, to find either person or place, or both.  
-- Machine learning: "the process of teaching a computer system how to make accurate predictions when fed data" [Heath, 2020](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/)
-- Sentiment analysis - a natural language processing technique used to determine whether data is positive, negative, or neutral.
-- mapping - to show locations and even movements of people or ideas, growth of cities and how landscapes have been changed.
-- plotting data 
+Common text analysis tasks include:
+
+Analysing similar text patterns:
+- Linguistic pattrns such a word frequency analysis, useful for historical exploration of language
+- Collocation (words commonly appearing near each other)
+- Concordance (the contexts of a given word or set of words)
+- N-grams (common two-, three-, etc. word phrases)
+- Dictionary tagging (locating a specific set of words in texts)
+
+Analysing one or a number of texts of interest:
+- Topic modeling: identifying "groups of terms that tend to be representative of a given topic" (Toon, 2016)
+- Sentiment analysis: a natural language processing technique used to determine whether data is positive, negative, or neutral. Used in research to see public sentiment on products, ideas or policy. It is useful when scanning social media or comments sections to see the response to ideas, good or bad. 
+- Document categorisation
+- Network analysis: analaysis of structures comprising variables (represented by nodes), and the relationships (edges) between the nodes.
+- Named entity recognition: to find either person or place, or both.  
+- Mapping - a graphical analysis showing locations and even movements of people or ideas, growth of cities and how landscapes have been changed.
 
 ----
 ## Plug and Play analysis tools
@@ -61,33 +72,27 @@ Plug and play tools are interfaces where you can easily add data and analysis is
 
 ### Gale Digital Scholar Lab 
 Gale Digital scholar lab is subscription service with tools that can build, clean and analyse text based data. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data.
+- Sentiment analysis
+- 
 Find out more about Gale Digital Scholar Lab <a href ='https://go-gale-com.libraryproxy.griffith.edu.au/ps/start.do?p=DSLAB&u=griffith' target="_blank"> here </a> (login required)  and <a href ='https://sway.office.com/v4sYacFkErbH9HNo' target="_blank"> here. </a>
 
 ### Open source tools
 - <a href ='https://voyant-tools.org/' target="_blank"> Voyant </a>
 - <a href ='https://rawgraphs.io/' target="_blank"> Raw graphs </a>
+- <a href = 'https://www.danielsoper.com/sentimentanalysis/default.aspx' target="_blank"> Free Sentiment Analyzer from Prof. Soper </a> Good for one source.
 
-----
-
-#### Sentiment analysis
-Sentiment analysis is commonly used in research to see public sentiment on products, ideas or policy. It is useful when scanning social media or comments sections to see the response to ideas, good or bad. 
-
-This tool will show you the sentiment of one resource, 
- - <a href = 'https://www.danielsoper.com/sentimentanalysis/default.aspx' target="_blank"> Free Sentiment Analyzer from Prof. Soper </a>
-
-zero being neutral, over zero positive sentiment and less than zero negative. 
-
-Sentiment analysis is available in Gale digital scholars lab, but is more commonly utilized through code where you can analyze multiple documents at a sentence level.  
-
-
+---- 
 {% capture text %}
 in this activity try the plug and play tools listed. look at the results, look for the opportunity for use to the analysis and the limitations of each tool.{% endcapture %} {% include card.md header="Activity" text=text %}
 
 
+### Coding for text analysis
+
+
 #### Support and training 
 
-##### Sentiment analysis
-[Top 5 Unknown Sentiment Analysis Projects On Github To Help You Through Your NLP Projects - 2021](https://medium.com/analytics-vidhya/top-5-unknown-sentiment-analysis-projects-on-github-to-help-you-through-your-nlp-projects-8d8f195e80fc) 
+##### Support
+- [Top 5 Unknown Sentiment Analysis Projects On Github To Help You Through Your NLP Projects - 2021](https://medium.com/analytics-vidhya/top-5-unknown-sentiment-analysis-projects-on-github-to-help-you-through-your-nlp-projects-8d8f195e80fc) 
 
 ##### Learn coding for text mining and analysis
 
