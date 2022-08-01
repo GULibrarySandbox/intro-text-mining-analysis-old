@@ -54,19 +54,25 @@ Analysing one or a number of texts of interest:
 ----
 ##  Analysis tools
 
-Plug and play tools are interfaces where you can add data let the software perform the computational analysis. You still need to make meaning of and from the results. Some tools run on a web browser, and are also known as Graphic user interface or GUI tools. The majority of the tools are based on Python or R analysis codes. We can use these tools for simple data analysis and visulations, and they are really useful for exploratory analysis and getting an idea of what your data holds. 
+### Griffith University subscription software
 
-- Pro's - easier to use, high level analysis
-- Cons - often inflexible, may not be good for deeper analysis, may not be able to use with identifiable data.
-
-### Griffith University subscription tools 
-Logins and some installation required.
-
-- [Gale Digital Scholar Lab](http://libraryproxy.griffith.edu.au/login?url=https://infotrac.gale.com/itweb/griffith?db=DSLAB) - document clustering, named entity recognition, Ngrams, Parts of Speech, Sentiment Analysis, Topic Modelling all available. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data. Learn about it and Gale Primary Sources [here](https://sway.office.com/v4sYacFkErbH9HNo).
+Login and installation required.
 - [NVivo](https://www.griffith.edu.au/student-computing/available-software) - cluster analysis, phrase nets, tag clouds, and sentiment analysis available.
 - [Leximancer](https://www.griffith.edu.au/student-computing/available-software) – network analysis, topic modeling, sentiment analysis, named entity recognition available.
 
+### Griffith subscription platforms with prepared text and tools
+
+Login required.
+- [JSTOR text mining support](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/) metadata, n-grams, and word counts for most articles and book chapters, and for all research reports and pamphlets available via JSTOR. 
+- [Gale Digital Scholar Lab](http://libraryproxy.griffith.edu.au/login?url=https://infotrac.gale.com/itweb/griffith?db=DSLAB) - document clustering, named entity recognition, Ngrams, Parts of Speech, Sentiment Analysis, Topic Modelling all available. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data. Learn about it and Gale Primary Sources [here](https://sway.office.com/v4sYacFkErbH9HNo).
+
+
+
 ### Plug & Play open source (free) tools
+
+Plug and play tools are interfaces where you can add data let the software perform the computational analysis. You still need to make meaning of and from the results. Some tools run on a web browser, and are also known as Graphic user interface or GUI tools. The majority of the tools are based on Python or R analysis codes. We can use these tools for simple data analysis and visulations, and they are really useful for exploratory analysis and getting an idea of what your data holds. 
+- Pro's - easier to use, high level analysis
+- Cons - often inflexible, may not be good for deeper analysis, may not be able to use with identifiable data.
 
 - <a href ='https://voyant-tools.org/' target="_blank"> Voyant </a>
 - <a href ='https://rawgraphs.io/' target="_blank"> Raw graphs </a>
