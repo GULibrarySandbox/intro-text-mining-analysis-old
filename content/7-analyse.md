@@ -37,13 +37,17 @@ NLP tools break down text into analysable parts, these include:
 The use of computational analysis techniques in humanities reserach is the start point of Digital humanities research. Using code for analysis can show us paterns and connections not seen through close reading alone and can help us find greater meaning in the data. R and Python are the most popular code used  to analyse corpus.
 
 ### Common types of analysis
+
+{% include figure.html img="TextAnalysisTasks.PNG" alt="Text analysis tasks" caption="Text analysis tasks" width="100%" %}
+Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017, September). Visual text analysis in digital humanities. In Computer Graphics Forum (Vol. 36, No. 6, pp. 226-250) [https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873](https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873)
+
 Once the data has been processed, we can undertake analysis tasks such as:
 - Find and compare instances of particular terms over time from particular source collection
 - Word frequency analysis and visualisation via word clouds
 - Topic modeling - "identify groups of terms that tend to be representative of a given topic" (Toon, 2016)
 - Named entity recognition, to find either person or place, or both.  
-- Machine learning https://en.wikipedia.org/wiki/Machine_learning & https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/
-- sentiment analysis - a natural language processing technique used to determine whether data is positive, negative, or neutral.
+- Machine learning: "the process of teaching a computer system how to make accurate predictions when fed data" [Heath, 2020](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/)
+- Sentiment analysis - a natural language processing technique used to determine whether data is positive, negative, or neutral.
 - mapping - to show locations and even movements of people or ideas, growth of cities and how landscapes have been changed.
 - plotting data 
 
