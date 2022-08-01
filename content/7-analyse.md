@@ -9,7 +9,7 @@ nav: true
 
 ### Processing methods
 
-Once the text is cleaned and formatted it can be computationally processed by a number of different methods, depending on your analysis needs. This is large scale and quantifiable. Explore some of popular the methods below.
+Once the text is cleaned and formatted it can be computationally processed by a number of different methods, depending on your analysis needs. This is large scale and quantifiable. Explore some of popular the methods below. It is important to note that you will still need to make meaning of and from the results.
 
 #### Natural language processing (NLP) techniques
 
@@ -60,17 +60,17 @@ Login and installation required.
 - [NVivo](https://www.griffith.edu.au/student-computing/available-software) - cluster analysis, phrase nets, tag clouds, and sentiment analysis available.
 - [Leximancer](https://www.griffith.edu.au/student-computing/available-software) – network analysis, topic modeling, sentiment analysis, named entity recognition available.
 
-### Griffith subscription platforms with prepared text and tools
+### Platforms with prepared text and tools
 
-Login required.
-- [JSTOR text mining support](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/) metadata, n-grams, and word counts for most articles and book chapters, and for all research reports and pamphlets available via JSTOR. 
-- [Gale Digital Scholar Lab](http://libraryproxy.griffith.edu.au/login?url=https://infotrac.gale.com/itweb/griffith?db=DSLAB) - document clustering, named entity recognition, Ngrams, Parts of Speech, Sentiment Analysis, Topic Modelling all available. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data. Learn about it and Gale Primary Sources [here](https://sway.office.com/v4sYacFkErbH9HNo).
-
+The virtual resaerch environments below have been developed to support digital text scholarship.
+- [JSTOR text mining support](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/) metadata, n-grams, and word counts for most articles and book chapters, and for all research reports and pamphlets available via Griffith University's subscription to JSTOR. Login required.
+- [Gale Digital Scholar Lab](http://libraryproxy.griffith.edu.au/login?url=https://infotrac.gale.com/itweb/griffith?db=DSLAB) - document clustering, named entity recognition, Ngrams, Parts of Speech, Sentiment Analysis, Topic Modelling all available via Griffith University's subscription. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data. Learn about it and Gale Primary Sources [here](https://sway.office.com/v4sYacFkErbH9HNo). Includes [online tutorials](https://go-gale-com.libraryproxy.griffith.edu.au/ps/helpCenter?userGroupName=griffith&inPS=true&nspage=true&prodId=DSLAB&docId=VJWVZS717322017). Login required. 
+- [Hathi Trust Research Center Analytics](https://analytics.hathitrust.org/) supports large-scale computational analysis of the digital library works to facilitate non-profit and educational research. Individual researchers can sign up for free with their Griffith email and use out of copyright materials and analysis tools.  
 
 
 ### Plug & Play open source (free) tools
 
-Plug and play tools are interfaces where you can add data let the software perform the computational analysis. You still need to make meaning of and from the results. Some tools run on a web browser, and are also known as Graphic user interface or GUI tools. The majority of the tools are based on Python or R analysis codes. We can use these tools for simple data analysis and visulations, and they are really useful for exploratory analysis and getting an idea of what your data holds. 
+Plug and play tools are web interfaces where you can add data let the software perform the computational analysis. The majority of the tools are based on Python or R analysis codes. We can use these tools for simple data analysis and visulations, and they are really useful for exploratory analysis and getting an idea of what your data holds. 
 - Pro's - easier to use, high level analysis
 - Cons - often inflexible, may not be good for deeper analysis, may not be able to use with identifiable data.
 
@@ -81,16 +81,11 @@ Plug and play tools are interfaces where you can add data let the software perfo
 {% capture text %}
 Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html) using [Voyant tools](https://voyant-tools.org/). Look at the results, think how you might use it for analysis and the limitations of the tool.{% endcapture %} {% include card.md header="Voyant tools activity" text=text %}
 
-
 ### Coding for text analysis
 - [R](https://www.rstudio.com/products/rstudio/) & R Studio - network analysis, topic modeling, classification/clustering, named entity recognition, sentiment analysis 
 - [Python](https://www.python.org/) – network analysis, topic modeling, classification/clustering, named entity recognition, sentiment analysis
 
-
-
 #### Support and training 
-
-
 
 ##### Learn coding for text mining and analysis
 - [Beginner R & Python workshops](https://www.griffith.edu.au/eresearch-services/hacky-hour) are available from Griffith's eResearch services throughout the year. 
