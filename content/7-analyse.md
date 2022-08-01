@@ -75,12 +75,11 @@ Plug and play tools are interfaces where you can add data let the software perfo
 - Cons - often inflexible, may not be good for deeper analysis, may not be able to use with identifiable data.
 
 - <a href ='https://voyant-tools.org/' target="_blank"> Voyant </a>
-- <a href ='https://rawgraphs.io/' target="_blank"> Raw graphs </a>
 - <a href = 'https://www.danielsoper.com/sentimentanalysis/default.aspx' target="_blank"> Free Sentiment Analyzer from Prof. Soper </a> Good for one source.
 
 ---- 
 {% capture text %}
-in this activity try the plug and play tools listed. look at the results, look for the opportunity for use to the analysis and the limitations of each tool.{% endcapture %} {% include card.md header="Activity" text=text %}
+Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html) using [Voyant tools](https://voyant-tools.org/). Look at the results, think how you might use it for analysis and the limitations of the tool.{% endcapture %} {% include card.md header="Voyant tools activity" text=text %}
 
 
 ### Coding for text analysis
