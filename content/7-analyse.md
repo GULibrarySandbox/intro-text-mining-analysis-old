@@ -7,16 +7,9 @@ nav: true
 
 -----
 
-## Pathways to analysis
-
-No matter what data you are starting with, it is important that you have an idea of what outcomes you are looking for. For analysis we need:
-- data set
-- clean data, transcibe, annotated 
-- processed by a computational method
-
 ### Processing methods
 
-Once the text is cleaned and formatted it can be computationally processed by a number of different methods, depending on your analysis needs.
+Once the text is cleaned and formatted it can be computationally processed by a number of different methods, depending on your analysis needs. This is large scale and quantifiable
 
 #### Natural language processing (NLP) techniques
 
@@ -34,7 +27,7 @@ NLP tools break down text into analysable parts, these include:
 {% include figure.html img="BagOfWords.PNG" alt="Bag of words" caption="Natural Language Processing - tokenization" width="100%" %}
 
 #### Machine learning
-Machine learning is a branch of AI and process of teaching a computer system to recognise patterns in text without explicit human programming. Machine learning can be either unsupervised (with minimal human intervention) or supervised (with more human intervention). Explore machine learning from [Heath, 2020](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/). Analysis using Machine learning includes topic modelling, and Naive Bayes Classification.
+Machine learning is a branch of AI and process of teaching a computer system to recognise patterns in text without explicit human programming. Machine learning can be either unsupervised (with minimal human intervention) or supervised (with more human intervention). Explore machine learning from [Heath, 2020](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/). Analysis using Machine learning includes topic modelling, and Naive Bayes Classification, which are detailed below.
 
 
 ## Common types of Computational analysis
@@ -52,27 +45,30 @@ Analysing similar text patterns:
 - Dictionary tagging (locating a specific set of words in texts)
 
 Analysing one or a number of texts of interest:
-- Topic modeling: identifying "groups of terms that tend to be representative of a given topic" (Toon, 2016) a form of unsupervised machine learning.
-- Document classification such as: Naive Bayes Classfication: uses Machine Learning to classify documents based on information in the text.
-- Sentiment analysis: a popular Natural Language Processing technique used to determine whether data is positive, negative, or neutral. Used in research to see public sentiment on products, ideas or policy. It is useful when scanning social media or comments sections to see the response to ideas, good or bad. 
+- Topic modeling: unsupervised machine learning to identify groups of terms that may be representative of a given topic.
+- Document classification such as Naive Bayes Classfication: machine learning to classify documents based on information in the text.
+- Sentiment analysis: a popular NLP technique used to determine whether data is positive, negative, or neutral. Used in research to see public sentiment on products, ideas or policy.
 - Network analysis: analaysis of structures comprising variables (represented by nodes), and the relationships (edges) between the nodes.
 - Named entity recognition: generates a list of people, places, dates, times, percentages, monetary terms [Illinois Library](https://hdl.handle.net/2142/102049).  
 
 ----
-## Plug and Play analysis tools
+##  Analysis tools
 
-Plug and play tools are interfaces where you can easily add data and analysis is done for you. The tools run on your web browser and are also know as Graphic user interface or GUI tools. The majority of these tools will be based up python or R analysis codes. We can use these tools for simple data analysis and visulations, they are really useful in getting started with analysis and getting an idea of what your data holds. 
+Plug and play tools are interfaces where you can easily add data and analysis is done for you. The tools run on your web browser and are also known as Graphic user interface or GUI tools. The majority of the tools are based on Python or R analysis codes. We can use these tools for simple data analysis and visulations, and they are really useful for exploratory analysis and getting an idea of what your data holds. 
 
-- Pro's - easy to use, high level analysis, 
-- Cons - often inflexible, not good for deeper analysis, may not be able to use with identifiable data
+- Pro's - easy to use, high level analysis
+- Cons - often inflexible, not good for deeper analysis, may not be able to use with identifiable data.
 
-### Gale Digital Scholar Lab - Griffith University subscription
-Gale Digital scholar provides tools that can build, clean and analyse text based data. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data.
-- Sentiment analysis
-- 
+### Griffith University subscription tools
+
+- [Gale Digital Scholar Lab](http://libraryproxy.griffith.edu.au/login?url=https://infotrac.gale.com/itweb/griffith?db=DSLAB)provides tools that can build, clean and analyse text based data. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data.
+- [NVivo](https://www.griffith.edu.au/student-computing/available-software) - cluster analysis, phrase nets, tag clouds, sentiment analysis
+- [Leximancer](https://www.griffith.edu.au/student-computing/available-software) – network analysis, topic modeling, sentiment analysis, named entity recognition
+
 Find out more about Gale Digital Scholar Lab <a href ='https://go-gale-com.libraryproxy.griffith.edu.au/ps/start.do?p=DSLAB&u=griffith' target="_blank"> here </a> (login required)  and <a href ='https://sway.office.com/v4sYacFkErbH9HNo' target="_blank"> here. </a>
 
-### Open source (free) tools
+### Plug & Play open source (free) tools
+
 - <a href ='https://voyant-tools.org/' target="_blank"> Voyant </a>
 - <a href ='https://rawgraphs.io/' target="_blank"> Raw graphs </a>
 - <a href = 'https://www.danielsoper.com/sentimentanalysis/default.aspx' target="_blank"> Free Sentiment Analyzer from Prof. Soper </a> Good for one source.
