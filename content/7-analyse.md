@@ -28,12 +28,13 @@ NLP tools break down text into analysable parts, these include:
 -	Part-of-speech tagging
 -	Shallow parsing
 -	Named entity extraction
--	Syntactic parsing (Tsuruoka, n.d.) 
+-	Syntactic parsing (Tsuruoka, n.d.)
+-	Stylometry: method of studying a linguistic style. 
 
 {% include figure.html img="BagOfWords.PNG" alt="Bag of words" caption="Natural Language Processing - tokenization" width="100%" %}
 
 #### Machine learning
-Machine learning is the "the process of teaching a computer system how to make accurate predictions when fed data" [Heath, 2020](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/) and another branch of AI used in text mining and analysis. 
+Machine learning is a branch of AI and process of teaching a computer system to recognise patterns in text without explicit human programming. Machine learning can be either unsupervised (with minimal human intervention) or supervised (with more human intervention). Explore machine learning from [Heath, 2020](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/). Analysis using Machine learning includes topic modelling, and Naive Bayes Classification.
 
 
 ## Common types of Computational analysis
@@ -44,19 +45,18 @@ Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017
 Common text analysis tasks include:
 
 Analysing similar text patterns:
-- Linguistic pattrns such a word frequency analysis, useful for historical exploration of language
+- Linguistic patterns such a word frequency analysis which is useful for historical exploration of language as well as topic identification
 - Collocation (words commonly appearing near each other)
 - Concordance (the contexts of a given word or set of words)
 - N-grams (common two-, three-, etc. word phrases)
 - Dictionary tagging (locating a specific set of words in texts)
 
 Analysing one or a number of texts of interest:
-- Topic modeling: identifying "groups of terms that tend to be representative of a given topic" (Toon, 2016)
-- Sentiment analysis: a natural language processing technique used to determine whether data is positive, negative, or neutral. Used in research to see public sentiment on products, ideas or policy. It is useful when scanning social media or comments sections to see the response to ideas, good or bad. 
-- Document categorisation
+- Topic modeling: identifying "groups of terms that tend to be representative of a given topic" (Toon, 2016) a form of unsupervised machine learning.
+- Document classification such as: Naive Bayes Classfication: uses Machine Learning to classify documents based on information in the text.
+- Sentiment analysis: a popular Natural Language Processing technique used to determine whether data is positive, negative, or neutral. Used in research to see public sentiment on products, ideas or policy. It is useful when scanning social media or comments sections to see the response to ideas, good or bad. 
 - Network analysis: analaysis of structures comprising variables (represented by nodes), and the relationships (edges) between the nodes.
-- Named entity recognition: to find either person or place, or both.  
-- Mapping - a graphical analysis showing locations and even movements of people or ideas, growth of cities and how landscapes have been changed.
+- Named entity recognition: generates a list of people, places, dates, times, percentages, monetary terms [Illinois Library](https://hdl.handle.net/2142/102049).  
 
 ----
 ## Plug and Play analysis tools
