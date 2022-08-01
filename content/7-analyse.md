@@ -92,10 +92,6 @@ Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content
 - [GLAM Workbench tutorials](https://glam-workbench.net/getting-started/) learn how to use the GLAM Workbench to extract and analyse data from Australia's galleries libraries, archives and museums.
 - [Top 5 Unknown Sentiment Analysis Projects On Github To Help You Through Your NLP Projects](https://medium.com/analytics-vidhya/top-5-unknown-sentiment-analysis-projects-on-github-to-help-you-through-your-nlp-projects-8d8f195e80fc) 
 
-{% capture text %}
-For this activity take a look at the example DH project,  think about the process taken to get from the original resources to the final analyzed product.
-If possible, see if you can identify the tools and coding packages used to undertake the project.{% endcapture %} {% include card.md header="Activity " text=text %}
-
 -----
 
 <p align="center">
