@@ -9,7 +9,7 @@ nav: true
 
 ### Processing methods
 
-Once the text is cleaned and formatted it can be computationally processed by a number of different methods, depending on your analysis needs. This is large scale and quantifiable
+Once the text is cleaned and formatted it can be computationally processed by a number of different methods, depending on your analysis needs. This is large scale and quantifiable. Explore some of popular the methods below.
 
 #### Natural language processing (NLP) techniques
 
@@ -54,18 +54,17 @@ Analysing one or a number of texts of interest:
 ----
 ##  Analysis tools
 
-Plug and play tools are interfaces where you can easily add data and analysis is done for you. The tools run on your web browser and are also known as Graphic user interface or GUI tools. The majority of the tools are based on Python or R analysis codes. We can use these tools for simple data analysis and visulations, and they are really useful for exploratory analysis and getting an idea of what your data holds. 
+Plug and play tools are interfaces where you can add data let the software perform the computational analysis. You still need to make meaning of and from the results. Some tools run on a web browser, and are also known as Graphic user interface or GUI tools. The majority of the tools are based on Python or R analysis codes. We can use these tools for simple data analysis and visulations, and they are really useful for exploratory analysis and getting an idea of what your data holds. 
 
-- Pro's - easy to use, high level analysis
-- Cons - often inflexible, not good for deeper analysis, may not be able to use with identifiable data.
+- Pro's - easier to use, high level analysis
+- Cons - often inflexible, may not be good for deeper analysis, may not be able to use with identifiable data.
 
-### Griffith University subscription tools
+### Griffith University subscription tools 
+Logins and some installation required.
 
-- [Gale Digital Scholar Lab](http://libraryproxy.griffith.edu.au/login?url=https://infotrac.gale.com/itweb/griffith?db=DSLAB)provides tools that can build, clean and analyse text based data. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data.
-- [NVivo](https://www.griffith.edu.au/student-computing/available-software) - cluster analysis, phrase nets, tag clouds, sentiment analysis
-- [Leximancer](https://www.griffith.edu.au/student-computing/available-software) – network analysis, topic modeling, sentiment analysis, named entity recognition
-
-Find out more about Gale Digital Scholar Lab <a href ='https://go-gale-com.libraryproxy.griffith.edu.au/ps/start.do?p=DSLAB&u=griffith' target="_blank"> here </a> (login required)  and <a href ='https://sway.office.com/v4sYacFkErbH9HNo' target="_blank"> here. </a>
+- [Gale Digital Scholar Lab](http://libraryproxy.griffith.edu.au/login?url=https://infotrac.gale.com/itweb/griffith?db=DSLAB) - document clustering, named entity recognition, Ngrams, Parts of Speech, Sentiment Analysis, Topic Modelling all available. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data. Learn about it and Gale Primary Sources [here](https://sway.office.com/v4sYacFkErbH9HNo).
+- [NVivo](https://www.griffith.edu.au/student-computing/available-software) - cluster analysis, phrase nets, tag clouds, and sentiment analysis available.
+- [Leximancer](https://www.griffith.edu.au/student-computing/available-software) – network analysis, topic modeling, sentiment analysis, named entity recognition available.
 
 ### Plug & Play open source (free) tools
 
@@ -79,7 +78,6 @@ in this activity try the plug and play tools listed. look at the results, look f
 
 
 ### Coding for text analysis
-
 
 #### Support and training 
 
