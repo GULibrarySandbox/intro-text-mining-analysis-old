@@ -9,7 +9,7 @@ nav: true
 
 ### Processing methods
 
-Once the text is cleaned and formatted it can be computationally processed by a number of different methods, depending on your analysis needs. This is large scale and quantifiable. Explore some of popular the methods below. It is important to note that you will still need to make meaning of and from the results.
+Once the text is cleaned and formatted it can be computationally processed by a number of different methods, depending on your analysis needs. Explore some of popular the methods below. It is important to note that you will still need to make meaning of and from the results.
 
 #### Natural language processing (NLP) techniques
 
@@ -43,9 +43,10 @@ Analysing similar text patterns:
 - Dictionary tagging (locating a specific set of words in texts)
 
 Analysing one or a number of texts of interest:
-- Topic modeling: unsupervised machine learning to identify groups of terms that may be representative of a given topic.
-- Document classification such as Naive Bayes Classfication: machine learning to classify documents based on information in the text.
-- Sentiment analysis: a popular NLP technique used to determine whether data is positive, negative, or neutral. Used in research to see public sentiment on products, ideas or policy.
+- Topic modeling: unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes.[Example]( 
+https://doi.org/10.1111/faf.12399)
+- Document classification such as Naive Bayes Classfication: machine learning to classify documents based on information in the text, used in Sentiment and other analysis.
+- Sentiment analysis: used to determine whether data is positive, negative, or neutral. Used in research to see public sentiment on products, ideas or policy, can undertaken via NLP or machine learning.
 - Network analysis: analaysis of structures comprising variables (represented by nodes), and the relationships (edges) between the nodes.
 - Named entity recognition: generates a list of people, places, dates, times, percentages, monetary terms [Illinois Library](https://hdl.handle.net/2142/102049).  
 
@@ -60,7 +61,7 @@ Login and installation required.
 
 ### Platforms with prepared text and tools
 
-The virtual resaerch environments below have been developed to support digital text scholarship.
+The virtual research environments below have been developed to support digital text scholarship.
 - [JSTOR text mining support](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/) metadata, n-grams, and word counts for most articles and book chapters, and for all research reports and pamphlets available via Griffith University's subscription to JSTOR. Login required.
 - [Gale Digital Scholar Lab](http://libraryproxy.griffith.edu.au/login?url=https://infotrac.gale.com/itweb/griffith?db=DSLAB) - document clustering, named entity recognition, Ngrams, Parts of Speech, Sentiment Analysis, Topic Modelling all available via Griffith University's subscription. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data. Learn about it and Gale Primary Sources [here](https://sway.office.com/v4sYacFkErbH9HNo). Includes [online tutorials](https://go-gale-com.libraryproxy.griffith.edu.au/ps/helpCenter?userGroupName=griffith&inPS=true&nspage=true&prodId=DSLAB&docId=VJWVZS717322017). Login required. 
 - [Hathi Trust Research Center Analytics](https://analytics.hathitrust.org/) supports large-scale computational analysis of the digital library works to facilitate non-profit and educational research. Individual researchers can sign up for free with their Griffith email and use out of copyright materials and analysis tools.  
