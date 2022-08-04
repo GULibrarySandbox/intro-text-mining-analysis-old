@@ -88,14 +88,16 @@ Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content
 - [R](https://www.rstudio.com/products/rstudio/) & R Studio - network analysis, topic modeling, classification/clustering, named entity recognition, sentiment analysis 
 - [Python](https://www.python.org/) – network analysis, topic modeling, classification/clustering, named entity recognition, sentiment analysis
 
-#### Support and training 
+----
+
+### Support and training 
 
 
 ##### Learn about the methods
 
 - Prof. Miriam Possner's [Topic Modelling online tutorials](http://miriamposner.com/classes/dh201w21/tutorials-guides/text-analysis/messing-around-with-the-topic-modeling-tool/) using the Topic Modelling Tool.
-- [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html) by Scott Weingart, written as an introduction for HASS scholars 
-- [Introduction to Sentiment analysis](https://www.youtube.com/watch?v=i4D5DZ5ZG-0)
+- [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html) by Scott Weingart, written as an introduction for HASS scholars.
+- [Introduction to Sentiment analysis](https://www.youtube.com/watch?v=i4D5DZ5ZG-0) fun and informative video.
 
 ##### Learn coding for text mining and analysis
 - [Beginner R & Python workshops](https://www.griffith.edu.au/eresearch-services/hacky-hour) are available from Griffith's eResearch services throughout the year. 
