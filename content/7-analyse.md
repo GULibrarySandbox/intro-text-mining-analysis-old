@@ -36,18 +36,18 @@ Machine learning is a branch of AI and process of teaching a computer system to 
 Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017, September). Visual text analysis in digital humanities. In Computer Graphics Forum (Vol. 36, No. 6, pp. 226-250) [https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873](https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873)
 
 Analysing similar text patterns:
-- `Linguistic`: patterns such a word frequency analysis which is useful for historical exploration of language as well as topic identification
-- `Collocation`: words commonly appearing near each other
-- `Concordance`: the contexts of a given word or set of words
-- `N-grams`: common two-, three-, etc. word phrases
-- `Dictionary tagging`: locating a specific set of words in texts
+- `Linguistic patterns` such a word frequency analysis which is useful for historical exploration of language as well as topic identification
+- `Collocation` : words commonly appearing near each other
+- `Concordance` : the contexts of a given word or set of words
+- `N-grams` : common two-, three-, etc. word phrases
+- `Dictionary tagging` : locating a specific set of words in texts
 
 Analysing one or a number of texts of interest:
-- `Topic modeling`: unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes.  [Example](https://doi.org/10.1111/faf.12399)
-- `Document classification` such as Naive Bayes Classfication: machine learning to classify documents based on information in the text, used in Sentiment and other analysis.
-- `Sentiment analysis`: used to determine whether data is positive, negative, or neutral. Used in research to see public sentiment on products, ideas or policy, can undertaken via NLP or machine learning.
-- `Network analysis`: analaysis of structures comprising variables (represented by nodes), and the relationships (edges) between the nodes.
-- `Named entity recognition`: generates a list of people, places, dates, times, percentages, monetary terms [Illinois Library](https://hdl.handle.net/2142/102049).  
+- `Topic modeling` : unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes.  [Example](https://doi.org/10.1111/faf.12399)
+- `Document classification` such as `Naive Bayes Classfication` : machine learning to classify documents based on information in the text, used in Sentiment and other analysis.
+- `Sentiment analysis` : used to determine whether data is positive, negative, or neutral. Used in research to see public sentiment on products, ideas or policy, can undertaken via NLP or machine learning.
+- `Network analysis` : analysis of social or other structures comprising variables or actors (represented by nodes), and the relationships (edges) between the nodes.
+- `Named entity recognition` generates a list of people, places, dates, times, percentages, monetary terms [Illinois Library](https://hdl.handle.net/2142/102049).  
 
 Learn more about these methods and types of analysis from the [Australian Text Analytics Platform Methods Guide](https://www.atap.edu.au/methods).
 
@@ -78,6 +78,8 @@ Plug and play tools let you add data and the software performs the computational
 - [Sentiment Analyzer](https://www.danielsoper.com/sentimentanalysis/default.aspx) from Prof. Soper for analysing one source at a time.
 - [Topic Modelling tool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html) created by Jonathan Scott Enderle.
 - [Cytoscape](https://cytoscape.org/) software platform for visualizing complex networks. 
+- [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.html) is particularly good for person, organisation and location recognition.
+
 
 
 ---- 
