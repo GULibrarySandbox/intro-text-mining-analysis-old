@@ -71,7 +71,9 @@ The virtual research environments below have been developed to support digital t
 ### Plug & Play open source (free) tools
 
 Plug and play tools let you add data and the software performs the computational analysis. The majority of the tools are based on Python or R analysis codes. We can use these tools for simple data analysis and visulations, and they are really useful for exploratory analysis and getting an idea of what your data holds. Some are downloadable to your computer, others are web interfaces, each with their own benefits and limitations.
+
 `Pro's` : easier to learn than coding, good for high level analysis
+
 `Cons` : can be inflexible, may not be good for deeper analysis, web based tools may not approprate for using with identifiable data.
 
 - [Voyant Tools](https://voyant-tools.org/) web based online tool for frequency, distribution and collocation of terms, keywords in context, term clusters and more.
