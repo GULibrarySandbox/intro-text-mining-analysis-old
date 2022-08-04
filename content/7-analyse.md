@@ -45,7 +45,7 @@ Analysing similar text patterns:
 Analysing one or a number of texts of interest:
 - `Topic modeling` : unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes.  [Example](https://doi.org/10.1111/faf.12399)
 - `Document classification` such as `Naive Bayes Classfication` : machine learning to classify documents based on information in the text, used in Sentiment and other analysis.
-- `Sentiment analysis` : used to determine whether data is positive, negative, or neutral. Used in research to see public sentiment on products, ideas or policy, can undertaken via NLP or machine learning. Try the [Tweet Sentiment Visualization tool](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/) from NC State University.
+- `Sentiment analysis` : used to determine whether text is positive, negative, or neutral. Used in research to see public sentiment, opinions, or emotions about products, ideas or policy, and can undertaken via NLP or machine learning. Try the [Tweet Sentiment Visualization App](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/) from NC State University.
 - `Network analysis` : analysis of social or other structures comprising variables or actors (represented by nodes), and the relationships (edges) between the nodes.
 - `Named entity recognition` generates a list of people, places, dates, times, percentages, monetary terms [Illinois Library](https://hdl.handle.net/2142/102049).  
 
@@ -76,7 +76,7 @@ Plug and play tools let you add data and the software performs the computational
 
 - [Voyant Tools](https://voyant-tools.org/) web based online tool for frequency, distribution and collocation of terms, keywords in context, term clusters and more.
 - [Sentiment Analyzer](https://www.danielsoper.com/sentimentanalysis/default.aspx) web based tool for analysing one source at a time.
-- [Topic Modelling tool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html).
+- [Topic Modelling tool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html)
 - [Cytoscape](https://cytoscape.org/) software platform for visualizing complex networks. 
 - [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.html) is particularly good for person, organisation and location recognition.
 
@@ -91,10 +91,11 @@ Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content
 #### Support and training 
 
 
-##### Methods training
+##### Learn about the methods
 
 - Prof. Miriam Possner's [Topic Modelling online tutorials](http://miriamposner.com/classes/dh201w21/tutorials-guides/text-analysis/messing-around-with-the-topic-modeling-tool/) using the Topic Modelling Tool.
 - [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html) by Scott Weingart, written as an introduction for HASS scholars 
+- [Introduction to Sentiment analysis](https://www.youtube.com/watch?v=i4D5DZ5ZG-0)
 
 ##### Learn coding for text mining and analysis
 - [Beginner R & Python workshops](https://www.griffith.edu.au/eresearch-services/hacky-hour) are available from Griffith's eResearch services throughout the year. 
@@ -105,7 +106,7 @@ Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content
 - [Language Technology and Data Analysis Laboratory (LADAL) Tutorials](https://ladal.edu.au/tutorials.html) provides online text analysis tutorials in R.
 
 {% capture text %}
-Note: All software should be referred to in your methods notes and software developers attributed by citation e.g. 
+Note: Refer to software used for your research in methods notes and attributed software developers by citation e.g. 
 - Sinclair, Stéfan and Geoffrey Rockwell, 2016. *Voyant Tools*. Web. http://voyant-tools.org/.{% endcapture %}{% include alert.md text=text color="info" %} 
 
 -----
