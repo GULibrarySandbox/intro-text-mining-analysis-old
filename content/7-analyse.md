@@ -43,12 +43,13 @@ Analysing similar text patterns:
 - Dictionary tagging (locating a specific set of words in texts)
 
 Analysing one or a number of texts of interest:
-- Topic modeling: unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes.[Example]( 
-https://doi.org/10.1111/faf.12399)
+- Topic modeling: unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes.  [Example](https://doi.org/10.1111/faf.12399)
 - Document classification such as Naive Bayes Classfication: machine learning to classify documents based on information in the text, used in Sentiment and other analysis.
 - Sentiment analysis: used to determine whether data is positive, negative, or neutral. Used in research to see public sentiment on products, ideas or policy, can undertaken via NLP or machine learning.
 - Network analysis: analaysis of structures comprising variables (represented by nodes), and the relationships (edges) between the nodes.
 - Named entity recognition: generates a list of people, places, dates, times, percentages, monetary terms [Illinois Library](https://hdl.handle.net/2142/102049).  
+
+Learn more about these methods and types of analysis from the [Australian Text Analytics Platform Methods Guide](https://www.atap.edu.au/methods).
 
 ----
 ##  Analysis tools
@@ -73,8 +74,11 @@ Plug and play tools are web interfaces where you can add data let the software p
 - Pro's - easier to use, high level analysis
 - Cons - often inflexible, may not be good for deeper analysis, may not be able to use with identifiable data.
 
-- <a href ='https://voyant-tools.org/' target="_blank"> Voyant </a>
-- <a href = 'https://www.danielsoper.com/sentimentanalysis/default.aspx' target="_blank"> Free Sentiment Analyzer from Prof. Soper </a> Good for one source.
+- [Voyant Tools](https://voyant-tools.org/) web based online tool for frequency, distribution and collocation of terms, keywords in context, term clusters and more
+- [Sentiment Analyzer](https://www.danielsoper.com/sentimentanalysis/default.aspx) from Prof. Soper for analysing one source.
+- [Topic Modelling tool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html) created by Jonathan Scott Enderle, download and install.
+- [Cytoscape](https://cytoscape.org/) software platform for visualizing complex networks and integrating these with any type of attribute data. 
+
 
 ---- 
 {% capture text %}
@@ -85,6 +89,11 @@ Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content
 - [Python](https://www.python.org/) – network analysis, topic modeling, classification/clustering, named entity recognition, sentiment analysis
 
 #### Support and training 
+
+##### Methods training
+
+- Prof. Miriam Possner's [Topic Modelling online tutorials](http://miriamposner.com/classes/dh201w21/tutorials-guides/text-analysis/messing-around-with-the-topic-modeling-tool/) using the Topic Modelling Tool.
+- [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html) by Scott Weingart, written as an introduction for HASS scholars 
 
 ##### Learn coding for text mining and analysis
 - [Beginner R & Python workshops](https://www.griffith.edu.au/eresearch-services/hacky-hour) are available from Griffith's eResearch services throughout the year. 
