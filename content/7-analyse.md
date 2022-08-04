@@ -82,7 +82,6 @@ Plug and play tools let you add data and the software performs the computational
 - [Cytoscape](https://cytoscape.org/) software platform for visualizing complex networks. 
 - [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.html) is particularly good for person, organisation and location recognition.
 
----- 
 {% capture text %}
 Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html) using [Voyant tools](https://voyant-tools.org/). Look at the results, think how you might use it for analysis and the limitations of the tool.{% endcapture %} {% include card.md header="Voyant tools activity" text=text %}
 
