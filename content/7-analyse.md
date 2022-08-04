@@ -104,6 +104,10 @@ Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content
 - [Top 5 Unknown Sentiment Analysis Projects On Github To Help You Through Your NLP Projects](https://medium.com/analytics-vidhya/top-5-unknown-sentiment-analysis-projects-on-github-to-help-you-through-your-nlp-projects-8d8f195e80fc) 
 - [Language Technology and Data Analysis Laboratory (LADAL) Tutorials](https://ladal.edu.au/tutorials.html) provides online text analysis tutorials in R.
 
+{% capture text %}
+Note: All software should be referred to in your methods notes and software developers attributed by citation e.g. 
+- Sinclair, Stéfan and Geoffrey Rockwell, 2016. *Voyant Tools*. Web. http://voyant-tools.org/.{% endcapture %}{% include alert.md text=text color="info" %} 
+
 -----
 
 <p align="center">
