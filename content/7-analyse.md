@@ -45,7 +45,7 @@ Analysing similar text patterns:
 Analysing one or a number of texts of interest:
 - `Topic modeling` : unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes.  [Example](https://doi.org/10.1111/faf.12399)
 - `Document classification` such as `Naive Bayes Classfication` : machine learning to classify documents based on information in the text, used in Sentiment and other analysis.
-- `Sentiment analysis` : used to determine whether data is positive, negative, or neutral. Used in research to see public sentiment on products, ideas or policy, can undertaken via NLP or machine learning.
+- `Sentiment analysis` : used to determine whether data is positive, negative, or neutral. Used in research to see public sentiment on products, ideas or policy, can undertaken via NLP or machine learning. Try the [Tweet Sentiment Visualization tool](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/) from NC State University.
 - `Network analysis` : analysis of social or other structures comprising variables or actors (represented by nodes), and the relationships (edges) between the nodes.
 - `Named entity recognition` generates a list of people, places, dates, times, percentages, monetary terms [Illinois Library](https://hdl.handle.net/2142/102049).  
 
