@@ -70,17 +70,15 @@ The virtual research environments below have been developed to support digital t
 
 ### Plug & Play open source (free) tools
 
-Plug and play tools let you add data and the software performs the computational analysis. The majority of the tools are based on Python or R analysis codes. We can use these tools for simple data analysis and visulations, and they are really useful for exploratory analysis and getting an idea of what your data holds. Some are downloadable to your computer, others are web interfaces.
-- Pro's - easier to use, high level analysis
-- Cons - often inflexible, may not be good for deeper analysis, web interaces may not be able to use with identifiable data.
+Plug and play tools let you add data and the software performs the computational analysis. The majority of the tools are based on Python or R analysis codes. We can use these tools for simple data analysis and visulations, and they are really useful for exploratory analysis and getting an idea of what your data holds. Some are downloadable to your computer, others are web interfaces, each with their own benefits and limitations.
+`Pro's` : easier to learn than coding, good for high level analysis
+`Cons` : can be inflexible, may not be good for deeper analysis, web based tools may not approprate for using with identifiable data.
 
 - [Voyant Tools](https://voyant-tools.org/) web based online tool for frequency, distribution and collocation of terms, keywords in context, term clusters and more.
-- [Sentiment Analyzer](https://www.danielsoper.com/sentimentanalysis/default.aspx) from Prof. Soper for analysing one source at a time.
-- [Topic Modelling tool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html) created by Jonathan Scott Enderle.
+- [Sentiment Analyzer](https://www.danielsoper.com/sentimentanalysis/default.aspx) web based tool for analysing one source at a time.
+- [Topic Modelling tool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html).
 - [Cytoscape](https://cytoscape.org/) software platform for visualizing complex networks. 
 - [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.html) is particularly good for person, organisation and location recognition.
-
-
 
 ---- 
 {% capture text %}
