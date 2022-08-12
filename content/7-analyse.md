@@ -87,10 +87,12 @@ The virtual research environments below have been developed to support digital t
 
 ### Open source (free) tools
 
-The tools listed below enable users to import text data for computational processing and analysis without the need to learn to code. The majority of the tools are based on Python or R analysis codes. We can use these tools for simple or exploratory data analysis and some visulations. Some tools are downloadable to your computer, others are web interfaces, each with their own benefits and limitations.
+The tools listed below enable users to undertake text analysis without the need to learn to code. The majority of the tools are based on Python or R codes. We can use these tools for simple or exploratory data analysis and some visulations. Some tools are downloadable to your computer, others are web interfaces, each with their own benefits and limitations.
 
 | Pro's | Cons |
 | Easier to learn than coding, good for high level analysis | Can be inflexible, may not be good for deeper analysis, web based tools may not approprate for using with identifiable data |
+{:.table .table-bordered}
+
 
 - [Voyant Tools](https://voyant-tools.org/) web based online tool for frequency, distribution and collocation of terms, keywords in context, term clusters and more.
 - [Sentiment Analyzer](https://www.danielsoper.com/sentimentanalysis/default.aspx) web based tool for analysing one source at a time.
