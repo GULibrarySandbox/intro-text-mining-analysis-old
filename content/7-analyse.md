@@ -56,9 +56,10 @@ Learn more about these methods and types of analysis from the [Australian Text A
 
 ### Griffith University subscription software
 
-Login and installation required.
-- [NVivo](https://www.griffith.edu.au/student-computing/available-software) - cluster analysis, phrase nets, tag clouds, and sentiment analysis available.
-- [Leximancer](https://www.griffith.edu.au/student-computing/available-software) – network analysis, topic modeling, sentiment analysis, named entity recognition available.
+Login and installation required. Training available for Griffith researchers via [Researcher Education & Development](https://www.griffith.edu.au/research/research-services/researcher-education-development/workshop-calendar)
+
+- [NVivo](https://www.griffith.edu.au/student-computing/available-software) - cluster analysis, phrase nets, tag clouds, and sentiment analysis available. 
+- [Leximancer](https://www.griffith.edu.au/student-computing/available-software) – network analysis, topic modeling, sentiment analysis, named entity recognition available. 
 
 ### Platforms with prepared text and tools
 
