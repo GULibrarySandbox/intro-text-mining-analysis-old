@@ -32,10 +32,12 @@ Machine learning is a branch of AI and process of teaching a computer system to 
 
 ## Common computational analysis tasks
 
+There are many analysis or exploratory tasks that can be undertaken by computational methods, explore them further below. 
+
 {% include figure.html img="TextAnalysisTasks.PNG" alt="Text analysis tasks" caption="Text analysis tasks" width="100%" %}
 Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017, September). Visual text analysis in digital humanities. In Computer Graphics Forum (Vol. 36, No. 6, pp. 226-250) [https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873](https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873)
 
-Analysing similar text patterns:
+####Text pattern analysis
 
 | Linguistic patterns | such a word frequency analysis which is useful for historical exploration of language as well as topic identification |
 | Collocation | words commonly appearing near each other |
