@@ -39,15 +39,15 @@ Machine learning is a branch of AI and process of teaching a computer system to 
 Explore some common analysis that can be undertaken by computational methods. 
 
 {% include figure.html img="TextAnalysisTasks.PNG" alt="Text analysis tasks" caption="Text analysis tasks" width="100%" %}
-Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017, September). Visual text analysis in digital humanities. In Computer Graphics Forum (Vol. 36, No. 6, pp. 226-250) [https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873](https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873)
+Image Source: Jänicke, S. et. al.(2017)
 
 #### Text pattern analysis
 
-| Linguistic patterns | such a word frequency analysis which is useful for historical exploration of language as well as topic identification |
+| Linguistic patterns | ie. word frequency analysis which is useful for historical exploration of language as well as topic identification |
 | Collocation | words commonly appearing near each other |
 | Concordance | the contexts of a given word or set of words |
 | N-grams | common two-, three-, etc. word phrases |
-| Dictionary tagging | locating a specific set of words in texts |
+| Dictionary tagging | locates a specific set of words in texts |
 {:.table .table-bordered}
 
 #### Analysing one or a number of texts of interest
@@ -62,9 +62,9 @@ Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017
 
 Learn more about these methods and types of analysis from:
 - [Australian Text Analytics Platform Methods Guide](https://www.atap.edu.au/methods)
-- [Basic text processing. In An introduction to text mining by Ignatow et. al.](https://methods.sagepub.com/book/an-introduction-to-text-mining/i1237.xml)
-- Prof. Miriam Possner's [Topic Modelling online tutorials](http://miriamposner.com/classes/dh201w21/tutorials-guides/text-analysis/messing-around-with-the-topic-modeling-tool/) using the Topic Modelling Tool.
-- [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html) by Scott Weingart, written as an introduction for HASS scholars.
+- [Basic text processing. In An introduction to text mining](https://methods.sagepub.com/book/an-introduction-to-text-mining/i1237.xml)
+- Prof. Miriam Possner's [Topic Modelling online tutorials](http://miriamposner.com/classes/dh201w21/tutorials-guides/text-analysis/messing-around-with-the-topic-modeling-tool/)
+- [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html) an introduction for HASS scholars.
 - [Introduction to Sentiment analysis](https://www.youtube.com/watch?v=i4D5DZ5ZG-0) fun and informative video.
 
 ----
