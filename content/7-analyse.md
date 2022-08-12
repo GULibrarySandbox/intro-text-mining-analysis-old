@@ -62,7 +62,7 @@ Image Source: Jänicke, S. et. al.(2017)
 
 Learn more about these methods and types of analysis from:
 - [Australian Text Analytics Platform Methods Guide](https://www.atap.edu.au/methods)
-- [Basic text processing. In An introduction to text mining](https://methods.sagepub.com/book/an-introduction-to-text-mining/i1237.xml)
+- [Basic text processing](https://methods.sagepub.com/book/an-introduction-to-text-mining/i1237.xml)
 - Prof. Miriam Possner's [Topic Modelling online tutorials](http://miriamposner.com/classes/dh201w21/tutorials-guides/text-analysis/messing-around-with-the-topic-modeling-tool/)
 - [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html) an introduction for HASS scholars.
 - [Introduction to Sentiment analysis](https://www.youtube.com/watch?v=i4D5DZ5ZG-0) fun and informative video.
