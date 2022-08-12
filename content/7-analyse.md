@@ -17,15 +17,16 @@ Natural language processing (NLP) is the branch of artificial intelligence (AI) 
 
 These following Natural language processing tasks break down text into analysable parts:
 | NLP method | Description | Example |
-| Tokenization | splits the text into sentences and sentences into words; changes to lowercase and removes punctuation. | This is creates a 'bag of words' for analysis |
-| Stop word removal | using standard language stop word dictionaries which can be amended | the, and, it so, this, page, of.... | 
+| Tokenization |Splits the text into sentences and sentences into words; changes to lowercase and removes punctuation. | This is creates a 'bag of words' for analysis |
+| Stop word removal | Uses standard language stop word dictionaries which can be amended. | the, and, it so, this, page, of.... |
 | Lemmatization | Third person words are changes to first person and verbs in past and future tenses are change into present. | change, changing, changes, changed... to change |
 | Word stemming | Words are reduced to their root form. | victorious, victories, victory... to victor |
-| Special characters removed | characters that cannot be understood are removed. | * @ # ! >> |
-| Part-of-speech tagging | categorizing words in a text in correspondence with a particular part of speech. | Her (pronoun) hat (noun) is (verb) grey (adjective) |
-| Shallow parsing | chunking phrases from unstructured text | 
-| Syntactic parsing | finding structural relationships between words in a sentence | can identify a noun phrase as being formed by a determiner followed by an adjective followed by a noun |
+| Special characters removed | Characters that cannot be understood are removed. | * @ # ! >> |
+| Part-of-speech tagging | Categorises words in a text in correspondence with a particular part of speech. | Her (pronoun) hat (noun) is (verb) grey (adjective) |
+| Shallow parsing | Chunks phrases from unstructured text. | Identifies sentences, verb phrases, noun phrases |
+| Syntactic parsing | Finds structural relationships between words in a sentence. | Can for example identify a noun phrase as being formed by a determiner , followed by an adjective, followed by a noun. |
 {:.table .table-bordered}
+
 {% include figure.html img="BagOfWords.PNG" alt="Bag of words" caption="Natural Language Processing - tokenization" width="100%" %}
 
 #### Machine learning
@@ -50,11 +51,11 @@ Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017
 
 #### Analysing one or a number of texts of interest
 
-| Topic modeling | unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes. | [Example](https://doi.org/10.1111/faf.12399) |
-| Document classification | such as `Naive Bayes Classfication` uses machine learning to classify documents based on information in the text | used in Sentiment and other analysis. |
-| Sentiment analysis | used to determine whether text is positive, negative, or neutral. Used in research to see public sentiment, opinions, or emotions about products, ideas or policy, and can undertaken via NLP or machine learning. | Try the [Tweet Sentiment Visualization App](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/) from NC State University. | 
-| Network analysis | analysis of social or other structures comprising variables or actors (represented by nodes), and the relationships (edges) between the nodes | 
-| Named entity recognition | generates a list of people, places, dates, times, percentages, monetary terms [Illinois Library](https://hdl.handle.net/2142/102049). | 
+| Topic modeling | Unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes. | [Example](https://doi.org/10.1111/faf.12399) |
+| Document classification | Such as `Naive Bayes Classfication` uses machine learning to classify documents based on information in the text | Used in Sentiment and other analysis. |
+| Sentiment analysis | Used to determine whether text is positive, negative, or neutral. Used in research to see public sentiment, opinions, or emotions about products, ideas or policy, and can undertaken via NLP or machine learning. | Try the [Tweet Sentiment Visualization App](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/) from NC State University. | 
+| Network analysis | Analysis of social or other structures comprising variables or actors (represented by nodes), and the relationships (edges) between the nodes |  |
+| Named entity recognition | Generates a list of people, places, dates, times etc. | [Network Analysis 101](https://cphss.wustl.edu/methodsandstrategies/social-network-analysis/network-analysis-101/) |
 | Stylometry | statistical method of studying a linguistic style | used in forensic and attribution analysis. |
 {:.table .table-bordered}
 
