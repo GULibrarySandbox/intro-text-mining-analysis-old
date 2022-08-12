@@ -41,7 +41,7 @@ Analysing similar text patterns:
 | Collocation | words commonly appearing near each other |
 | Concordance | the contexts of a given word or set of words |
 | N-grams | common two-, three-, etc. word phrases |
-| Dictionary tagging` : locating a specific set of words in texts |
+| Dictionary tagging | locating a specific set of words in texts |
 {:.table .table-bordered}
 
 Analysing one or a number of texts of interest:
