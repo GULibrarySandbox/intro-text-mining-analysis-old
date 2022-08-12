@@ -15,14 +15,16 @@ Once the text is cleaned and formatted it can be computationally processed by a 
 
 Natural language processing (NLP) is the branch of artificial intelligence (AI) technology to train a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. Source: [Bell & Olavsrud, 2021](https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
 
-NLP tools break down text into analysable parts, these include:
-
--	Tokenization - Split the text into sentences and sentences into words.  Change to lowercase and remove punctuation.  This is creates a 'bag of words' for analysis
--	Part-of-speech tagging
--	Shallow parsing
--	Named entity extraction
--	Syntactic parsing (Tsuruoka, n.d.)
--	Stylometry: method of studying a linguistic style. 
+These following Natural language processing tasks break down text into analysable parts:
+| NLP method | Description | Example |
+| Tokenization | - Split the text into sentences and sentences into words.  Change to lowercase and remove punctuation. | This is creates a 'bag of words' for analysis |
+| Stop word removal | using standard language stop word dictionaries which can be amended | the, and, it so, this, page, of.... | 
+| Lemmatization | Third person words are changes to first person and verbs in past and future tenses are change into present. | change, changing, changes, changed... to change |
+| Word stemming | Words are reduced to their root form. | victorious, victories, victory... to victor |
+| Special characters removed | characters that cannot be understood are removed. | * @ # ! >> |
+| Part-of-speech tagging | categorizing words in a text in correspondence with a particular part of speech. | Her (pronoun) hat (noun) is (verb) grey (adjective) |
+| Shallow parsing | chunking phrases from unstructured text | 
+| Syntactic parsing | finding structural relationships between words in a sentence |  can identify a noun phrase as being formed by a determiner followed by an adjective followed by a noun | 
 
 {% include figure.html img="BagOfWords.PNG" alt="Bag of words" caption="Natural Language Processing - tokenization" width="100%" %}
 
@@ -32,7 +34,7 @@ Machine learning is a branch of AI and process of teaching a computer system to 
 
 ## Common computational analysis tasks
 
-There are many analysis or exploratory tasks that can be undertaken by computational methods, explore them further below. 
+Explore some common analysis that can be undertaken by computational methods. 
 
 {% include figure.html img="TextAnalysisTasks.PNG" alt="Text analysis tasks" caption="Text analysis tasks" width="100%" %}
 Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017, September). Visual text analysis in digital humanities. In Computer Graphics Forum (Vol. 36, No. 6, pp. 226-250) [https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873](https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873)
@@ -46,12 +48,14 @@ Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017
 | Dictionary tagging | locating a specific set of words in texts |
 {:.table .table-bordered}
 
-Analysing one or a number of texts of interest:
-- `Topic modeling` : unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes.  [Example](https://doi.org/10.1111/faf.12399)
-- `Document classification` such as `Naive Bayes Classfication` : machine learning to classify documents based on information in the text, used in Sentiment and other analysis.
-- `Sentiment analysis` : used to determine whether text is positive, negative, or neutral. Used in research to see public sentiment, opinions, or emotions about products, ideas or policy, and can undertaken via NLP or machine learning. Try the [Tweet Sentiment Visualization App](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/) from NC State University.
-- `Network analysis` : analysis of social or other structures comprising variables or actors (represented by nodes), and the relationships (edges) between the nodes.
-- `Named entity recognition` generates a list of people, places, dates, times, percentages, monetary terms [Illinois Library](https://hdl.handle.net/2142/102049).  
+#### Analysing one or a number of texts of interest
+| Topic modeling |  unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes. |   [Example](https://doi.org/10.1111/faf.12399) |
+| Document classification | such as `Naive Bayes Classfication` uses machine learning to classify documents based on information in the text | used in Sentiment and other analysis. |
+| Sentiment analysis |  used to determine whether text is positive, negative, or neutral. Used in research to see public sentiment, opinions, or emotions about products, ideas or policy, and can undertaken via NLP or machine learning. | Try the [Tweet Sentiment Visualization App](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/) from NC State University. | 
+| Network analysis | analysis of social or other structures comprising variables or actors (represented by nodes), and the relationships (edges) between the nodes | 
+| Named entity recognition | generates a list of people, places, dates, times, percentages, monetary terms [Illinois Library](https://hdl.handle.net/2142/102049).  | 
+| Stylometry | statistical method of studying a linguistic style | used in forensic and attribution analysis. |
+{:.table .table-bordered}
 
 Learn more about these methods and types of analysis from the [Australian Text Analytics Platform Methods Guide](https://www.atap.edu.au/methods).
 
