@@ -53,7 +53,7 @@ Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017
 #### Analysing one or a number of texts of interest
 
 | Topic modeling | Unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes. | [example of topic mapping for a literature review](https://doi.org/10.1111/faf.12399) |
-| Document classification | Such as `Naive Bayes Classfication` uses machine learning to classify documents based on information in the text | Used in Sentiment and other analysis. |
+| Document classification | Such as Naive Bayes Classfication uses machine learning to classify documents based on information in the text | Used in Sentiment and other analysis. |
 | Sentiment analysis | Used to determine whether text is positive, negative, or neutral. Used in research to see public sentiment, opinions, or emotions about products, ideas or policy, and can undertaken via NLP or machine learning. | Try the [Tweet Sentiment Visualization App](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/) from NC State University. | 
 | Network analysis | Analysis of social or other structures comprising variables or actors (represented by nodes), and the relationships (edges) between the nodes | [Network Analysis 101](https://cphss.wustl.edu/methodsandstrategies/social-network-analysis/network-analysis-101/) |
 | Named entity recognition | Generates a list of people, places, dates, times etc. | Used for text classification see [Booking.com example](https://booking.ai/named-entity-classification-d14d857cb0d5)|
@@ -63,6 +63,9 @@ Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017
 Learn more about these methods and types of analysis from:
 - [Australian Text Analytics Platform Methods Guide](https://www.atap.edu.au/methods)
 - [Basic text processing. In An introduction to text mining by Ignatow et. al.](https://methods.sagepub.com/book/an-introduction-to-text-mining/i1237.xml)
+- Prof. Miriam Possner's [Topic Modelling online tutorials](http://miriamposner.com/classes/dh201w21/tutorials-guides/text-analysis/messing-around-with-the-topic-modeling-tool/) using the Topic Modelling Tool.
+- [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html) by Scott Weingart, written as an introduction for HASS scholars.
+- [Introduction to Sentiment analysis](https://www.youtube.com/watch?v=i4D5DZ5ZG-0) fun and informative video.
 
 ----
 ##  Analysis tools
@@ -99,22 +102,12 @@ Plug and play tools let you add data and the software performs the computational
 {% capture text %}
 Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html) using [Voyant tools](https://voyant-tools.org/). Look at the results, think how you might use it for analysis and the limitations of the tool.{% endcapture %} {% include card.md header="Voyant tools activity" text=text %}
 
-### Coding for text analysis
+### Coding for text mining and analysis
 - [R](https://www.rstudio.com/products/rstudio/) & R Studio - network analysis, topic modeling, classification/clustering, named entity recognition, sentiment analysis 
 - [Python](https://www.python.org/) – network analysis, topic modeling, classification/clustering, named entity recognition, sentiment analysis
 
-----
 
-### Support and training 
-
-
-##### Learn about the methods
-
-- Prof. Miriam Possner's [Topic Modelling online tutorials](http://miriamposner.com/classes/dh201w21/tutorials-guides/text-analysis/messing-around-with-the-topic-modeling-tool/) using the Topic Modelling Tool.
-- [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html) by Scott Weingart, written as an introduction for HASS scholars.
-- [Introduction to Sentiment analysis](https://www.youtube.com/watch?v=i4D5DZ5ZG-0) fun and informative video.
-
-##### Learn coding for text mining and analysis
+##### Coding tutorials for text mining and analysis
 - [Beginner R & Python workshops](https://www.griffith.edu.au/eresearch-services/hacky-hour) are available from Griffith's eResearch services throughout the year. 
 - [Constellate tutorials](https://constellate-org.libraryproxy.griffith.edu.au/) a series of lessons to help you learn about programming in Python, text analysis, and the Constellate platform for JSTOR.
 - [Programming Historian](https://programminghistorian.org/en/lessons/)  novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching. These include lesons in R and Python. 
