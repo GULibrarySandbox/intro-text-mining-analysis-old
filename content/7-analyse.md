@@ -36,11 +36,13 @@ Machine learning is a branch of AI and process of teaching a computer system to 
 Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017, September). Visual text analysis in digital humanities. In Computer Graphics Forum (Vol. 36, No. 6, pp. 226-250) [https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873](https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873)
 
 Analysing similar text patterns:
-- `Linguistic patterns` such a word frequency analysis which is useful for historical exploration of language as well as topic identification
-- `Collocation` : words commonly appearing near each other
-- `Concordance` : the contexts of a given word or set of words
+| Linguistic patterns | such a word frequency analysis which is useful for historical exploration of language as well as topic identification |
+|Collocation | words commonly appearing near each other |
+| Concordance | the contexts of a given word or set of words |
+{:.table .table-bordered}
 - `N-grams` : common two-, three-, etc. word phrases
 - `Dictionary tagging` : locating a specific set of words in texts
+-
 
 Analysing one or a number of texts of interest:
 - `Topic modeling` : unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes.  [Example](https://doi.org/10.1111/faf.12399)
