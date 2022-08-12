@@ -30,7 +30,7 @@ NLP tools break down text into analysable parts, these include:
 Machine learning is a branch of AI and process of teaching a computer system to recognise patterns in text without explicit human programming. Machine learning can be either unsupervised (with minimal human intervention) or supervised (with more human intervention). Explore machine learning from [Heath, 2020](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/). Analysis using Machine learning includes topic modelling, and Naive Bayes Classification, which are detailed below.
 
 
-## Common types of Computational analysis tasks
+## Common computational analysis tasks
 
 {% include figure.html img="TextAnalysisTasks.PNG" alt="Text analysis tasks" caption="Text analysis tasks" width="100%" %}
 Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017, September). Visual text analysis in digital humanities. In Computer Graphics Forum (Vol. 36, No. 6, pp. 226-250) [https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873](https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873)
@@ -56,7 +56,7 @@ Learn more about these methods and types of analysis from the [Australian Text A
 
 ### Griffith University subscription software
 
-Login and installation required. Training available for Griffith researchers via [Researcher Education & Development](https://www.griffith.edu.au/research/research-services/researcher-education-development/workshop-calendar)
+Login and installation required. Training available for Griffith researchers via [Researcher Education & Development](https://www.griffith.edu.au/research/research-services/researcher-education-development/workshop-calendar).
 
 - [NVivo](https://www.griffith.edu.au/student-computing/available-software) - cluster analysis, phrase nets, tag clouds, and sentiment analysis available. 
 - [Leximancer](https://www.griffith.edu.au/student-computing/available-software) – network analysis, topic modeling, sentiment analysis, named entity recognition available. 
