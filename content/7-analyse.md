@@ -52,12 +52,12 @@ Image Source: Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017
 
 #### Analysing one or a number of texts of interest
 
-| Topic modeling | Unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes. | [Example](https://doi.org/10.1111/faf.12399) |
+| Topic modeling | Unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes. | [example of topic mapping for a literature review](https://doi.org/10.1111/faf.12399) |
 | Document classification | Such as `Naive Bayes Classfication` uses machine learning to classify documents based on information in the text | Used in Sentiment and other analysis. |
 | Sentiment analysis | Used to determine whether text is positive, negative, or neutral. Used in research to see public sentiment, opinions, or emotions about products, ideas or policy, and can undertaken via NLP or machine learning. | Try the [Tweet Sentiment Visualization App](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/) from NC State University. | 
-| Network analysis | Analysis of social or other structures comprising variables or actors (represented by nodes), and the relationships (edges) between the nodes |  |
-| Named entity recognition | Generates a list of people, places, dates, times etc. | [Network Analysis 101](https://cphss.wustl.edu/methodsandstrategies/social-network-analysis/network-analysis-101/) |
-| Stylometry | statistical method of studying a linguistic style | used in forensic and attribution analysis. |
+| Network analysis | Analysis of social or other structures comprising variables or actors (represented by nodes), and the relationships (edges) between the nodes | [Network Analysis 101](https://cphss.wustl.edu/methodsandstrategies/social-network-analysis/network-analysis-101/) |
+| Named entity recognition | Generates a list of people, places, dates, times etc. | Used for text classification see [Booking.com example](https://booking.ai/named-entity-classification-d14d857cb0d5)|
+| Stylometry | Statistical method of studying a linguistic style. | Used in forensic and attribution analysis. |
 {:.table .table-bordered}
 
 Learn more about these methods and types of analysis from:
