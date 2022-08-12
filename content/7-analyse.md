@@ -74,24 +74,23 @@ Learn more about these methods and types of analysis from:
 
 Login and installation required. Training available for Griffith researchers via [Researcher Education & Development](https://www.griffith.edu.au/research/research-services/researcher-education-development/workshop-calendar).
 
-- [NVivo](https://www.griffith.edu.au/student-computing/available-software) - cluster analysis, phrase nets, tag clouds, and sentiment analysis available. 
-- [Leximancer](https://www.griffith.edu.au/student-computing/available-software) – network analysis, topic modeling, sentiment analysis, named entity recognition available. 
+- [NVivo](https://www.griffith.edu.au/student-computing/available-software) : performs cluster analysis, phrase nets, tag clouds, and sentiment analysis. 
+- [Leximancer](https://www.griffith.edu.au/student-computing/available-software) : performs network analysis, topic modeling, sentiment analysis, and named entity recognition. 
 
 ### Platforms with prepared text and tools
 
 The virtual research environments below have been developed to support digital text scholarship.
-- [JSTOR text mining support](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/) for metadata, n-grams, and word counts for most articles and book chapters, and for all research reports and pamphlets available via Griffith University's subscription to JSTOR. Login required.
-- [Gale Digital Scholar Lab](http://libraryproxy.griffith.edu.au/login?url=https://infotrac.gale.com/itweb/griffith?db=DSLAB) for document clustering, named entity recognition, Ngrams, Parts of Speech, Sentiment Analysis, Topic Modelling all available via Griffith University's subscription. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data. Learn about it and Gale Primary Sources [here](https://sway.office.com/v4sYacFkErbH9HNo). Includes [online tutorials](https://go-gale-com.libraryproxy.griffith.edu.au/ps/helpCenter?userGroupName=griffith&inPS=true&nspage=true&prodId=DSLAB&docId=VJWVZS717322017). Login required. 
-- [Hathi Trust Research Center Analytics](https://analytics.hathitrust.org/) supports large-scale computational analysis of the digital library works to facilitate non-profit and educational research. Individual researchers can sign up for free with their Griffith email and use out of copyright materials and analysis tools.  
+- [JSTOR text mining support](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/) :  for metadata, n-grams, and word counts for most articles and book chapters, and for all research reports and pamphlets available via Griffith University's subscription to JSTOR. Login required.
+- [Gale Digital Scholar Lab](http://libraryproxy.griffith.edu.au/login?url=https://infotrac.gale.com/itweb/griffith?db=DSLAB) : for document clustering, named entity recognition, Ngrams, Parts of Speech, Sentiment Analysis, Topic Modelling all available via Griffith University's subscription. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data. Learn about it and Gale Primary Sources [here](https://sway.office.com/v4sYacFkErbH9HNo). Includes [online tutorials](https://go-gale-com.libraryproxy.griffith.edu.au/ps/helpCenter?userGroupName=griffith&inPS=true&nspage=true&prodId=DSLAB&docId=VJWVZS717322017). Login required. 
+- [Hathi Trust Research Center Analytics](https://analytics.hathitrust.org/) : supports large-scale computational analysis of the digital library works to facilitate non-profit and educational research. Individual researchers can sign up for free with their Griffith email and use out of copyright materials and analysis tools.  
 
 
-### Plug & Play open source (free) tools
+### Open source (free) tools
 
-Plug and play tools let you add data and the software performs the computational analysis. The majority of the tools are based on Python or R analysis codes. We can use these tools for simple data analysis and visulations, and they are really useful for exploratory analysis and getting an idea of what your data holds. Some are downloadable to your computer, others are web interfaces, each with their own benefits and limitations.
+The tools listed below enable users to import text data for computational processing and analysis without the need to learn to code. The majority of the tools are based on Python or R analysis codes. We can use these tools for simple or exploratory data analysis and some visulations. Some tools are downloadable to your computer, others are web interfaces, each with their own benefits and limitations.
 
-`Pro's` : easier to learn than coding, good for high level analysis
-
-`Cons` : can be inflexible, may not be good for deeper analysis, web based tools may not approprate for using with identifiable data.
+| Pro's | Cons |
+| Easier to learn than coding, good for high level analysis | Can be inflexible, may not be good for deeper analysis, web based tools may not approprate for using with identifiable data |
 
 - [Voyant Tools](https://voyant-tools.org/) web based online tool for frequency, distribution and collocation of terms, keywords in context, term clusters and more.
 - [Sentiment Analyzer](https://www.danielsoper.com/sentimentanalysis/default.aspx) web based tool for analysing one source at a time.
