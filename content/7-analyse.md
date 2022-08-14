@@ -104,8 +104,8 @@ The tools listed below enable users to undertake text analysis without the need 
 Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html) using [Voyant tools](https://voyant-tools.org/). Look at the results, think how you might use it for analysis and the limitations of the tool.{% endcapture %} {% include card.md header="Voyant tools activity" text=text %}
 
 ### Coding for text mining and analysis
-- [R](https://www.rstudio.com/products/rstudio/) & R Studio - network analysis, topic modeling, classification/clustering, named entity recognition, sentiment analysis 
-- [Python](https://www.python.org/) – network analysis, topic modeling, classification/clustering, named entity recognition, sentiment analysis
+- [R](https://www.rstudio.com/products/rstudio/) & [R Studio](https://www.rstudio.com/) : network analysis, topic modeling, classification/clustering, named entity recognition, sentiment analysis 
+- [Python](https://www.python.org/) : network analysis, topic modeling, classification/clustering, named entity recognition, sentiment analysis
 
 
 ##### Coding tutorials for text mining and analysis
