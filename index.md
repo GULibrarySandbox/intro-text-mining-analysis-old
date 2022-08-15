@@ -13,7 +13,7 @@ Learn steps to: 
 - Prepare:  explore useful processes and tools to prepare textual data for analysis
 - Analyse:  identify different types of analysis used to interrogate content and uncover new insights
 
-At the end of this workshop you should be able to:
+At the end of these lessons you should be able to:
 
 - Implement a basic workflow for researching with digital text  
 - Identify different types of textual data and usage considerations   
