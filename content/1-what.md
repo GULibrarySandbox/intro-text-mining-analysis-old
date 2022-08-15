@@ -22,7 +22,7 @@ All researchers regardless of discipline, methodology, or objective, can gain in
 
 Below is an example of an interactive visual exploration of Francis Bacon's network of associations, created by a group of researchers using computational methods of network analysis with text.  Explore it at [http://www.sixdegreesoffrancisbacon.com/](http://www.sixdegreesoffrancisbacon.com/).
 {% include figure.html img="SixDegreesFrancisBacon.png" alt="Francis Bacon Network visualisation" caption="Francis Bacon Network visualisation" width="100%" %}
-Source: [http://www.sixdegreesoffrancisbacon.com/](http://www.sixdegreesoffrancisbacon.com/).
+Source: [http://www.sixdegreesoffrancisbacon.com](http://www.sixdegreesoffrancisbacon.com)
 
 -----
 # Why use computational methods
