@@ -3,7 +3,7 @@ title: What
 nav: true
 ---
 
-# What is text mining and analysis - computational methods
+# What is text mining and analysis
 
 Text mining is the use of computational methods to extract data from collections of unstructured or semi-structured text. The goal of text mining is to discover & extract information or patterns hidden in text, often across large collections of text.  
 
@@ -25,7 +25,7 @@ Below is an example of an interactive visual exploration of Francis Bacon's netw
 Source:[http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network, 8/6/2021](http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network, 8/6/2021).
 
 -----
-# Why use computational methods with text
+# Why use computational methods
 
 Text is considered even in the 21st century, the main form for "communicating, discovering and processing information" (Sinclair and Rockwell, 2016).  Even popular non written forms of communication such as streamed videos are largely inaccessible without text-based searches of metadata such as title, description or creator, or from text within transcripts.  
 
