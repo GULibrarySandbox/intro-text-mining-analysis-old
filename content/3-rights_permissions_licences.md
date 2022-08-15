@@ -139,6 +139,6 @@ The level of permission you need to use and reuse research data depends on sever
 
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/2-why.html"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/2-how.html"><-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/4-build.html">NEXT --></a>
 </p>
