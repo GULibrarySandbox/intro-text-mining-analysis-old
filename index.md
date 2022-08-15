@@ -22,7 +22,7 @@ At the end of these lessons you should be able to:
 
 Download and play with software and datasets, do activities and watch videos to guide you through the lessons. 
 
-Want to text mine via webscraping?  Check out these [Web Scraping with Python](https://gu-eresearch.github.io/web_scraping_workshop/lessons) lessons.
+Want to text mine via webscraping?  Check out these [Web Scraping with Python](https://gu-eresearch.github.io/web_scraping_workshop/) lessons.
 
 {% include toc.html %}
 
