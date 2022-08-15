@@ -5,7 +5,7 @@ layout: default
 
 ## Introduction to text mining and analysis
 
-{% include figure.html img="wordsearch.png" alt="intro image here" caption="" width="25%" %}
+{% include figure.html img="wordsearch.png" alt="intro image here" caption="" width="50%" %}
 
 Learn steps to: 
 
