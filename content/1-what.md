@@ -7,7 +7,7 @@ nav: true
 
 Text mining is the use of computational methods to extract data from collections of unstructured or semi-structured text. The goal of text mining is to discover & extract information or patterns hidden in text, often across large collections of text.  
 
-There is a long research tradition in text analysis in the humanities and with the explosion in digital text, computational analysis methods have developed in fields including statistics, computer science, (computational) linguistics and library science.  [Distant reading](https://www.cambridge.org/core/journals/pmla/article/race-and-distant-reading/6646170D88722BB195E40D4352BCDA1A) (quantitative analysis) of a digitised text or corpus (text collection) is a well known humanities analysis method. 
+There is a long research tradition in text analysis in the humanities and with the explosion in digital text, computational analysis methods have developed in fields including statistics, computer science, (computational) linguistics and library science.  [Distant reading](https://www.cambridge.org/core/journals/pmla/article/race-and-distant-reading/6646170D88722BB195E40D4352BCDA1A) (quantitative analysis) of a digitised text or corpus (a text collection) is a well known humanities term for text mining and analysis methods. 
 
 All researchers regardless of discipline, methodology, or objective, can gain insights from text.
 - Communication scholars analyse [news texts](https://doi-org.libraryproxy.griffith.edu.au/10.1080/17524032.2015.1056542) and [social media feeds](https://doi-org.libraryproxy.griffith.edu.au/10.1080/13669877.2019.1673798)
