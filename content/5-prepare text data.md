@@ -1,10 +1,7 @@
 ---
-title: Prepare text data
+title: Prepare text
 nav: true
 ---
-
-![image](https://user-images.githubusercontent.com/42364968/170155378-7e7a9952-f36b-43cf-8ab5-6ba0826de422.png)
-
 
 # Prepare and format
 
