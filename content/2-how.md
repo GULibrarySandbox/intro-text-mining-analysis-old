@@ -47,7 +47,7 @@ The most common steps in the workflow include:
 - Analysing text using computational methods
 - Visualising text using computational methods
 
-Before exploring each of these activities, let's identify your ehtical obligations in the next lesson.
+Before exploring each of these activities, let's identify your ethical obligations in the next lesson.
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/1-what.html"><-- BACK</a> |
