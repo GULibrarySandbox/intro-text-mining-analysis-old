@@ -7,7 +7,7 @@ nav: true
 
 Text mining is the use of computational methods to extract data from collections of unstructured or semi-structured text. The goal of text mining is to discover & extract information or patterns hidden in text, often across large collections of text.  
 
-There is a long research tradition in text analysis in the humanities and with the explosion in digital text, computational analysis methods have developed in fields including statistics, computer science, (computational) linguistics, and library science.  [Distant reading](https://www.cambridge.org/core/journals/pmla/article/race-and-distant-reading/6646170D88722BB195E40D4352BCDA1A) (quantitative analysis) of a digitised text or corpus (text collection) is a well known humanities analysis method. 
+There is a long research tradition in text analysis in the humanities and with the explosion in digital text, computational analysis methods have developed in fields including statistics, computer science, (computational) linguistics and library science.  [Distant reading](https://www.cambridge.org/core/journals/pmla/article/race-and-distant-reading/6646170D88722BB195E40D4352BCDA1A) (quantitative analysis) of a digitised text or corpus (text collection) is a well known humanities analysis method. 
 
 All researchers regardless of discipline, methodology, or objective, can gain insights from text.
 - Communication scholars analyse [news texts](https://doi-org.libraryproxy.griffith.edu.au/10.1080/17524032.2015.1056542) and [social media feeds](https://doi-org.libraryproxy.griffith.edu.au/10.1080/13669877.2019.1673798)
@@ -22,7 +22,7 @@ All researchers regardless of discipline, methodology, or objective, can gain in
 
 Below is an example of an interactive visual exploration of Francis Bacon's network of associations, created by a group of researchers using computational methods of network analysis with text.  Explore it at [http://www.sixdegreesoffrancisbacon.com/](http://www.sixdegreesoffrancisbacon.com/).
 {% include figure.html img="SixDegreesFrancisBacon.png" alt="Francis Bacon Network visualisation" caption="Francis Bacon Network visualisation" width="100%" %}
-Source:[http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network, 8/6/2021](http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network, 8/6/2021).
+Source: [http://www.sixdegreesoffrancisbacon.com/](http://www.sixdegreesoffrancisbacon.com/).
 
 -----
 # Why use computational methods
@@ -39,7 +39,7 @@ Explore some of the reasons researchers use computational methods to analysis te
 - create [visual exploration](http://www.sixdegreesoffrancisbacon.com/) of text, see also image below
 - to undertake [statistical analysis](https://journals-sagepub-com.libraryproxy.griffith.edu.au/doi/pdf/10.1177/1532673X02030002003) of text{% endcapture %} {% include card.md header="Activity: explore why resaerchers use text mining and analysis methods" text=text %}
 
-Let's find out how the workflows of text mining and analysis work in the next lesson.
+Let's explore the workflows of text mining and analysis in the next lesson.
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/"><-- BACK</a> |
