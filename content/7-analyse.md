@@ -9,7 +9,7 @@ nav: true
 
 ### Processing methods
 
-Once the text is cleaned and formatted it can be computationally processed by a number of different methods, depending on your analysis needs. Explore some of popular the methods below. It is important to note that you will still need to make meaning of and from the results.
+Once the text is cleaned and formatted it can be computationally processed by a number of different methods, depending on your analysis needs. Explore some of popular the methods below. 
 
 #### Natural language processing (NLP) techniques
 
@@ -66,6 +66,11 @@ Learn more about these methods and types of analysis from:
 - Prof. Miriam Possner's [Topic Modelling online tutorials](http://miriamposner.com/classes/dh201w21/tutorials-guides/text-analysis/messing-around-with-the-topic-modeling-tool/)
 - [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html) an introduction for HASS scholars.
 - [Introduction to Sentiment analysis](https://www.youtube.com/watch?v=i4D5DZ5ZG-0) fun and informative video.
+
+{% capture text %}
+N.B. After computational processing and analysis, it is necessary to understand and making meaning from the results. {% endcapture %}{% include alert.md text=text color="alert" %} 
+
+
 
 ----
 ##  Analysis tools
