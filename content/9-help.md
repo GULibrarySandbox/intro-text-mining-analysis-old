@@ -18,6 +18,8 @@ Ignatow, G., & Mihalcea, R. (2018). Basic text processing. In An introduction to
 
 Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017, September). Visual text analysis in digital humanities. In Computer Graphics Forum (Vol. 36, No. 6, pp. 226-250) [https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873](https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873)
 
+Schreibman, S., Siemens, R. G., & Unsworth, J. (2016). A new companion to digital humanities (Ser. Blackwell companions to literature and culture, 93). Chichester, West Sussex, UK. Retrieved August 15, 2022, from INSERT-MISSING-URL.
+
 So, R., & Roland, E. (2020). Race and Distant Reading. PMLA/Publications of the Modern Language Association of America, 135(1), 59-73. doi:10.1632/pmla.2020.135.1.59
 
 Toon, E., Timmermann, C., & Worboys, M. (2016). Text-mining and the history of medicine: Big data, big questions? Medical History, 60(2), 294-296. https://doi.org/10.1017/mdh.2016.18 
