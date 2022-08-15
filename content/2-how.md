@@ -51,5 +51,5 @@ Before exploring each of these activities, let's identify your ehtical obligatio
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/1-what.html"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/3-build.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/3-rights_permissions_licences.html">NEXT --></a>
 </p>
