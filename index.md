@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-## Introduction to digital texts and tools
+## Introduction to text mining and analysis
 
 {% include figure.html img="wordsearch.png" alt="intro image here" caption="" width="25%" %}
 
@@ -21,6 +21,8 @@ At the end of these lessons you should be able to:
 - Choose the best tool for your dataset at each stage of the digital research process. 
 
 Download and play with software and datasets, do activities and watch videos to guide you through the lessons. 
+
+Want to text mine via webscraping?  Check out these [Web Scraping with Python](https://gu-eresearch.github.io/web_scraping_workshop/lessons) lessons.
 
 {% include toc.html %}
 
