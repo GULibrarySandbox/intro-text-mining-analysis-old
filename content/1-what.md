@@ -27,7 +27,7 @@ Source: [http://www.sixdegreesoffrancisbacon.com](http://www.sixdegreesoffrancis
 -----
 # Why use computational methods
 
-Text is considered even in the 21st century, the main form for "communicating, discovering and processing information" (Sinclair and Rockwell, 2016).  Even popular non written forms of communication such as streamed videos are largely inaccessible without text-based searches of metadata such as title, description or creator, or from text within transcripts.  
+Text is considered even in the 21st century, the main form for "communicating, discovering and processing information" [(Sinclair and Rockwell, 2016)](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/detail.action?docID=4093339).  Even popular non written forms of communication such as streamed videos are largely inaccessible without text-based searches of metadata such as title, description or creator, or from text within transcripts.  
 
 {% capture text %}
 Explore some of the reasons researchers use computational methods to analysis text:
