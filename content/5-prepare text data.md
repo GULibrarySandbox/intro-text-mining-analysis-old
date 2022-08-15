@@ -5,18 +5,16 @@ nav: true
 
 # Prepare and format
 
-Preparing and processing your data makes it consistent and machine readable for analysis. This process differs depending on what types and formats of files you are analysing.  
+Preparing and formating your data makes it consistent and machine readable for analysis. This process differs depending on the types and formats of files you are analysing.  
 
-## Preparation steps - cleaning and formatting your data 
-How you clean your data depends on what type of data you have. There are two main types of dataset used; sturctured, which takes the form of tabular data like in spreadsheet or a ledger and unstructured, which is free form text, such as diary entries, newpaper articles, letters and so on. 
+## Preparation steps - cleaning and formatting text data 
 
-For Structured data, broadly speaking, for resources to be clean, this means consistent data in each column, eg; consistent spelling and abreviations and as far as possible no blank spaces in the data sheets.
-For unstrucutred data this means the text is compuationally analysable, the tools will be able to read text but not images of text, pages are free of white space, pages of text must be free of images and the text needs to be clear and unobscured. 
+There can be a number of steps to clean then format text data depending on the type.  Interview data be in audio or video format. Correspondence may be handwritten on paper or in a digital format. Let's explore the different formats and preparation steps below.
 
 {% include figure.html img="Textformats1.jpg" alt="Text as data formats, Speech to text, Handwritten text, Printed text, Digital text" caption="Different text as data formats that need processing" width="100%" %}
 
 
-## Text as data - what does it include?
+## Text as data - what does it include
 
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
 | survey audio recordings | personal letters | books, journals, news articles, legislation, government reports | online databases & digital collections of published or primary sources...
@@ -26,10 +24,10 @@ For unstrucutred data this means the text is compuationally analysable, the tool
 | | scientific notes, annotations, field books | survey results | interview transcripts, survey results |
 {:.table .table-bordered}
 
-## Text as data - how to format?
+## Text as data - how to prepare
 
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
-| audio transcription, then cleaning | transcription, then cleaning | digitisation, transcription then cleaning | reformating, then cleaning |
+| audio transcription | transcription | digitisation, transcription | reformat to .txt |
 {:.table .table-bordered}
 
 {% capture text %}
@@ -40,7 +38,7 @@ Note: All text documents need to be formatted for machine readability. Machine r
 {% include alert.md text=text color="info" %}
 
 
-## Tools to prepare
+## Tools to prepare text
 
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
 | Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) | [Transkribus](https://readcoop.eu/transkribus/) | High quality scanner (then OCR recognition) | [OpenRefine](https://openrefine.org/) to create structure to text |
@@ -49,6 +47,9 @@ Note: All text documents need to be formatted for machine readability. Machine r
 |[Alveo](https://www.alveo.edu.au/)| | | [DigiVol](https://volunteer.ala.org.au/) for structured text 
 {:.table .table-bordered}
 
+## Clean the text
+
+No preparation tool will create perfect text.  Errors will be generated in the transcription or conversion processes. You may need to manually review and clean the text, correcting errors.   !!!!!*****
 
 
 ### Unstructured vs structured text and machine readibility
