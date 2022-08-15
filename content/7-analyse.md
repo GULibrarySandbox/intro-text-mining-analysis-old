@@ -51,6 +51,7 @@ Image Source: Jänicke, S. et. al.(2017)
 {:.table .table-bordered}
 
 #### Analysing one or a number of texts of interest
+
 | Method | Description | Example |
 | Topic modeling | Unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes. | [Topic mapping for a literature review](https://doi.org/10.1111/faf.12399) |
 | Document classification | Such as Naive Bayes Classfication uses machine learning to classify documents based on information in the text | Used in Sentiment analysis and [literature reviews](https://doi.org/10.1016/j.ins.2020.03.006). |
@@ -68,9 +69,7 @@ Learn more about these methods and types of analysis from:
 - [Introduction to Sentiment analysis](https://www.youtube.com/watch?v=i4D5DZ5ZG-0) fun and informative video.
 
 {% capture text %}
-N.B. After computational processing and analysis, it is necessary to understand and making meaning from the results. {% endcapture %}{% include alert.md text=text color="alert" %} 
-
-
+N.B. After computational processing and analysis, it is necessary to understand and making meaning from the results. {% endcapture %}{% include alert.md text=text color="info" %} 
 
 ----
 ##  Analysis tools
