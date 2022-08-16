@@ -69,7 +69,7 @@ Learn more about these methods and types of analysis from:
 - [Introduction to Sentiment analysis](https://www.youtube.com/watch?v=i4D5DZ5ZG-0) fun and informative video.
 
 {% capture text %}
-N.B. After computational processing and analysis, it is necessary to understand and making meaning from the results. {% endcapture %}{% include alert.md text=text color="info" %} 
+The data is now ready for the most important and interesting stage, your own analysis of the results. {% endcapture %}{% include alert.md text=text color="info" %} 
 
 ----
 ##  Analysis tools
