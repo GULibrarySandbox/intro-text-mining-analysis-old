@@ -28,12 +28,16 @@ There can be a number of steps to clean then format text data depending on the t
 | audio transcription | transcription | digitisation, transcription | reformat to .txt |
 {:.table .table-bordered}
 
-{% capture text %}
-Note: All text documents need to be formatted for machine readability. Machine readability means consistency of fonts, clear text, the removal of punctuation and white space and all other formatting or macros.
+### Text as data - how to clean
 
-`.txt`  is the best format as it is non-proprietary & used in text analysis tools.  
-`.pdf`  OCR processed format is accepted by some analysis tools.{% endcapture %}
-{% include alert.md text=text color="info" %}
+No preparation tool will create perfect text.  Errors will be generated in the transcription or conversion processes. You may need to manually review and clean the text, correcting typographical generated from scanned images of pages, misinterpretations of spoken words, and other transcription errors. Some programs are available to automate some cleaning processes such as Python, read about how to do this [from machinelearningmastery.com](https://machinelearningmastery.com/clean-text-machine-learning-python/). Some processing and analysis tools enable you to clean the text prior to analysis, such as Voyant tools. More on this in the next lesson. 
+
+### Text as data - how to format
+
+All text documents need to be formatted for machine readability by software programs or code.
+- `.txt` : is the best format as it is non-proprietary & used in text analysis tools.
+- `.csv` : is the best format for structured text data in spreadsheets and can be read by tools such as Nvivo  
+- `.pdf` : that has been OCR processed (not just an image, the text can be read by the software) is accepted by some analysis tools.
 
 
 ### Tools to prepare text
@@ -45,30 +49,23 @@ Note: All text documents need to be formatted for machine readability. Machine r
 |[Alveo](https://www.alveo.edu.au/)| | | [DigiVol](https://volunteer.ala.org.au/) for structured text 
 {:.table .table-bordered}
 
-## Clean the text
-
-No preparation tool will create perfect text.  Errors will be generated in the transcription or conversion processes. You may need to manually review and clean the text, correcting errors.   !!!!!*****
-
-
 ### Unstructured vs structured text and machine readibility
 
 Humans understand that language, and the text that represents it, is highly complex and full of structure. However text is often described as unstructured, when it does not fit easily into a database management system, or is not easily processed by a computer. 
-
-Unstructured text in this context may include text from narratives (books, articles etc.), interviews, survey responses with free text and more.  
-
-Structured text can include metadata from GLAM catalogues or finding aides, text in structured databases, possibly spreadsheets, even old ledgers and logbooks. 
+- Unstructured text may include text from narratives (books, articles etc.), interviews, survey responses with free text and more.  
+- Structured text can include metadata from GLAM catalogues or finding aides, text in structured databases, possibly spreadsheets, even old ledgers and logbooks. 
 
 There are different processes that need to be undertaken with structured vs unstructured text.
 
-### What to do with unstructured text
+### Unstructured text formats 
 - Text data must be free of white space to make it computationally readable.  
    For modern pdfs this no trouble, for older texts you might need to transcribe the data, or clean the data, as scanned text may read as an image.
 - All tools in the table above can be used for preparing unstructured text data and OpenRefine can help provide structure to unstructured text.
 - Unstructured text in file formats such as `.doc` , `.docx`, `.rtf` (rich text format) can be exported as `.txt` via Microsoft Word.
 
-### How to convert structured text formats
+### Structured text formats
 - spreadsheet data like an excel sheet, reformat as a `.csv` file 
-- file formats including `.xml`, `JSON`, `html`, import and convert using Microsoft Excel into `.csv` or `.txt` dlimited text file, in which a `tab` separates each field of text.
+- file formats including `.xml`, `JSON`, `html`, import and convert using Microsoft Excel into `.csv` or `.txt` delimited text file, in which a `tab` separates each field of text.
 
 ------
 
@@ -80,9 +77,10 @@ Finnane, M., & Piper, A. (2016). The Prosecution Project: Understanding the Chan
 
 {% include figure.html img="ProsectionProject_image_1.png" alt="Prosecution Project database" caption="Prosecution Project database" width="100%" %}
 
-----
+-----
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/4-build.html"><-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/6-analyse.html">NEXT --></a>
 </p>
+
