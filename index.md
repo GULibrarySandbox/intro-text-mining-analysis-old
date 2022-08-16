@@ -32,8 +32,7 @@ Learn steps to: 
 
 {% endcapture %}
 
-{% capture header %}{% include icon.html icon='mortarboard-fill' %} Learning outcomes{% endcapture %}
-{% include card.html header=header text=outcomes %}
+{% include card.html header="Learning outcomes" text=outcomes %}
 
 Download and play with software and datasets, do activities and watch videos to guide you through the lessons. 
 
