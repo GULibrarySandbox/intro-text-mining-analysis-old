@@ -3,6 +3,7 @@ title: Build
 topics: Building a dataset; Finding data; 
 nav: true
 ---
+
 # Building a dataset
 
 A dataset can be built either through finding and extracting existing data, collating resources or generating your own data. Building a dataset can be as simple as collecting PDFs from your literature search, or as complex as transribing handwritten texts and converting into a computational format.  Note that datasets in humanities research are also known as corpus. No matter how the dataset is created there are a few things that are required. The data needs to be clean and machine readable, and if you are using tabular or structured data, your dataset needs to be formatted consistently. 
@@ -19,13 +20,13 @@ Digitisation, Optical Character Recognition (OCR) processing, indexing, encoding
 
 If you cannot get the data you need from the guides above make an enquiry with the platform of interest. Companies may make their data available to researchers by agreement such as Twitter's Academic Research access service. Archives and other repositories will have links to the datasets that can be downloaded, as will Government webpages.  
 
-### Extracting data
+## Extracting data
 
-#### Searching and downloading
+### Searching and downloading
 
 A well used method of extracting data is by searching a GLAM catalogue and downloading the resources required. This is useful if searching for small quantities of text and the catalogue websites provide search help for users. When downloading resources, it is recommended you select text `.txt` file format or if this isn't possible `.pdf` format which is accepted by some analysis programs or can be OCR read. For example [TROVE text download options](https://trove.nla.gov.au/help/using-trove/downloading) provides `.txt` and `.pdf` format download instructions for different types of resources.
 
-#### Using an API to extract data
+### Using an API to extract data
 
 When using text data or gathering data from online sources you may need to use an Application Programming Interface (API), a software tool that allows two applications to talk to each other. In the case of collecting web data, it is a database that stores the webpages data and something that can read, display or store that data (i.e. a webbrowser, a programming language such as python or some other program on your computer, or a cloud based application).
 
@@ -48,12 +49,9 @@ The images below include example source materials like those used by the Prosecu
 
 {% include figure.html img="2021_ProsProjSources.png" alt="Sources of text for the Prosecution Project" caption="Sources of text for the Prosecution Project" width="100%" %}{% endcapture %} {% include card.md header="Case study - the Prosecution Project - finding sources" text=text %}
 
-
-
 ----
-{% capture alert %}*Note:* Be sure to cite any resource / dataset / corpus you use in your research.
-{% endcapture %}
-{% include alert.md text=alert color="warning" %}
+
+{% include alert.md text="*Note:* Be sure to cite any resource / dataset / corpus you use in your research." color="warning" %}
 
 
 ----

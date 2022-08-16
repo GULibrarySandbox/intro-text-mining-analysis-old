@@ -83,10 +83,9 @@ Finnane, M., & Piper, A. (2016). The Prosecution Project: Understanding the Chan
 
 {% include figure.html img="ProsectionProject_image_1.png" alt="Prosecution Project database" caption="Prosecution Project database" width="100%" %}
 
------
+----
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/4-build.html"><-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/6-analyse.html">NEXT --></a>
 </p>
-

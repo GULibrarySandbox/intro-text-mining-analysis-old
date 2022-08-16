@@ -3,13 +3,17 @@ title: Prepare Audio & Video
 topics: Interview transcription
 nav: true
 ---
-## Video and Audio data 
-![image](https://user-images.githubusercontent.com/42364968/169417549-371d6781-7efd-4f03-b2a3-49c30f46de34.png)
 
+# Video and Audio data 
 
-The preparation of video and audio data is hugely important if you are analysing interview content, annotating sounds, recording the views and emotions of focus groups or note taking from video observations. 
+{% include figure.html img="old-cassettes" caption="A collection of analogue video cassettes" }
+
+<!-- ![image](https://user-images.githubusercontent.com/42364968/169417549-371d6781-7efd-4f03-b2a3-49c30f46de34.png) -->
+
+The preparation of video and audio data is hugely important if you are analysing interview content, annotating sounds, recording the views and emotions of focus groups or note taking from video observations.
  
-How you prepare this data depends on what you are analysing for, if you are preparing interviews, you will need to transcribe the audio to text. 
+How you prepare this data depends on what you are analysing for, if you are preparing interviews, you will need to transcribe the audio to text.
+
 If you are analysing the sounds, such as accents or pronounciations of words, you will need to make sure the sound file is clear and unblemished and have a clear set of annotations to describe each sound. 
 
 ### Interview transcription
