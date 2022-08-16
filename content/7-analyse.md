@@ -121,8 +121,9 @@ Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content
 - [Language Technology and Data Analysis Laboratory (LADAL) Tutorials](https://ladal.edu.au/tutorials.html) provides online text analysis tutorials in R.
 
 {% capture text %}
-Note: Refer to software used for your research in methods notes and attributed software developers by citation e.g. 
-- Sinclair, Stéfan and Geoffrey Rockwell, 2016. *Voyant Tools*. Web. http://voyant-tools.org/.{% endcapture %}{% include alert.md text=text color="info" %} 
+Note: Refer to software used for your research in methods notes. Attribute software developers by citation e.g. 
+
+Sinclair, Stéfan and Geoffrey Rockwell, 2016. *Voyant Tools*. Web. http://voyant-tools.org/.{% endcapture %}{% include alert.md text=text color="info" %} 
 
 -----
 
