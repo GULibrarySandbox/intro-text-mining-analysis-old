@@ -8,11 +8,11 @@ nav: true
 
 Preparing and formating your data makes it consistent and machine readable for analysis. This process differs depending on the types and formats of files you are analysing.  
 {% include figure.html img="Textformats1.jpg" alt="Text as data formats, Speech to text, Handwritten text, Printed text, Digital text" caption="Different text as data formats that need processing" width="100%" %}
-## Preparation steps - cleaning and formatting text data 
+## Preparation steps
 
-There can be a number of steps to clean then format text data depending on the type.  Interview data be in audio or video format. Correspondence may be handwritten on paper or in a digital format. Let's explore the different formats and preparation steps below.
+There can be a number of steps to prepare, clean, then format text data depending on its type.  Interview data may be in audio or video format and require transcription. Correspondence may be handwritten on paper or in a digital format as a scanned image. Let's explore the different formats and preparation steps below.
 
-### Text as data - what does it include
+### Types of text data
 
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
 | survey audio recordings | personal letters | books, journals, news articles, legislation, government reports | online databases & digital collections of published or primary sources...
@@ -22,25 +22,13 @@ There can be a number of steps to clean then format text data depending on the t
 | | scientific notes, annotations, field books | survey results | interview transcripts, survey results |
 {:.table .table-bordered}
 
-### Text as data - how to prepare
+### How to prepare text data
 
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
 | audio transcription | transcription | digitisation, transcription | reformat to .txt |
 {:.table .table-bordered}
 
-### Text as data - how to clean
-
-No preparation tool will create perfect text.  Errors will be generated in the transcription or conversion processes. You may need to manually review and clean the text, correcting typographical generated from scanned images of pages, misinterpretations of spoken words, and other transcription errors. Some programs are available to automate some cleaning processes such as Python, read about how to do this [from machinelearningmastery.com](https://machinelearningmastery.com/clean-text-machine-learning-python/). Some processing and analysis tools enable you to clean the text prior to analysis, such as Voyant tools. More on this in the next lesson. 
-
-### Text as data - how to format
-
-All text documents need to be formatted for machine readability by software programs or code.
-- `.txt` : is the best format as it is non-proprietary & used in text analysis tools.
-- `.csv` : is the best format for structured text data in spreadsheets and can be read by tools such as Nvivo  
-- `.pdf` : that has been OCR processed (not just an image, the text can be read by the software) is accepted by some analysis tools.
-
-
-### Tools to prepare text
+### Tools to prepare text data
 
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
 | Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) | [Transkribus](https://readcoop.eu/transkribus/) | High quality scanner (then OCR recognition) | [OpenRefine](https://openrefine.org/) to create structure to text |
@@ -48,6 +36,17 @@ All text documents need to be formatted for machine readability by software prog
 | [Griffith's Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) | MS Word, google docs or equivalent | | [Adobe Acrobat Pro DC](https://intranet.secure.griffith.edu.au/computing/software) (staff) OCR recognition |
 |[Alveo](https://www.alveo.edu.au/)| | | [DigiVol](https://volunteer.ala.org.au/) for structured text 
 {:.table .table-bordered}
+
+### How to clean text
+
+No preparation tool will create perfect text.  Errors will be generated in the transcription or conversion processes. You may need to manually review and clean the text, correcting typographical generated from scanned images of pages, misinterpretations of spoken words, and other transcription errors. Some programs are available to automate some cleaning processes such as Python, read about how to do this [from machinelearningmastery.com](https://machinelearningmastery.com/clean-text-machine-learning-python/). Some processing and analysis tools enable you to clean the text prior to analysis, such as Voyant tools. More on this in the next lesson. 
+
+### How to format text
+
+All text documents need to be formatted for machine readability by software programs or code.
+- `.txt` : is the best format as it is non-proprietary & used in text analysis tools.
+- `.csv` : is the best format for structured text data in spreadsheets and can be read by tools such as Nvivo  
+- `.pdf` : that has been OCR processed (not just an image, the text can be read by the software) is accepted by some analysis tools.
 
 ### Unstructured vs structured text and machine readibility
 
@@ -57,13 +56,13 @@ Humans understand that language, and the text that represents it, is highly comp
 
 There are different processes that need to be undertaken with structured vs unstructured text.
 
-### Unstructured text formats 
+#### Unstructured text formats 
 - Text data must be free of white space to make it computationally readable.  
    For modern pdfs this no trouble, for older texts you might need to transcribe the data, or clean the data, as scanned text may read as an image.
 - All tools in the table above can be used for preparing unstructured text data and OpenRefine can help provide structure to unstructured text.
 - Unstructured text in file formats such as `.doc` , `.docx`, `.rtf` (rich text format) can be exported as `.txt` via Microsoft Word.
 
-### Structured text formats
+#### Structured text formats
 - spreadsheet data like an excel sheet, reformat as a `.csv` file 
 - file formats including `.xml`, `JSON`, `html`, import and convert using Microsoft Excel into `.csv` or `.txt` delimited text file, in which a `tab` separates each field of text.
 
