@@ -39,7 +39,7 @@ There can be a number of steps to prepare, clean, then format text data dependin
 
 ### How to clean text
 
-No preparation tool will create perfect text.  Errors will be generated in the transcription or conversion processes. You may need to manually review and clean the text, correcting typographical generated from scanned images of pages, misinterpretations of spoken words, and other transcription errors. Some programs are available to automate some cleaning processes such as Python, read about how to do this [from machinelearningmastery.com](https://machinelearningmastery.com/clean-text-machine-learning-python/). Some processing and analysis tools enable you to clean the text prior to analysis, such as Voyant tools. More on this in the next lesson. 
+No preparation tool will create perfect text.  Errors will be generated in the transcription or conversion processes. You may need to manually review and clean the text, correcting errors generated from OCR (Optical character recognition) of scanned images of pages, misinterpretations of spoken words, and other transcription errors. Some programs are available to automate some cleaning processes such as Python, read about how to do this [from machinelearningmastery.com](https://machinelearningmastery.com/clean-text-machine-learning-python/). Some processing and analysis tools enable you to clean the text prior to analysis, such as Voyant tools. More on this in the next lesson. 
 
 ### How to format text
 
