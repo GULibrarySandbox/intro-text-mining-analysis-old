@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-## Introduction to text mining and analysis
+# Introduction to text mining and analysis
 
 {% include figure.html img="wordsearch.png" alt="intro image here" caption="" width="50%" %}
 
@@ -34,17 +34,11 @@ In this self-paced workshop you will learn steps to: 
 
 {% include card.md header="Learning outcomes" text=outcomes %}
 
-Download and play with software and datasets, do activities and watch videos to guide you through the lessons. 
+Download and play with software and datasets, do activities and watch videos to guide you through the lessons.
 
 Want to text mine via webscraping?  Check out these [Web Scraping with Python](https://gu-eresearch.github.io/web_scraping_workshop/) lessons.
 
 {% include toc.html %}
-
-All materials in these lessons are licenced [CC BY](https://creativecommons.org/licenses/by/4.0/).
-
-Add other acknowledgements ... here.
-
-Hosted by [Griffith University Library](https://www.griffith.edu.au/library), {{ site.pub_year }}.
   
 ------
 
