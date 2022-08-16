@@ -32,7 +32,7 @@ Learn steps to: 
 
 {% endcapture %}
 
-{% include card.html header="Learning outcomes" text=outcomes %}
+{% include card.md header="Learning outcomes" text=outcomes %}
 
 Download and play with software and datasets, do activities and watch videos to guide you through the lessons. 
 
