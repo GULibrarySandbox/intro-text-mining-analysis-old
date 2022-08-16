@@ -1,5 +1,6 @@
 ---
 title: Visualise
+topics: Requirements; Types of visualisations; 
 nav: true
 ---
 ### Visualisation methods and tools
@@ -44,9 +45,6 @@ With unstrucutred data, generally prose, articles, diary entries and alike, <a h
 For mapping data we can use tools such as <a href='https://aurin.org.au/' target='_blank'>AURIN </a>, and even google earth. For Aurin you will need structured datasets with coordinates. 
 
 - other data types 
-
-
-
 
 {% capture text %}
 - .{% endcapture %} {% include card.md header="Activity - ..." text=text %}

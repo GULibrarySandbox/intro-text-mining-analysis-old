@@ -1,5 +1,6 @@
 ---
 title: What
+topics: What is text mining; Why use it
 nav: true
 ---
 

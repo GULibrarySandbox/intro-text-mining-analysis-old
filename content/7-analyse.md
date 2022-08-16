@@ -1,5 +1,6 @@
 ---
 title: Analyse
+topics: Processing methods; NLP; Common tasks; Useful tools; Useful platforms; Codings
 nav: true
 ---
 

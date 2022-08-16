@@ -1,5 +1,6 @@
 ---
 title: Prepare text
+topics: Prepare and format; Useful tools; Cleaning text
 nav: true
 ---
 

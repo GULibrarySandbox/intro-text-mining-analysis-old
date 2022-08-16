@@ -7,7 +7,7 @@ layout: default
 
 {% include figure.html img="wordsearch.png" alt="intro image here" caption="" width="50%" %}
 
-Learn steps to: 
+In this self-paced workshop you will learn steps to: 
 
 - Build:    find where and how to gather textual data for your corpus or data set  
 - Prepare:  explore useful processes and tools to prepare textual data for analysis

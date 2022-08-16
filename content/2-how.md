@@ -1,5 +1,6 @@
 ---
 title: How
+topics: Activities; Considerations; Workflow steps
 nav: true
 ---
 # How - the steps in text mining and analysis
