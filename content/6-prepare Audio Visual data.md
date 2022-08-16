@@ -6,7 +6,7 @@ nav: true
 
 # Video and Audio data 
 
-{% include figure.html img="old-cassettes" caption="A collection of analogue video cassettes" }
+{% include figure.html img="old-cassettes" caption="A collection of analogue video cassettes" %}
 
 <!-- ![image](https://user-images.githubusercontent.com/42364968/169417549-371d6781-7efd-4f03-b2a3-49c30f46de34.png) -->
 
