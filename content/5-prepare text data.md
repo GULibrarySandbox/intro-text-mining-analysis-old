@@ -8,14 +8,13 @@ nav: true
 
 Preparing and formating your data makes it consistent and machine readable for analysis. This process differs depending on the types and formats of files you are analysing.  
 
+{% include figure.html img="Textformats1.jpg" alt="Text as data formats, Speech to text, Handwritten text, Printed text, Digital text" caption="Different text as data formats that need processing" width="100%" %}
+
 ## Preparation steps - cleaning and formatting text data 
 
 There can be a number of steps to clean then format text data depending on the type.  Interview data be in audio or video format. Correspondence may be handwritten on paper or in a digital format. Let's explore the different formats and preparation steps below.
 
-{% include figure.html img="Textformats1.jpg" alt="Text as data formats, Speech to text, Handwritten text, Printed text, Digital text" caption="Different text as data formats that need processing" width="100%" %}
-
-
-## Text as data - what does it include
+### Text as data - what does it include
 
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
 | survey audio recordings | personal letters | books, journals, news articles, legislation, government reports | online databases & digital collections of published or primary sources...
@@ -25,7 +24,7 @@ There can be a number of steps to clean then format text data depending on the t
 | | scientific notes, annotations, field books | survey results | interview transcripts, survey results |
 {:.table .table-bordered}
 
-## Text as data - how to prepare
+### Text as data - how to prepare
 
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
 | audio transcription | transcription | digitisation, transcription | reformat to .txt |
@@ -39,7 +38,7 @@ Note: All text documents need to be formatted for machine readability. Machine r
 {% include alert.md text=text color="info" %}
 
 
-## Tools to prepare text
+### Tools to prepare text
 
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
 | Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) | [Transkribus](https://readcoop.eu/transkribus/) | High quality scanner (then OCR recognition) | [OpenRefine](https://openrefine.org/) to create structure to text |
