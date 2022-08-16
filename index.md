@@ -13,12 +13,27 @@ Learn steps to: 
 - Prepare:  explore useful processes and tools to prepare textual data for analysis
 - Analyse:  identify different types of analysis used to interrogate content and uncover new insights
 
-At the end of these lessons you should be able to:
+<!-- At the end of these lessons you should be able to:
 
 - Implement a basic workflow for researching with digital text  
 - Identify different types of textual data and usage considerations   
 - Find textual data for digital analysis  
-- Choose the best tool for your dataset at each stage of the digital research process. 
+- Choose the best tool for your dataset at each stage of the digital research process.  -->
+
+{% capture outcomes %}
+
+| At the end of these lessons you should be able to: |
+| -----|
+|**Implement** a basic workflow for researching with digital text; |
+| **Identify** different types of textual data and usage considerations; |
+| **Find** textual data for digital analysis, and; |
+| **Choose** the best tool for your dataset at each stage of the digital research process. |
+{:.table}
+
+{% endcapture %}
+
+{% capture header %}{% include icon.html icon='mortarboard-fill' %} Learning outcomes{% endcapture %}
+{% include card.html header=header text=outcomes %}
 
 Download and play with software and datasets, do activities and watch videos to guide you through the lessons. 
 
